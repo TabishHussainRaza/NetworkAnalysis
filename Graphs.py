@@ -1,3 +1,8 @@
+!pip install plotly numpy spacy networkx pyvis streamlit pandas textblob matplotlib
+
+python -m spacy download en_core_web_sm
+
+
 import plotly.graph_objects as go
 import numpy as np
 import spacy
