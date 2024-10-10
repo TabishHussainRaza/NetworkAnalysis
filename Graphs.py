@@ -1,4 +1,4 @@
-!pip install plotly numpy spacy networkx pyvis streamlit pandas textblob matplotlib
+pip install plotly numpy spacy networkx pyvis streamlit pandas textblob matplotlib
 
 python -m spacy download en_core_web_sm
 
