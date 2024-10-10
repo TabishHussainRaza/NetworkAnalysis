@@ -307,13 +307,13 @@ def main():
 
         # Initialize combined sentiment data
         color_map = {
-            'Solar': 'blue',      # Use blue for Solar
-            'Nuclear': 'red'      # Use red for Nuclear
+            'Solar': 'lightblue',      # Use blue for Solar
+            'Nuclear': '#9467bd'      # Use red for Nuclear
         }
 
         color_map_second = {
-            'Solar': 'green',      # Use blue for Solar
-            'Nuclear': 'yellow'      # Use red for Nuclear
+            'Solar': 'lightgreen',      # Use blue for Solar
+            'Nuclear': 'brown'      # Use red for Nuclear
         }
 
         combined_sentiment_data = []
@@ -338,7 +338,7 @@ def main():
             x="Country",
             y="Polarity",
             color="Energy Type",
-            color_discrete_map=color_map, 
+            color_discrete_map=color_map,
             barmode="group",
             title="Sentiment Polarity by Country and Energy Type",
             labels={"Polarity": "Polarity"}
@@ -349,7 +349,7 @@ def main():
             x="Country",
             y="Subjectivity",
             color="Energy Type",
-            color_discrete_map=color_map_second, 
+            color_discrete_map=color_map_second,
             barmode="group",
             title="Sentiment Subjectivity by Country and Energy Type",
             labels={"Subjectivity": "Subjectivity"}
