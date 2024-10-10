@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+      The way forward for solar in France
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+              
+                My Solarplaza
+              
+            
+
+
+
+
+Network
+Resources
+Events
+About
+Newsletters
+
+
+
+
+
+
+
+
+ Close
+          
+
+
+
+
+Network
+
+
+Resources
+
+
+Events
+
+
+About
+
+
+Newsletters
+
+
+
+ 
+              
+                My Solarplaza
+              
+            
+
+
+
+
+
+
+
+
+
+Article
+              
+21 July 2020
+
+Bookmark
+
+
+
+
+Solar PV
+Project Development
+Commercial & Industrial (C&I)
+Utility-scale
+PPA
+
+
+
+The way forward for solar in France
+Author: Marco Dorothal
+
+
+
+
+
+
+
+The French energy sector is going through a pivotal point at the moment. As the country moves away from nuclear and fossil fuels towards renewables, many problems are arising. The arrival of Covid-19 has also not been helpful for the deployment of renewable energy systems, especially for solar PV. As a result, France has only added 176 MW of solar PV capacity in the first quarter of 2020, which is 15% lower than during the last quarter of 2019. Despite this drop, the potential for solar energy development is still at an all-time high thanks to the success of the French government’s renewable energy tenders. In order to assess what the future holds for solar in France, Solarplaza reached out to different industry leaders to discuss the way forward for solar in France.
+Solar’s system
+The development of solar PV in France is supported by renewable energy tenders through a contract-for-difference system (“Complément de Rémunération''). This system, similar to the structure used in other European countries, entails that energy producers are given 20-year contracts at a price that compensates them for the difference between the market price and the tariff proposed by the producer in the dedicated tender.
+So far, tenders have proven to be a good method to spur the development of both medium- and large-scale power plants in France. The country’s latest auction is a good example of that where more than 960 MW of capacity was allocated to solar projects, of which 649 MW was awarded to large-scale PV plants.
+The impact of tenders
+When asked about the success of the country’s tender scheme, French renewables developer Neoen stated that the current tender system seems to be efficient and effective for both the government and developers.
+From the public authority’s point of view, the tender scheme makes it possible to direct the deployment of PV systems on different types of surfaces (e.g., favouring “degraded” sites), while limiting the financial burden on the state through the additional remuneration scheme. Neoen has identified this opportunity and directs a large part of its development towards degraded or brownfield sites since the development of solar projects on these types of sites are encouraged by the public authorities. Also, it makes sense by the very nature of the sites, which have little use for other purposes.
+From the developer’s point of view, it provides medium-term visibility (call for tenders over several years), while making it easy to secure financing (20-year tariffs). If costs continue to fall as expected, France will have a system where projects will not cost the state anything, but will be set within a solid framework allowing them to be financed easily with a lower cost of capital. Therefore, ultimately with a lower electricity price. This will require the state to expand the land eligible for these tenders, which currently focuses on degraded land or land without clearing.
+According to Olivier Carré, President of Amarenco, the state support being given to the French PV market in the form of tenders will enable the market to achieve the energy mix objectives (44 GW of solar by 2028). However, he adds that the current tender scheme should only apply to projects larger than 1 MW to free up some of the market and speed up the process. Under this threshold, Carré believes that tenders are too constraining.
+French developer, CNR, states that for smaller projects, complicated projects (e.g. on polluted ground, complex topography, expensive grid connection etc.), or projects located in the north of France, tenders are still necessary. But then the question is: for how long? The answer will depend on the progress of PV technologies and the evolution of energy prices.
+CNR further adds that the current PV projects will be subject to a negative Complément de Rémunération, because producers run the risk that market prices will exceed the tariff that they proposed during the tenders. As a result, developers are forced to look beyond the tender scheme for financing of large-scale projects.
+Making way for PPAs
+As ground-mounted solar projects in France are approaching market parity quickly, some large projects are already being developed outside of the tender scheme without the need for a  contract-for-difference. Most European PV markets that have reached market parity opt for power purchase agreements (PPAs) as the main method of choice of financing as they provide long-term contracts with direct consumers. In France, the situation is no different.
+"In fact, there is an increasing demand from corporates to consume the electricity of a specific renewable plant [in France]. CNR has two key strengths to play a role in this market in the coming years: an important PV project pipeline, both in-house and through third-parties, and the capacity to deliver hydroelectricity to the corporate when the PV plant is not producing. CNR could then secure a 100% renewable sourcing."
+Recently, solar PPAs have started to pop up all across France, from rooftop airport projects to large ground-mounted plants. This is a good indicator that solar energy is now a competitive energy source in France. One of those PPAs was signed by ENGIE for a 18 MW solar plant in south-western France, which is scheduled to start operations in 2021. All of the electricity generated by the plant -estimated at 25 GWh/year- will be sold directly to ENGIE’s customers. 
+However, due to different market drivers, ENGIE is currently in a bearish mood on the French power market. Nevertheless, PPAs can offer the financing solutions necessary for projects affected by the decrease in market prices.
+“Even if the falling prices can only be observed on the liquid forward power curve (up to 3 years-ahead), it will still have a deep impact on the long-term price for PPAs.” - Jonathan Vausort, Global Energy Management - Business Developer at ENGIE
+Looking ahead, both the private and the public sectors still have a long way to go if they want to push solar to the next level. Carré notes that the French authorities must put their focus on three main elements: simplifying procedures, increasing tender thresholds and regionalizing tariffs. Additionally, the French PV market should also support intermediaries actors and encourage associations between companies of different sizes. 
+Furthermore, he adds that the development of large-scale self-consumption systems or commercial & industrial rooftop arrays have immense potential for the French PV market. In his view, PV could be a windfall to encourage and fund the decontamination of sites and roofs (e.g. asbestos). The opportunity for these types of systems to be deployed is constantly growing as more and more of them are being developed through private PPAs.
+“I think that France has a good future in solar energy. The installation of on-shore wind turbines is restrained, so solar appears to be a good solution for France’s energy mix, particularly as the French government is looking to decrease its consumption of nuclear energy. The main challenge will be to find the right balance between large-scale solar installations and the safeguard of agricultural land.” - Olivier Carré, President of Amarenco
+
+
+
+
+
+
+
+
+
+
+
+                This article was created in preparation for Solarplaza Summit France. Be the first to know when the new edition will be held by signing up for updates.
+              
+            
+
+
+
+Main references:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional sources
+Bird & Bird. 2019. Corporate PPAs - An international perspective.
+https://energie-en-lumiere.fr/wp-content/uploads/2019/12/InternationalCorporatePPAReport09_19.pdf
+ENGIE. December 2019. ENGIE has launched a global solution making it easier for its customers to directly access renewable electricity.
+https://www.engie-solutions.com/en/news/renewable-electricity
+Spaes, Joël. April 2019. France awards 960 MW of solar through different tenders.
+https://www.pv-magazine.com/2020/04/02/france-tenders-960-mw-of-solar/
+Rollet, Catherine. May 2020. France added 176 MW of solar in first three months of the year.
+https://www.pv-magazine.com/2020/05/20/france-added-176-mw-of-solar-in-first-three-months-of-the-year/
+
+
+
+
+
+
+
+
+
+
+Services
+
+
+Events
+
+
+Academy
+
+
+Consultancy
+
+
+Foundation
+
+
+Events as a Service
+
+
+
+
+About
+
+
+Our team
+
+
+Careers
+
+
+Track Record
+
+
+Contact us
+
+
+
+
+Stay in touch
+
+
+Newsletters
+
+
+Press Releases
+
+
+
+
+
+
+
+Copyright © 2023 Solarplaza International
+
+
+Privacy Policy
+
+
+Cookie Policy
+
+
+Terms & Conditions
+
+
+
+
+
+
+
+
+
+Our cookies feed the sun
+
+            They let us give you a better experience, and help us improve our products.
+            We won’t turn them on unless you say yes!
+            After all it’s our business to accelerate the sustainable energy transition.
+          
+
+
+
+
+
+Necessary
+
+
+Ensure that our website functions properly. They cannot be disabled.
+
+
+
+Marketing
+
+
+Used to track visitors across our website and to display more relevant ads.
+
+
+
+Analytical
+
+
+Help us understand how visitors interact with our website.
+
+
+
+
+Customize
+Allow selection
+Reject all
+
+            Allow all cookies 
+
+
+
+
+
+
+
+
+
+
+
+
+You need to be logged in to bookmark content
+
+        Already have an account? Log in
+
+
+
+          Create free account 
+
+
+
+
+
+
+

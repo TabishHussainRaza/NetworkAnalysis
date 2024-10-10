@@ -1,0 +1,2545 @@
+3 
+FOREWORD  
+Foreword  
+The mission of the International Energy Agency (IEA) is to shape a secure and sustainable 
+energy future for all. We work with countries around the world on strengthening energy secu rity and reaching net zero emissions. Our in- depth reviews are an essential IEA tool 
+for providing insight and advice to governments on how to best achieve their energy and climate goals.  
+Since the last IEA review of Australia in 2018, the government has significantly raised its climate ambitions, with the 2022 Climate Change Act doubling the target for emissions 
+reductions by 2030 and setting the goal of reaching net zero emissions by 2050.  Australia  
+also signed up to the Global Methane Pledge in 2022, joining 1 30 governments  who are 
+collectively target ing a reduction in methane emissions of at least 30% by 2030 across all 
+sectors.  
+Since the last review, Australia has continued to achieve remarkable growth in solar PV 
+and now aims for clean electricity sources to account for over 80% of its power mix by 
+2030. To adapt to this change, Australia’s power system needs to quickly enhance its 
+flexibility through interconnections, storage and a diverse renewables portfolio. The 
+Government’s Powering Australia Plan and the Capacity Investment Scheme are 
+important initiatives in this regard.  
+Australia  remains a major exporter  of energy and of the critical minerals  that are used in 
+many clean energy technologies. It has sought to drive progress in the areas of  hydrogen, 
+critical minerals and resilient supply chains  – all essential pillars of our future energy 
+security and the global energy transition.  These priorities were reflected at the Sydney 
+Energy Forum  in 2022, which was co-hosted by the Australian Government and the IEA . 
+I would like to thank Prime Minister Anthony Albanese and Energy and Climate Minister 
+Chris Bowen for their leadership and engagement with the IEA on these issues.  
+I hope that the recommendations set out in this report will help the country accelerate its 
+energy system transformation while ensuring affordable and secure energy supplies.  
+ 
+Dr Fatih Birol  
+Executive Director  
+International Energy Agency  
+IEA. CC BY 4.0.
+
+1. EXECUTIVE SUMMARY  
+13 
+ENERGY INSIGHTS  spend 8% on fuel , but this has greatly increased since . Judging by the U nited Kingdom  
+fuel poverty definition (10% of lowest income households), energy poverty is becoming an 
+issue. 
+The critical importance of lowering energy bills has also been emphasised by the new 
+Australian Government’s election commitment to reduce consumer energy bills by 
+AUD  275 per household by 2025. The IEA’s 2022 Energy Efficiency Market Report  also 
+confirms how living in a more efficient home and driving a more efficient car can save consumers up to 70% of their household energy bill.  
+Towards a largely decarbonised power generation in 2030  
+Renewable energy has seen remarkable growth, meeting all incremental electricity 
+demand in the past decade thanks to the Commonwealth Large- scale Renewable Energy 
+Target and the state- based auctions.  Renewable electricity generation quadrupled 
+between 2000 and 2021, from 17.6 terawatt  hours ( TWh ) to 70.3 TWh , pushing up the 
+national share of renewables from 8% to 27% in electricity generation. Most of the growth 
+stems from solar photovoltaics ( PV), as high state- level targets and power purchase 
+agreements ( PPAs ) are driving the expansion of utility -scale renewables. At the household 
+level, Australia has the highest penetration in the world, with one in three households 
+having solar PV installations.  
+Up to 2027, the IEA forecasts Australia’s renewable energy capacity to expand by 85 % to 
+reach 40 gigawatts  (GW), thanks to the introduction of ambitious targets and increased 
+clean energy funding at federal and state levels, PPAs , and new projects announced in 
+the renewable energy zones (REZ). Provided Australia can accelerate the implementation 
+of the REZ and related grid projects alongside additional coal retirements, the IEA expects 57 GW of renewable electricity capacity to be achieved by 2027. This forecast also 
+includes Snowy Hydro add ing 2 GW by 2026 or 2027. Grid development and new wind 
+power deployment will require more community engagement and the work of the Energy 
+Infrastructure Commissioner is important in this regard. While commissioning lead times 
+decreased for onshore wind projects, they increased for distributed solar PV projects, notably due to the introduction of grid fees and higher system costs.  
+In the NEM, the Australian Electricity Market Operator (AEMO) expects renewable energy to account for 83% by 2030 as part of the Step Change Scenario, which is aligned with the 
+Australian G overnment ’s plans  of reaching 82% of renewables in the national electricity 
+mix. The Australian Government places an emphasis on promoting major infrastructure 
+investment to “rewire the nation ” and agreed under the NETP that an emissions reduction 
+goal would be enshrined into the National Electricity Objective alongside security, 
+competition and affordability objectives.  
+The NEM will see  a major energy system transformation, with a substantial loss of 
+dispatchable capacity in the coming decade. Changing generation economics and the age 
+of the plants are accelerating closure decisions. Lignite use in power generation is 
+expected to end in 2032, according to the AEMO. There is no clarity provided on the speed 
+of coal retirements. The AEMO’s Integrated System P lan ( ISP) expects 14 GW of the 
+23 GW current coal capacity in the NEM  to be retired by 2030, while coal plant owners 
+have so far announced the retirement of 8.4 GW. The Australian Government only requires 
+a minimum three- year notice from coal -fired power plant owners for plant closure.  
+IEA. CC BY 4.0.
+
+17 
+ENERGY INSIGHTS  
+2. General energy polic y 
+Key data  
+(2021)  
+TES: 5 439 PJ, +2.88% since 2010  
+TES by source : oil 32.3%, coal 31.6% , natural gas 27.7%, solar and wind 3.8%, bioenergy 
+and waste 3.6%, hydro 1%  
+Energy intensity per capita (TES/capita) : 213.4 GJ/capita in 2020 (IEA average: 
+160.3  GJ/capita); - 11% since 2010  
+Energy intensity per GDP (TES /GDP) : 5.4 MJ per 2015 USD PPP in 2020 (IEA average 
+4.7 MJ per USD); - 16.2% change since 2010  
+TFC: 3 307 PJ; +0.06% from 2011 to 2021  
+TFC by sector : transport 3 7.8%, industry 39.0 %, buildings 23. 2% 
+Country overview  
+Australia is a federation of six states (New South Wales, Queensland, South Australia, 
+Tasmania, Victoria and Western Australia) and two mainland  territories, the Australian 
+Capital Territory and the Northern Territory.   
+Australia is a parliamentary monarchy with King Charles III of the United Kingdom as head 
+of state. He is represented by the Governor -General of the Commonwealth of Australia, 
+His Excellency, General the Honourable David Hurley AC DSC (Retd) . The prime minister 
+leads the executive branch of  the Australian Government . The legislative branch is 
+composed of the House of Representatives and the Senate, together making the Australian parliament . The judicial branch consists of the Commonwealth, state and 
+territory courts. In the 2022 federal election, held on 23 May 2022, the Australian Labor 
+Party came to power with the Honourable Anthony  Albanese as p rime minister of Australia 
+and the Honourable Chris  Bowen MP as Minister for Climate Change and Energy.  
+Australia has seen constant population growth, reaching 25.7 million inhabitants in 2022. 
+Australia has a high GDP per capita and a relatively low poverty rate. The country’s GDP 
+grew for more than 20 years without a recession, achieving USD  61 632 per capita 
+in 2022. In 2019, the country experienced a GDP downturn and has recently seen a 
+slowdown in its economic growth, with an expected growth rate of its GDP of 2.5% for 
+2022 (OECD , 2022). The economic recovery is projected to continue, with real GDP  
+growt h reaching 4.2% in 2022, supported by high commodity prices and improved terms 
+of trade. Australia’s unemployment rate was 4.0% in March 2022, lower than the OECD 
+average of 5%.  
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+18  Energy production, supply and demand  
+Thanks to a wealth of natural resources,  Australia is one of the largest energy exporters 
+in the world, specifically of LNG, coal and minerals. The People's Republic of China 
+(hereafter "China"), Japan, Korea and the United States are the largest export markets for Australia.  
+In 2020, energy production – mainly coal and natural gas – was more than three times 
+higher than the country’s total energy supply (TES).  
+Australia is the fourth- largest coal producer in the world, after China, India and the 
+United  States. In 2020, coal production was 7.6 higher than the country’s needs (TES). 
+Since 2015, Australia has significantly increased the production of natural gas and exports 
+of LNG. Its  natural gas production was 3.4 more than the amount used domestically. 
+Australia also produces a significant amount  of crude oil, covering 47% of oil TES.  
+Total energy supply is strongly dominated by fossil fuels, covering 92% of the total in 2021. Oil accounts for one- third of TES, followed by coal (32%) and natural gas (28%). Coal is 
+mainly used in electricity generation, while oil is directly used primarily in transport and 
+accounts for more than half of total final consumption (TFC). Transport is the largest sector for energy consumption (39% in 2020), followed by industry (38%) and buildings (23%).  
+Figure 2.1  Overview of energy production, supply and demand in Australia, 2021 
+IEA. CC BY 4.0.  
+Australia exports a large share of the energy it produces, mainly coal and natural gas.  
+*Other renewables include hydro, solar and wind.  
+Note: PJ = petajoule.  Source: IEA (2022).  
+Coal, oil and natural gas dominate TES . While the share of oil has been stable at around 
+34% since 2015, the share of coal declined to a record low of 30% in  2020 while that of 
+natural gas increased to  29% in the same year. Australia has seen a continuous increase 
+in TES of renewable energy sources  thanks to the increasing share of solar and wind, 
+which together accounted for 3.8% of TES in 2021, and a stable contribution of bioenergy and waste (around 4%)  and hydro (1%).   01 0002 0003 0004 0005 0006 000
+Total energy supply TFC (by fuel) TFC (by sector)PJ
+Other
+renewables*
+Electricity
+Bioenergy and
+waste
+Natural gas
+Oil
+CoalTransformations and losses
+Industry
+Transport
+Buildings
+02 0004 0006 0008 00010 00012 00014 00016 00018 00020 000
+Production Total energy supplyPJ
+Exports
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+19 
+ENERGY INSIGHTS  Energy consumption ( TFC) increase d by 9% from 2010 to 2019. As elsewhere, because 
+of the Covid -19 pandemic , consumption dropped by 3%  in 2020, compared to 2019, 
+notably in the transport sector.  
+TFC is dominated by oil, covering 52% of the total in 202 1. The share of electricity was  
+stable at around 22% until 2021, when it rose  to 24%, as electricity d emand increased, 
+especially in the residential sector. Demand for natural gas has increased over time, mainly 
+from the buildings sector, and accounted for 16 % of TFC in 2024. Bioenergy is primarily 
+used for residential space heating and accounted for 4. 8% of TFC in 202 1, while coal used 
+in industry covered 3. 4% of TFC.  
+Figure 2.2  Total energy supply and demand by source in Australia  
+Total energy supply (TES), 2000- 2021  
+ 
+IEA. CC BY 4.0.  
+Total final consumption (TFC), 2000- 2021 
+ 
+IEA. CC BY 4.0.  
+Fossil fuels dominate total energy supply, with rising contributions of  natural gas and oil  and a 
+decreasing role of coal. Total final consumption is largely covered by oil.  
+Note: PJ = petajoule.   
+Source: IEA , (2022) . 
+Oil-fuelled transport was the most energy -consuming sector in 2021 , despite its 
+consumption falling by 10% with respect to 2019. Energy consumption in the industry 01 0002 0003 0004 0005 0006 000PJ
+Solar and wind
+Hydro
+Bioenergy and waste
+Natural gas
+Oil
+Coal
+0 5001 0001 5002 0002 5003 0003 5004 000PJ
+Electricity
+Bioenergy and
+waste
+Natural gas
+Oil
+Coal
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+20  sector is more diversified and covered by oil (3 6% in 202 1), natural gas (25 %), electricity 
+(22%), coal (9%) and bioenergy  and waste (8%) . The main energy source for the buildings 
+sector is electricity (61 %), followed by natural gas (25 %), minor shares of bioenergy and 
+waste (6.2%), oil (5 .7%) and solar thermal (2.6 %). 
+Coal still dominates electricity generation (53% in 2021), but its share has significantly 
+decreased since 2010, when it was 71%. On the contrary , the share of natural gas 
+increased from 18% to 21% from 2010 to 2020, but decreased to 19% in 2021. In recent  
+years, e lectricity generation from renewables is growing at a fast pace: solar increased 
+threefold from 2018 to 2021, when it accounted for 10.5% of the total, closely followed by 
+wind at 9.3% and hydro at 5.6%.  
+Figure 2.3  Energy demand per sector and fuel, and electricity generation by fuel 
+in Australia , 2021  
+ 
+IEA. CC BY 4.0.  
+Note s: PJ = petajoule; TWh = terawatt hour.  
+Source: IEA , (2022) . 
+Key institutions  
+The Commonwealth government (hereafter the Australian Government) has constitutional 
+responsibility for trade, foreign relations (including international climate change), defence 
+and immigration. States are responsible for energy production (including from  renewable 
+and non- renewable sources), land use, forestry, transport, mineral rights  and 
+environmental assessments (except offshore) . Justice, health, education and consumer 
+affairs are shared responsibilities.  
+Most of the policies on energy and environment, and on wholesale/retail energy markets (electricity and natural gas) require collaboration. On 30 September 2022, the National 
+Cabinet agreed to establish the Energy and Climate Change Ministerial Council (ECMC). 
+This council replaces the former Energy  National Cabinet Reform Committee, which was 
+preceded by the COAG Energy Council. Involving all jurisdictions in Australia, 
+Commonwealth and local governments, the Energy and Climate Change Ministerial 
+Council aims  to deliver on the National Energy Transformation Partnership (NETP)  across 
+national energy, climate change and adaptation priorities.   
+In the area of energy, the Australian Energy Ministers Meetings (EMM ), composed of the 
+Australian Government and the state governments has been the forum to  enable co-0 200 400 600 8001 0001 2001 400
+Industry Buildings TransportElectricity
+Solar
+Bioenergy and waste
+Natural gas
+Oil
+CoalEnergy demandPJ
+Bioenergy and wasteOilHydroWindSolarNatural gasCoal
+0  50  100  150
+TWhElectricity generation
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+28  
+ 
+Diversifying Australia’s economy  
+Australia’s economy relies on the natural resource base of fossil fuels and critical minerals. 
+The country is one of the largest energy exporters in the world, and the leading coking coal 
+and LNG exporter . Australia produces a breadth of  renewable energy,  critical minerals, 
+including lithium, of which it is the world’s largest producer, and cobalt and rare earth 
+minerals. Australia has the stated ambition to become a renewable energy , critical 
+minerals  and hydrogen export er. 
+At the federal level, energy taxation and rates are not in line with sustainable or efficient energy consumption (see Chapter  3) and are not reflective of carbon content.  The 
+Australian Government levies fuel excise and duties at various rates, based on energy content. Australia applies a fuel excise on transport fuels (including aviation) and 
+residential and commercial heating. Petrol and diesel are indexed twice a year in line with 
+the consumer price index and are taxed at AUD  0.433 per litre as of August 2021. The 
+Goods and Services Tax applies to the excise -inclusive price of petrol and diesel at a 
+single uniform rate of 10%. The Goods and Services Tax also applies to biofuels and gaseous fuels.  Box 2.2 International experience in faster permitting of energy infrastructure  
+Around the world there is a growing urgency of and commitment to faster approvals.  In the 
+context of the European energy crisis, the European Council adopted temporary 
+emergency rules to accelerate the deployment of renewable energies like wind 
+(repowering), solar PV and heat pumps (EC, 2022). Under the rules, renewable energy 
+projects “would be presumed to be of overriding public interest,” which will allow a 
+“simplified assessment” to speed up procedures. The new rules  clarify the scope of nature 
+protection rules under the E uropean Union’s  (EU) Birds and Habitats Directives to 
+eliminate bottlenecks in the permit -granting process for renewable energy projects.  
+Canada modernised its environmental and regulatory approval regimes in 2019. Bill  C-69 
+of 2019 replaced the National Energy Board Act with the Canadian Energy Regulator  Act*.  
+Bill C -69 also helped to streamline Canada’s environmental and regulatory system by 
+modernising the Canadian Environmental Assessment Agency thr ough the creation of the 
+Impact Assessment Agency of Canada, which reports to the Minister of Environment and 
+Climate Change. Bill C -69 set out responsibilities for both the Canadian Energy Regulator  
+and the Impact Assessment Agency to consult and accommodate , when required, during 
+the three- year process indigenous peoples, provinces and territories, companies, 
+environmental groups, and the public. The new impact assessment system includes a 
+more inclusive participation process, provides clear expectations and shorter legislated 
+timelines, and aims to avoid duplication with other jurisdictions wherever possible with a 
+“one project, one review” approach.  
+* The Canadian Energy Regulator regulates pipelines, power lines  and offshore renewable energy projects ; 
+provides oversight of oil and gas exploration and activities on frontier lands and offshore; approves the export 
+and import of natural gas and the export of oil; and provides energy statistics, analysis and information. 
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+30  from AUD  897 million in  2020- 2021 to AUD  2.17 billion in 2021- 2022. The PRRT is levied 
+on the profits from petroleum projects in offshore petroleum production in Australian waters 
+at a rate of 40%.  
+To support the shift towards diversified and environmentally sustainable government 
+spending, Australia can also l earn from other countries that are scrutinising public 
+spending with the aim of boosting “green budgeting”. France was the first country to conduct a first assessment of the environmental impact of the 2021 Budget Bill, by using the six criteria of the EU Taxonomy Regulation: 1) climate change mitigation; 2)  climate 
+change adaptation; 3) sustainable use and protection of water and marine resources; 
+4) the transition to a circular economy; 5) pollution prevention and control; and 6)  the 
+protection and restoration of biodiversity and ecosystems.  
+The abundance of domestic renewable and non- renewable energy resources, along with 
+a diverse wealth of critical minerals, presents Australia with a clear opportunity for a secure energy transition to a net zero emissions economy while continuing to perform a key role 
+in international energy markets as a reliable trading partner. The Australian G overnment 
+has the stated objective of making Australia a superpower for exports of renewable energy and critical minerals. Australia expects major supply chain bottlenecks for wind and solar 
+power materials and transmission cables. The Supply Chain Resilience Initiative and the Sovereign Manufacturing Capability Plan aim to support efforts in this direction 
+(see Chapter 11) . 
+Towards a people -centred strategy 
+A number of initiatives are underway to support workers throughout the energy transition.  
+The Australian Government has committed AUD  12.9 million to the priority of Jobs and 
+Skills Australia  to help tackle skill shortages and plan for the workforce of the future. A 
+new Clean Energy Capacity study will be a high priority for Jobs and Skills Australia. The 
+study will provide evidence and insights to support workforce planning, and inform skills 
+development needs and training for Australia’s clean energy sector.   
+The DCCEEW pr oduces  the Australian Energy Employment Report , a national workforce 
+survey of businesses and organisations in, or supporting, the Australian energy sector. 
+This will give federal, state and local governments insights to assist in the development of policies regarding jobs, skills development and training opportunities.  
+Both initiatives will support the development of a National Energy Workforce Strategy, 
+which will provide a comprehensive national approach to ensur e Australia’s future energy 
+system has a pipeline of highly  skilled and diverse workers to support the energy transition.  
+Australia joined the Equality in Energy Transitions Initiative in May 2018. At COP26 in 
+November 2021, it announced it had joined the Equal by 30 campaign as a public 
+commitment to work towards  equal pay , equal leadership and equal opportunities  for 
+women in the clean energy sector by 2030.  The Australian Government has endorsed the 
+campaign’s four key public sector principles and is developing tailored commitments 
+outlining the concrete action to accelerate the participation of women in the clean energy 
+sector. 
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+33 
+ENERGY INSIGHTS  With regard to oil and gas data, the government legislated a mandatory reporting 
+program me for petroleum sector data which is collected and managed by the DCCEEW 
+and informs the Australian Petroleum Statistics. This mandatory program me replaced the 
+voluntary survey conducted to collect monthly petroleum data from 1 January  2018 
+onwards. The DCCEEW collects data and publishes comprehensive statistics on oil supply 
+and use in Australia via the department’s official Australian Petroleum Statistics monthly publication.  
+The bulk of the data comes from the department’s own data collection, which has, since 
+2018, been underpinned by legislation (the Petroleum and Other Fuels Reporting [ POFR ] 
+Act 201 7), which makes it mandatory for companies to provide the data to the government. 
+The department als o receives data from other sources, mainly through data- sharing 
+arrangements with other government departments that collect information from both 
+survey- based and administrative data sets. Under the POFR Act, activities such as 
+producing, refining, wholesaling and holding stocks of oil products (such as crude oil, liquefied petroleum gas, petrol, diesel, bitumen and lubricants) and alternative transport 
+fuels (such as biofuel) must be reported. The IEA commends the introduction of the 
+mandatory reporting, w hich ensures reliable and accurate monthly oil data. A review of the 
+POFR Act is ongoing, with the objective of potentially covering more products/flows.  
+Since 2021, the d epartment has enhanced its internal data management capabilities 
+(called the Petroleum Statistics Information Management System), supporting a more automated and integrated data management system ( the online submission portal “Liquid 
+Fuels Gateway ” for companies) and is modernising its data dissemination with a new 
+interactive dashboard.  
+Reporting of natural gas data (on a monthly basis) remains incomplete (observed domestic consumption and stocks levels are not transmitted) and trade data by country of destination cannot be reported due to confidentiality issues. Natural gas data a re collected 
+on a voluntary basis (only LNG  is a covered product under the POFR Act , while ordinary 
+natural gas is not a mandatory item) and would benefit from future inclusion in a mandatory data collection system.  
+With regard to monthly electricity reporting to the IEA (MES), Australia previously only 
+reported generation from large- scale solar PV plants and grid- connected generation, 
+which does not fully represent the country’s power system. The g overnment confirmed that 
+data from another source are available for small -scale solar PV and has included this in 
+the IEA MES since February 2022. However, monthly data is  not available to report off -grid 
+generation.  
+Assessment 
+Australia is an important energy producer of coal, gas and critical minerals needed for the 
+global economy, which is important factor for its energy transition. In 202 1, Australia’s 
+energy production – mainly of coal and natural gas – was more than three times higher 
+than the country’s total energy supply. TES is strongly dominated by foss il fuels, covering 
+92% of the total in 2021, the highest in the IEA. Australia is the fourth- largest coal producer 
+in the world, after China, India and the United States . Since 2015, Australia  has 
+significantly increased its production of natural gas, exported in the form of liquid natural 
+gas (LNG). Conversely, solar PV has become the leading source of renewable energy 
+and, together with wind, has met all the incremental electricity demand over the past 
+IEA. CC BY 4.0.
+
+2. GENERAL ENERGY POLICY  
+34  decade. Australia has the highest share of rooftop solar per  capita in the world, which 
+features on more than one  in three Australian homes.  
+With strong economic growth over decades, total final consumption has been increasing 
+in Australia, with oil accounting for more than half of TFC in 2021, followed by electricity 
+(24%) and natural gas (1 6%). The share of electricity is around the IEA average (23%) , 
+with relatively high electrification in bu ildings and relatively low electrification in transport . 
+In terms of sectors, i ndustry accounts for the largest share of energy consumption (39 %), 
+closely followed by transport (38%) and buildings (23%). Australia has decoupled energy 
+demand from both GDP and population growth.  
+Since the IEA’s last review of Australia i n 2018, the government has stepped up its climate 
+ambition at the Commonwealth level, aligning to the net zero ambitions of the states and 
+territories and is taking an inclusive and collaborative approach to energy policy under the 
+new National Energy Transformation Partnership.  
+Energy and climate policy is a competency of the state and territory governments in 
+Australia. Co -ordination is important for the national wholesale and retail electr icity and 
+gas markets. The Energy Ministers Meetings (EMM) established under the National 
+Cabinet with six working groups can enable energy policy co- ordination between these 
+levels of government. Collaboration is now structured under the new National Ener gy 
+Transformation Partnership, an integrated climate and energy emissions agreement.  
+The Australian Government increased its climate ambition with a new target of a 43% 
+reduction of GHG emissions by 2030 from 2005 levels, an increase from the previous 
+government’s target of 26- 28%. The government also legislated its new 2030 target 
+alongside the net zero ambition by 2050 in the Climate Change Act 2022. As part of the 
+Annual Climate Change  Statement, the government must review progress on Australia’s 
+energy transition.  Energy efficiency goals and policies were set out in the NEPP, which established a target 
+to increase energy productivity (GDP/TES) by 40% between 2015 and 2030. At their October 2022 EMM, demand- side acti on and energy efficiency were prioritised and new 
+national rules proposed, notably the introduction of fuel economy standards, the new National Construction Code and energy performance in buildings. A new National Energy Performance Strategy is now under consultation and will refocus the government’s 
+strategy towards the energy demand side.  
+The creation of the DCCEEW  in July 2022 will be fundamental to ensure greater coherence  
+of energy and climate data for policy making at the Commonwealth level. The  upstr eam 
+and critical minerals sectors remain the purview  of the Department of Industry, Science 
+and Resources . 
+The new set -up will require more collaboration across d epartments to consolidate energy 
+and climate data. This is particularly important in the context of liquid fuels security and 
+progressing Australia’s energy transition, which requires the collection and analysis of data for the design, implementation and tracking progress on energy, resources and 
+emissions -related policies and programmes for the government. There are not sufficient 
+data available on s ectoral end- use and pricing for policy making. The g overnment needs 
+to increase the availability of policy -relevant energy information and seek cost -effective 
+actions to enhance the data granularity on the demand side for energy prices across all 
+IEA. CC BY 4.0.
+
+3. ENERGY SECTOR RESPONSE TO CLIMATE CHANGE
+45 
+ENERGY SYSTEM TRANSFORMATION  boosted the authority of the four i nstitutions: ARENA, the CEFC , the CER and the CCA , 
+which has been granted greater advisory functions.  The 2022- 2023 October Budget 
+included AUD  47.1 million in funding over four years to restore the C CA’s functions.  
+Power sector emission s mitigation policies  
+Australia’s power sector accounted for almost half of the country’s energy -related GHG 
+emissions. And the power sector is at the heart of the country’s energy transition, as the 
+driver and enabler for emissions reductions in other sectors, such as transport and industry.  
+Figure 3.5  Greenhouse gas emission s intensity of electricity generation in 
+Australia and selected countries, 2005- 2021  
+IEA. CC BY 4.0.  
+Note: g  CO 2-eq/kWh = grammes of carbon dioxide equivalent per kilowatt hour.  
+Source: IEA , (2022a) . 
+The emissions intensity of power generation decreased by 23% between 2000 and 2020, 
+according to IEA data, thanks to the Renewable Energy Target ( RET) scheme, the rapid 
+deployment of renewable energy, in particular , solar PV and changing power generation 
+economics, which accelerated the closure of coal power plants. The trend is projected to continue and even accelerate.  The AEMO’s Integrated System Plan and its Step Change 
+Scenario project an 83% share of renewables in the NEM  by 2030.   
+In August 2022, the Australian Government , states ’ and territories’ ministers jointly agreed 
+to include an emissions reduction objective for the N EM under the National E nergy 
+Transformation Partnership.  The Australian Government also announced a goal of 
+reaching 82% of renewable energy in Australia’s electricity generation by 2030.  
+Transport sector emissions mitigation policies  
+A quarter of Australia’s energy -related GHG emissions stem from the transport sector, due 
+to rising emissions from freight, domestic aviation and road transport activities from long-distance transport across the vast Australian continent.  
+Australia is beginning to develop policies and measures to promote low or zero emissions 
+vehicles, low -emission fuels, transport sector efficiency and modal shifts. This includes 
+considering the introduction of light vehicle fuel efficiency standards  and the tightening of  
+noxious emissions standards for heavy (Euro VI) and light vehicles (Euro 6d).   0 100 200 300 400 500 600 700 800 9001 000
+2005 2007 2009 2011 2013 2015 2017 2019 2021Australia
+Japan
+United States
+IEA average
+European
+Union
+Canadag CO2-eq/kWh
+IEA. CC BY 4.0.
+
+3. ENERGY SECTOR RESPONSE TO CLIMATE CHANGE  
+48  wildfires, particularly in South Australia. Despite the trend towards increasing dryness, 
+heavy rainfalls and tropical cyclones are also expected to become more intense due to 
+global warming (IEA, 2 022c). 
+Aus
+tralia’s National Disaster Risk Reduction Framework guides domestic efforts to reduce 
+disaster risks. Launched in April 2019, the framework identified initial strategic outcomes 
+over the five  years from 2019 to 2023 to inform decision making across various sectors. 
+The Australian Government National Adaptation Policy Office and the National Emergency 
+Management Agency work closely together to co -ordi
+nate and initiate stronger climate and 
+natural dis aster resilience across Australia. Climate resilience is a key focus of the 
+Australian Government Disaster and Climate Resilience Reference Group. C reated 
+in 2015, it provides strategic guidance across the government and promotes resilience in 
+the Australi an Government’s planning, policies and programmes.  
+The 
+former Department of Industry, Science, Energy and Resources carried out the latest 
+National Energy Security Assessment in 2021 to identify and mitigate potential energy 
+security risks across electricity, gas and liquid fuels sectors. Climate change risks have been raised as an important factor by many stakeholders.  
+Extreme heat is considered one of the most significant stresses on Australia’s energy 
+systems since it affects energy demand and supply si multaneously. High temperatures not 
+only spur cooling- load increases but can reduce electricity network capacity, decreasing 
+thermal generation ratings and causing equipment failures. For instance, the combination of high electricity demand and lower electricity supply availability caused by extreme heat 
+in South Australia and Victoria on 24- 25 January 2019 prompted load shedding, which left 
+200 000 people without electricity.  
+Learning from the 2016 South Australia blackout, an Electricity Sector Climate Information 
+Project was completed to calculate key climate risk variables that are relevant to the 
+electricity grid, including projections up to 2100 (temperature, wind, rainfall, stream flows, 
+solar radiation, fire weather). The AEMO us es information from t he project to inform 
+electricity system planning, including the Integrated System Plan. The Electricity Sector 
+Climate Information Project also provides a foundation for Australian electricity and gas energy market participants to take into account climate change adaptation risks, both 
+within their own business planning processes and through the General Power System Risk 
+Review process. D ata, reference material and case studies from the project have been 
+made publicly available through the Climate Change in Australia (CCiA) website . 
+Under the Paris Agreement, Australia submitted a first Adaptation Communication to the 
+UNFCCC in October 2021, which outlines  retrospective domestic adaptation action and 
+international adaptation support.  
+Roles and responsibilities for adaptation in Australia  w ere agreed on by governments 
+in 2012. Taking a shared responsibility approach, the agreement recognises the important, 
+complementary and differentiated roles of all levels of government, businesses, 
+households and the community in adapting to the impacts of climate change.  
+In 2021, the Australian Government released the National Climate Resilience and 
+A
+daptation Strategy 2021 -2025, which set out how the former  government planned to 
+support adaptation across all levels of government, businesses and the community to 
+better anticipate, manage and adapt to the impacts of climate change.  
+IEA. CC BY 4.0.
+
+3. ENERGY SECTOR RESPONSE TO CLIMATE CHANGE  
+51 
+ENERGY SYSTEM TRANSFORMATION  
+ medium -sized enterprises (SMEs) to reduce energy use and lower energy bills. It also 
+included funding to expand and modernise the national framework for product  energy 
+efficiency standards and the Nationwide House Energy Rating Scheme.  
+Australia ’ s climate mitigation policies rely on its Carbon Credit ing Scheme (formerly the 
+ERF) , the Safeguard Mechanism, the RET scheme , and funding through ARENA and the 
+CEFC. The combination of the federal RET and other state/territory -based feed- in tariffs, 
+along with saving obligations supported the uptake of wind and solar energy.  Due to very 
+low baselines for reductions, these have been more effective in accelerating emissions 
+reductions than the ERF and Safeguard Mechanism. Australia has reformed the 
+Safeg uard Mechanism to strengthen baselines.  
+The power sector remains critical for achieving Australia ’s net zero target . While half  of 
+energy -related CO 2 emissions stem from the power sector and direct combustion in 
+industry, those sectors are not subject to any effective carbon rate through energy or 
+carbon taxes or emission s trading systems. Commendably, the g overnment is including 
+an emissions reduction objective in the National Energy Market under the National Energy 
+Transformation Partnership, agreed with all states and t erritories in August 2022. The 
+partnership c ould be instrumental and will be the foundation for a co- ordinated approach 
+to climate and energy policies across Australia.  
+Regulated by the CER, Australia’s Carbon Crediting Scheme (formerly the ERF)  is a 
+voluntary scheme which allows businesses and individuals to create ACCUs for eligible 
+emissions avoidance and sequestration activities.  Even though credits are generated 
+through an expanding number of methodologies , most of the credits so far have been 
+generated through projects in the land and agricultural sector. Facilities can  surrender 
+credits to offset emissions over their baseline in the context of the Safeguard Mechanism. 
+The government has commissioned an independent review of the integrity of the offsets . 
+Stakeholders have criticis ed the fact that the baselines  of the Safeguard Mechanism were  
+set in a way that  companies did not face actual emissions constraints. The government 
+has indicated its intention to decrease the baselines and is  consulting on the options for 
+the reform. The decrease in safeguard baselines will reduce emissions from the industrial 
+sector. Introducing a tradeable unit to recognise facilities  emitting below baselines will help 
+further incentivise reductions in the industrial sector.   
+Australia is beginning to develop policies and measures to promote low or zero emissions 
+vehicles, low -emission fuels, transport sector efficiency , and modal shifts. It has set a low  
+emissions vehicle target for the f ederal government fl eet of 75% of new purchases and 
+leases by 2025 and is developing a National Electric Vehicle Strategy , which has 
+completed consultation. The National Electric Vehicle Strategy can be a catalyst for a more comprehensive policy package, including mobility programmes and efficiency measures under a refreshed approach with states and t erritories (see Chapter  4). The EV roll-out 
+strategy is being  co-ordinated with the strategy to move the power sector towards net zero 
+emissions. This is important , as otherwise e missions from the transport sector may turn 
+out to be higher than they are today.  
+Adapting to climate change impacts  
+Australia will need to urgently adapt to the impacts of climate change, which have increased (flooding, wildfires, heat waves) , to enhance the resilience of the Australian 
+society, with a particular focus on its energy system.  
+IEA. CC BY 4.0.
+
+4. ENERGY EFFICIENCY  
+60  emissions, lower business costs, reduce energy bills and improve health outcomes for 
+households. The CCA also recommended  t he introduction of a national energy savings 
+scheme, which could harmonise and extend the schemes currently operating in some 
+states and territories . However, to date, the scheme does not incentivise energy efficiency 
+inves tment, despite ample opportunities for investment with short -term payback times, 
+notably in industry.  
+The Equipment Energy Efficiency (E3) program me,  admi nistered by the Australian 
+Government in conjunction with the states and territories, works to increase the energy 
+efficiency of new appliances and equipment through mandatory energy efficiency 
+regulations, under the GEMS Act. The latest E3 Prioritisation Plan 2021- 2022 sets the E3 
+work programme for the next five  years.  
+In the area of building eff i ciency, the National Construction Code is reviewed regularly. I t 
+was updated i n 2022 to increase the minimum energy efficiency requirements for new 
+residential buildings – increasing the “ star” rating for the thermal shell and setting an 
+energy budget that takes into account solar energy generated onsite; battery storage; and 
+the energy performance of appliances used for hot water, lighting, heating and cooling.  
+Energy efficiency data ar e not readily available. The NGERS  s cheme is a national 
+framework for reporting and disseminating company information about GHG  emissions  
+and energy production and consumption. It is administered by the CER . Corporations that 
+meet the emissions threshold (detailed in Chapter  2) must register under the framework 
+and report each year.  
+In October 2022, t he government presented the 2022- 2023 Budget , which provides for 
+several energy efficiency -related funding programmes, including:  
+ AUD  62.6 million in funding to support SMEs  making energy efficiency upgrades  
+ AUD  15.2 million to develop the National Energy Performance Strategy  
+ AUD  4.6 million to expand and modernise the Greenhouse and Energy Minimum 
+Standards scheme and improv e the Nationwide House Energy Rating Scheme. 
+Buildings  
+In 2021, there were 10.85 million residential dwellings in Australia. Of these, 70% were 
+individual houses, 13% were townhouses and 16% apartments (ABS, 2022).   
+Residential buildings ’ energy demand is higher than that of service sector buildings, and 
+accounts for 61% of buildings’ TFC in 202 1 (Figure 4. 5).  
+From 2000 to 2021 , electricity was the main source of energy in buildings (61 % in 2021), 
+playing an important role in residential buildings ( 51%) but more so in service sector 
+buildings (77%).  
+The second- largest energy source for buildings is natural gas (25 % in 2021), ac counting 
+for a large share especially in residential buildings (32 %). Bioenergy and waste supplied 
+6.2% and oil 5.7 % of energy to buildings in 2021. 
+IEA. CC BY 4.0.
+
+4. ENERGY EFFICIENCY   
+61 
+ENERGY SYSTEM TRANSFORMATION  Figure 4. 5  Total final consumption in the building sector by source  in Australia , 
+2000- 2021 
+ 
+IEA. CC BY 4 .0. 
+TFC has increased in residential and service sector buildings, dominated by electricity and an 
+increasing use of natural gas.  Service sector buildings have seen a decline since 2018.  
+Note: PJ = petajoule.   
+Source: IEA , (2022a). 
+The net zero pathway under the IEA Net Zero Roadmap requires a 5% improvement per 
+year globally for residential buildings (IEA, 2021, 2022c).  
+Space heating is the end- use sector with the highest energy consumption, representing 
+36% of the residential sector energy demand in 2018 (Figure 4. 7). Water heating 
+accounted for 2 7% of residential energy demand, appliances 23%, cooking 5% , lighting 
+(4%) and space cooling 5%.  
+Energy consumption for cooling has doubled since 2000. Energy consumption for lighting 
+peaked in 2004 then decreased sharply by 55% from 2004 to 2020, thanks to the 
+deployment of more efficient LED technology.  
+Figure 4. 6  Average annual energy efficiency improvements in the buildings 
+sector  in Australia , 2000 -2020  
+ 
+IEA. CC BY 4.0.  
+Average annual energy efficiency improvements in the residential sector are decreasing and 
+energy efficiency improvements in the service sector are increasing .  
+Source: IEA , (2022c, 2021). 0 100 200 300 400 500
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021PJ
+Electricity
+Solar
+Bioenergy and
+waste
+Natural gas
+OilResidential buildings
+0 100 200 300
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021PJService sector buildings
+-2.0%-1.0%0.0%1.0%2.0%3.0%4.0%5.0%6.0%
+2000-2005 2005-2010 2010-2015 2015-2020 Net zeroResidential
+buildings
+Services sector
+buildings
+IEA. CC BY 4.0.
+
+4. ENERGY EFFICIENCY   
+63 
+ENERGY SYSTEM TRANSFORMATION  Energy efficiency policies in the buildings sector  
+Commercial buildings have seen a considerable improvement in energy efficiency thanks 
+to successful disclosure and labelling mandates. However, progress in residential 
+buildings is still lagging behind and does  not have energy performance certificates like in 
+Europe.  
+Low-income households still live in poorly insulated houses and inefficient buildings 
+without efficient housing envelopes. On the other hand, many private homeowners have installed solar PV and battery systems and have low-energy buildings.  
+Trajectory for Low Energy Buildings  
+The Trajectory for Low Energy Buildings  is  Australia ’s net zero energy - (and carbon- ) ready  
+commercial and residential building sectors strategy. It has an Addendum to the Trajectory 
+for Low Energy Buildings – Existing Buildings , which identifies measures to enable existing 
+buildings to be net zero energy -ready. To implement the trajectory , the government aims 
+at: 
+ implementing cost -effective increases to the energy efficiency provisions in the National 
+Constructi on Code ( NCC) for residential and commercial buildings from 2022  
+ developing information, training and energy -rating tools for households and businesses to 
+enable a greater understanding of energy efficiency options and applications  
+ developing and expanding targeted building policies, including disclosure of energy 
+performance; minimum energy efficiency standards for rental properties ; renovations and 
+refurbishments ; improving heating, ventilation and cooling systems ; and energy 
+productivity in government operations  
+ identifying and developing supporting measures, including specific measures for strata-
+titled buildings, financial initiatives, appliance standards and labelling, specific measures 
+for vulnerable households , a national data  set and collection process for existing homes, 
+and other targeted initiatives.  
+Building codes, labelling and certification systems  
+The Australian Building Code has been strengthened since the IEA ’s last review in 201 8. 
+Following consultation on the NCC in 2022 by the Australian Building Codes Board, in 
+August 2022, the government agreed to increase the minimum energy performance 
+standards for residential buildings, which will be mandatory from 1 October 2023 . W ork 
+has begun on the next triennial update to the energy efficiency provisions under the NCC , 
+which is due in 2025 and will focus on commercial buildings.  
+The C ommercial Building Disclosure Program  r equires energy efficiency information to be 
+provided in most cases when commercial office space of 1 000 m² or more is offered for 
+sale or lease. The programme has been very effective; however, it does not yet cover some sectors where voluntary NABERS energy ratings are available such as hotels, shopping centres or data centres.   
+Commercial building energy use certification is available through the voluntary National 
+Australian Built Environment Rating System  (NABERS). NABERS is a national programme 
+providing energy  ratings to commercial buildings. Over 4  500 commercial buildings have 
+been rated at least once during over the life of the programme. The Australian Government 
+is funding the expansion of NABERS energy ratings with residential aged care and 
+IEA. CC BY 4.0.
+
+4. ENERGY EFFICIENCY  
+64  retirement living buildings added in 2021 and warehouses and cold stores added in 2022. 
+These join NABERS ratings for offices, shopping centres, data centres, hotels, 
+apartment buildings, public hospitals and office tenancies.  
+The Nationwide House Energy Rating Scheme  ( NatHERS) measures a residential 
+building’s energy performance. For new homes and major renovations, t he scheme can 
+now rate the energy performance for the whole house, including the major appliances, 
+solar panels and batteries, in addition to the star rating for the building shell.  It can be 
+used to meet and beat requirements in the Australian NCC. NatHERS is also expanding to include voluntary energy assessments for established homes.  
+Your Home  i
+s Australia’s guide to designing and building energy- efficient, sustainable 
+homes. It provides nationally consistent information to help the building sector deliver 
+energy efficiency improvements in line with national building regulations.  
+The V ictorian and New South Wales governments stand out for having strong 
+programmes to save energy from government operations ( e.g. hospitals, government 
+offices, water corporations) ; not many other governments in Australia have show n public 
+leadership with green procurement and renovation.  
+Industry  
+Before  2014, the industry sector (including non -energy use)6 held the largest share of 
+TFC. Since 2015, transport has become the leading end- use sector  until 2021, when 
+industry was agai n first . Industrial energy consumption fluctuated around an average of 
+1 270 PJ between 2015 and 202 1.  
+In 202 1, the main energy source in the industry sector was oil (3 6%), followed by natural 
+gas (25 %), electricity (2 2%), coal (9%), and bioenergy and waste (8%) (Figure 4. 9). 
+Progress in industrial energy efficiency has slowed over the past years, with the lowest 
+average annual efficiency improvements recorded between 2015  and 2020. In line with 
+the global net zero emissions target of 3%, industry will need to accelerate its performance, policies and programmes (IEA , 2022b).  
+ 
+6 Non-energy use refers to fuels used as raw materials, not those used as fuel or transformed into another fuel. This 
+comprises typically raw materials used in the chemical and petrochemical sector. 
+IEA. CC BY 4.0.
+
+4. ENERGY EFFICIENCY   
+75 
+ENERGY SYSTEM TRANSFORMATION  Building energy use certification is also available to the housing market through NatHERS 
+for newly built residential buildings. The rating offers a clear incentive for potential buyers 
+and sellers of property to consider energy efficiency characteristics. However, the rating is 
+voluntary, and no disclosure obligation exists. It should be compulsory to show the rating when renting or selling property. Contrary to the six -star NABERS scale, NatHERS has a 
+ten-star rating system and demonstrates compliance with the NCC from a seven -star level.  
+As both schemes have a similar intent, more clarity could be achieved by streamlining the 
+schemes, for instance, with regard to the number of stars.  
+Several promising improvements to NatHERS have been implemented. The scheme now 
+offers whole -of-home energy assessments (including information about the energy 
+performance of common household appliances) and provides  insights into  CO
+2 building 
+emissions (which is not planned for the NABERS scheme). In the futu re, an extension of 
+NatHERS to cover existing housing and rental property could enhance retrofitting and 
+provide benefits to tenants. The IEA believes that minimum rental standards (e.g.  number 
+of stars) would be nefit socio -economically less advantaged groups of the population.  
+Although the NatHERS scheme offers a stimulus for efficiency measures, the retrofitting 
+challenge is enormous. Due to its voluntary nature and focus on new builds, NatHERS 
+does not (yet) cover the majority of the existing residential building stock. The government estimates that the vast majority of Australian houses would not qualify for more than a 
+two-star rating. Consumers lack information and advice on possible efficiency measures, 
+though they could greatly benefit. The multiple benefits of energy efficiency, such as 
+enhanced living conditions from insulation or lower energy bills , are not adequately 
+communicated and incentivised in the labels/certificates.  
+States have their own energy efficiency instruments , such as loans, subsidies, energy 
+savings schemes and energy peak demand schemes. The energy savings schemes 
+include white certificates, which in the case of New South Wales is linked to NatHERS. 
+This linkage to NatHERS is an example that if pursued by other states could lead to scale 
+and create a national market for energy efficiency measures.  
+Contrary to renewable energy, especially solar PV, neither the market demand nor the 
+supply of energy efficiency measures are facilitated in a co- ordinated way and lack 
+sufficient scale (for instance, the European programme Energiesprong). Some suppliers are keen to enter the Australian market and can access funding through the CEFC. However, suppliers will not attempt to enter and remain on the market without any demand. 
+Additional efficiency potential can also be unlocked through greater alignment and co-ordination of energy efficiency policy across all levels of government.  
+Recommendations  
+The government of Australia should:  
+ Provide clarity on the expected contribution of energy efficiency in achieving the 
+Australian climate ambitions, energy security  goals and reducing  energy bills, through 
+sectoral energy efficiency and savings target s and a range of support programmes, 
+starting with low -income households . 
+IEA. CC BY 4.0.
+
+79 
+ENERGY SYSTEM TRANSFORMATION  
+ 
+5. Renewable energy  
+Key data  
+(2021) 
+Renewables in TFEC *: 380 PJ /11.5% of TFEC; (bioenergy** 1 64 PJ, solar 101 PJ, wind 
+72 PJ, hydro 43 PJ) 
+Renewables in electricity generation : 70. 4 TWh or 27% of electricity generation (solar 
+27.7 TWh, wind 24.5 TWh, hydro 14. 8 TWh, bioenergy** 3.3 TWh)  
+Renewables by sector : 22.4% in buildings, 1 1.1% in industry, 0.8 % in transport  
+Installed generation (2020) : 26 GW, f orecast IEA: 40 GW by 2030 (base case) or 57 GW 
+(accelerated case)  
+* Total final energy consumption (TFEC) excludes non -energy use, which is counted in total final consumption.  
+** Bioenergy  includes solid biomass and biogas.  
+Overview 
+Between 2000 and 2021 , the share of renewable energy in Australia’s total final energy 
+consumption (TFEC) increased from 8% to 11.5 %, mainly driven by the significant growth 
+of distributed solar PV and wind since 2010.  
+Figure 5.1  Renewable energy in total final energy consumption in Australia,  
+2000- 2021 
+ 
+IEA. CC BY 4.0.  
+Renewable energy supply was once dominated by solid biomass, but wind and solar have 
+increased significantly since 2010. This confirms the success of the renewable energy target.  
+Note: PJ = petajoule.   
+Source: IEA , (2022a) . 0%2%4%6%8%10%12%14%
+ 0 50 100 150 200 250 300 350 400PJ Hydro
+Solar
+Wind
+Bioenergy (electricity)
+Liquid biofuels (direct
+use)
+Solid biomass (direct
+use)
+Share of renewables
+(right axis)
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY  
+80  Once biomass covered the largest share of renewable energy in TFEC, accounting for 
+76% of renewable energy consumption in 2000. But its share is steadily decreasing 
+(reaching 4 3% in 2021), as variable renewables (VRE) are growing fast.  
+Solar increased from 3.5 PJ in 2000 to 101  PJ (2 7% of renewab le energy consumption) 
+in 2021, and wind increased from 0.2 PJ to 72 PJ (1 9%) over the same period. Hydro 
+follows wind, accounting for around 11 %, but with a slightly decreasing trend. Solar PV is 
+experiencing the fastest growth thanks to auctions.  
+Renewable electricity generation 
+From 2000 to 2021, renewable electricity generation quadrupled, from 17.6  TWh  to 
+70 TWh  (Figure 5.2). Over the same period, the share of renewables in electricity 
+generation increased from 8% to 27%. Hydro was the main source of renewable electricity and is fluctuating due to water availability. Electricity generation from hydro has fluctuated 
+since 2000 around an average of 15 TWh. The shares of solar and wind have increased 
+significantly over the past decade. Solar showed a rapid increase, reaching  28 TWh 
+in 2021, when it accounted for the largest share (10.5% of total electricity generation). 
+Wind has also constantly increased, generating 24.5  TWh ( 9.3%) in 2021.  
+Figure 5.2  Renewable energy in electricity generation in Australia, 2000- 2021  
+ 
+IEA. CC BY 4.0.  
+Solar and wind power have increased since 2010 and dominated renewable electricity 
+generation in 2021.  
+Note: TWh = terawatt hour.  
+Source: IEA , (2022a) .  
+Renewables by sector  
+In 2021, renewables covered 22.4% of the energy consumption of buildings, 11.1% of 
+industry and less than 1% of transport. In the buildings sector, renewable electricity covers 
+almost three- quarters  of the sector’s renewable energy. The re maining  renewable energy  
+for buildings came mainly from solid biomass. In the industry sector, solid biomass 
+accounted for over two -thirds  of its renewable energy  and renewable electricity covered 
+the last third . Renewable energy only accounted for less than 1% of the transport s ector, 
+with renewable electricity and liquid biofuels.  0%5%10%15%20%25%30%
+ 0 10 20 30 40 50 60 70 80TWhHydro
+Solar
+Wind
+Biogas
+Solid biomass
+Renewables
+share (right axis)
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY  
+82  Table 5.1 Australia’s state and territory renewable energy targets and policies up to 
+2030  
+State  % of demand  Renewable energy target  Policy measure(s)  
+New South 
+Wales   24 600 GWh by 2030  Net Zero Plan Stage 1: 2020- 2030  
+Electricity Infrastructure Roadmap  
+Queensland   
+(large -scale)  18% of 
+electric ity 
+generated by 
+renewables  70% of renewables by 2032 
+and 80% by 2035 
+(announced in September 
+2022)  Climate Action Plan 2020-2030 
+Plans to convert coal-fired power 
+plants to renewable hubs by 2035 
+under a AUD  62 billion clean energy 
+plan, incl uding  through reverse 
+auctions . 
+Victoria  26% of 
+electricity generated by 
+renewables  25% by 2020, 40% by 2025  
+(committed in 2017)  
+50% by 2030  
+(committed in 2019)  
+65% by 2030, 95% by 2035  
+(announced in 2022)  Climate Change Strategy  
+Reverse auction to fund renewable energy generation projects (>900 MW 
+in total) and successful bidders enter 
+into contracts for the difference. 
+South 
+Australia  Demand 
+covered 100% 
+by renewables 
+on 180 days 
+in 2021  100% net renewables 
+by 2030  
+500% by  2050 (become 
+exporter)  Climate Change Action Plan 
+2021-2025  
+No market mechanism. Government 
+funding for renewables and storage.  
+Northern 
+Territory   50% by  2030  
+announced in 2017  Climate Change Response: 
+Towards 2050  
+In January 2019, the Northern Territory Government entered into power purchase agreements to buy electricity from two new solar farms.  
+Australian 
+Capital 
+Territory  Achieved 100% 
+renewables 
+in 2020  100% by 2020  
+(committed in 2016) Climate Change Strategy 2019-2025 
+Reverse auction to fund renewable 
+energy generation projects (650 MW 
+in total) and successful bidders enter 
+into contracts for the difference.  
+Tasmania  Achieved 100% 
+renewables 
+in 2020  15 750 GWh by 2030,  
+21 000 GWh by 2040 
+=200%  
+announced in 2020  Climate Change Action Plan 
+2017-2021  
+No market mechanism. A range of 
+complementary  measures, including 
+government inve stment in existing 
+hydropower assets.  
+Western 
+Australia   None  
+(80% of emissions 
+reductions by  2030, coal 
+retirements by  2030, 
+AUD 3.8 billion investment 
+plan in renewable power)  Climate Change Policy  
+Note: GWH = gigawatt hour; MW = megawatt.  
+Sources : CCA, ( 2020) IEA updates . 
+ 
+ 
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY   
+83 
+ENERGY SYSTEM TRANSFORMATION  Permitting of renewables  
+Australia has seen a reduction in permitting and project lead times (Clapin and Longden, 
+2022). Before 2016, the average lead time for solar PV projects was 46- 85 months. This 
+decreased to 24- 40 months between 2016 and 2020 thanks to robust project pipelines and 
+project development experience, high state- level targets, and PPAs driving the expansion 
+of utility -scale solar PV.  
+Onshore wind projects take longer to develop. Project lead times were 54- 128 months 
+before 2005 a nd decreased to 30- 72 months after 2011. While pre- construction lead times 
+decreased for both solar and wind, commissioning lead times decreased for wind projects 
+but increased for distributed solar PV projects, notably due to the introduction of grid fees and higher system costs.  
+Obtaining a social licence, permits and environmental approvals is essential for completing 
+energy inf rastructure projects. The role and name of the National Wind Farm 
+Commissioner were expanded to the Australian Energy Infrastructure Commissioner in 
+March 2021. This role is critical to support local communities and indigenous peoples of 
+Australia  (see Chapter  2).  
+Renewable energy policies 
+Renewables in electricity  
+Since its inception in 2001, Australia’s federal support scheme for renewable energy is the 
+Renewable Energy Target, a quota system whereby retailers acquire certificates for 
+install ing capacity. In 2011, the certificate scheme under the RET was split into the 
+Small -scale Renewable Energy Scheme (SRES) and the Large- scale Renewable Energy 
+Target (LRET) , with an objective to reach 41 000 GWh by 2020. In 2015, the ambition was 
+reduced, with an annual target of 33 000 GWh . It is set to end in 2030.  
+In 2019, Australia reached its 2020 LRET  of 33 000 GWh. In 2021, eligible generation 
+under the LRET  was 39 000 GWh, exceeding the target by 6 000 GWh. As the 2020 LRET 
+of 33 000 GWh renewable power generation has been reached, the LRET certificate 
+scheme w ill no longer invite new investment in large- scale renewables, even though 
+certificates can be earned for existing projects until 2030.  
+By 31 October 2022, 30.1 GW of large- scale renewable energy capacity ha d been 
+accredited under the LRET and 18.4 GW of small -scale solar PV under the SRES.  
+Australia ’s renewable portfolio standard offers retailers the flexibility to reach the targets 
+in the most cost -efficient way with commercial contracts. However, the future success of 
+the RET also depends on the retail market be ing sufficiently liquid.  
+Fast- growing renewable energy deployment had a major impact on the system operation 
+and the market design of the NEM. New solar PV capacity has put pressure on the 
+distribution grid due to rising self -consumption and exported power.  
+The Energy Security Board has carried out extensive regulatory analysis and work on the 
+NEM to integrate the future growth of renewables. This has included introducing renewable 
+energy zones and developing an Integrated System Plan, both of which were 
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY  
+84  recommendations from the IEA ’s 2018 review , and is working on an implementation plan 
+to improve the integration of distributed energy resources  (DER) .  
+To date, several rule changes have been implemented to support DER integration. Th ey 
+include backstop measures, such as  remote disconnection of rooftop solar in 
+emergencies , minimum technical standards to ensure inverter -based DER can withstand 
+voltage disturbances , and a ccess and pricing reform to be more cost -reflective  as well as 
+investing in digitalisation. New market rules were introduced allowing distributors to charge 
+for exporting electricity to the grid.  
+Up to 2027, Australia’s renewable energy capacity is forecast to expand by more than 
+85%, with additions of  40 GW, thanks to the introduction of ambitious targets and 
+increased cl ean energy funding at federal and state levels, corporate PPAs , and new 
+projects announced in the REZ.  
+The IEA’s latest forecast modelled an accelerated deployment with a higher growth of  
+57 GW of capacity additions by 2027. This case assumes the faster implementation of the 
+REZ and related grid projects , as well as additional coal retirements and the repurposing 
+of their existing sites with battery storage and renewable energy. This forecast also 
+includes Snowy Hydro adding  2 GW by 2026/27.  
+Figure  5.4  Australia’s  renewable capacity additions, 2010- 2027 (left) and quarterly 
+distributed PV installation capacity, 2017- 2022 (right)  
+ 
+Note s: Acc. c ase = accelerated case; GW = gigawatt; PV = photovoltaics; MW = megawatt .  
+Source: IEA , (2022b).  
+The RET is not able to support offshore wind. Offshore wind is a nascent industry in Australia , and costs are still high, with Victoria and South Australia promoting wind areas. 
+Victoria set targets of at least 2 GW of offshore wind capacity by 2032, 4 GW by 2035 and 
+9 GW by 2040 under its Offshore Wind Implementation Statement.  
+The Australian G o
+ vernment  announced plans to fast -track the development of an offshore 
+wind industry.  The Offshore Electricity Infrastructure Act 2021 entered into force in 
+June 2022.  It provides the legal framework to enable the construction, installation, 
+commissioning, operation, maintenance and decommissioning of offshore electricity 
+infrastructure in the Commonwealth offshore area. The Offshore Electricity Infrastructure 
+Regulatio ns 2022 set out detailed arrangements , including the offshore electricity 
+infrastructure licensing scheme, spatial data provisions, arrangements for pre- existing 
+infrastructure, and the application of fees and levies. In 2022, the Energy and Climate 0%5%10%15%20%25%30%35%40%
+0 10 20 30 40 50 60
+2010-15 2016-21 2022-27 2022-27
+Historical Main case Acc. caseGW
+Hydropower Wind Bioenergy
+PV - utility PV - residential PV - commercial
+Other renewables Forecast revision %0100200300400500600700800900
+Q1 Q2 Q3 Q4MW
+2017 2018 2019 2020 2021 2022
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY   
+85 
+ENERGY SYSTEM TRANSFORMATION  Ministerial Council established a cross -jurisdictional working group, including local 
+government, on the development of Australia’s offshore renewable energy industry.  
+Renewables in heating and cooling 
+The SRES creates a financial incentive for individuals and small businesses to install 
+eligible small -scale renewable energy systems, which includes solar water heaters and air 
+source heat pumps. Under the SRES, these systems are eligible to receive certificates 
+based on the amount of electricity produced or replaced by the eligible system.  According 
+to data from the C lean Energy Regulator , in October 2022, the total number of installations 
+was 423 075 air source heat pumps and 1 059 179 solar water heaters  (CER, 2022) . 
+ARENA and the CEFC promote investment in more efficient and renewable energy use in 
+industrial processes, notably solar thermal, geothermal and bioenergy , including 
+biomethane. Funding of fuel -switching projects in the industry can be credited under 
+Australia’s Carbon Crediting Scheme.  
+Renewables in transport  
+The Australian G overnment promotes the shift to cleaner fuels and electrification under 
+the Future Fuels and Vehicles Strategy (2021) and the National E lectric  Strategy, 
+presented in October 2022 for consultation, which includes the introduction of  fuel 
+economy  standards. 
+Australia’s vehicle fleet is largely  petrol -fuelled, but EV deployment is rising, w ith a steep 
+increase in EV sales in 2021. Between 2018 and 2021, the number of EV sales increased from 2  216 to 20 665. The share of EV sales among total car sales in 2021 was 2%, below 
+the IEA average of 9%. Publicly available charging points have also ramped up since 2018 and were over 3 000 in 2021. In 2021, the EV fleet comprised 34 043 BEVs and 
+13 701 PHEVs, representing 0.4% of the total car fleet.   
+Biofuels continue to benefit from excise tax credits. There are no federal biofuel mandates , 
+and the ex isting grants have been abolished. But there are initiatives on biofuels at the 
+state level, like the Queensland Biofuels Mandate (introduced on 1 January 2017) or the 
+New South Wales B iofuels (ethanol and biodiesel) M andate (introduced by the Biofuels 
+Act 2007). Major reforms extending N ew South Wales’  biofuel mandate to more (smaller) 
+retail fuel outlets were legislated in 2016 and commenced on 1 January 2017. Obligated fuel retailers must sell 6% ethanol as a proportion of all petroleum product sales. 
+Experience with such mandates has been mixed in terms of customer interest. As biofuel mandates have been strengthened, however, purchases of E10 have declined in N ew 
+South Wales .  
+The Commonwealth invested in the construction of a new AUD  500 million renewable 
+diesel and sustaina ble aviation fuel biorefinery at Gladstone.  
+Renewables in industry and commercial sectors  
+The SRES creates a financial incentive for individuals and small businesses to install eligible small -scale renewable energy systems, which includes solar water heaters and air 
+source heat pumps. Under the SRES, these systems are eligible to receive certificates based on the amount of electricity produced or replaced by the eligible system.  
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY  
+86  Industry in Australia is increasingly investing in renewables for heat processes in the food 
+and manufacturing industry, notably with solar PV projects for self -consumption, but also 
+in the mining and metals sectors as well as for coking production.  
+Emissions -intensive trade-exposed (EITE) sectors are exempted from the RET. This 
+includes  53 eligible EITE activities as  defined in the legislation. Businesses apply to the 
+CER for an exemption for RET -liable electricity used in their EITE activities . The certificate 
+is passed onto the EITE entity’s liable entity (usually the electricity retailer) for an agreed 
+value . The responsible entity then uses the exemption certificate to reduce its annual 
+liability . 
+Assessment  
+Thanks to declining technology  costs, state -based targets  and auctions, corporate PPAs , 
+and the Commonwealth’s  renewables certificate scheme, investment in renewable energy 
+has been growing over the past decade in Australia . In 202 1, the share of renewable 
+energy in Australia’s total final energy consumption reached 11.5%, mainly driven by the significant growth of solar PV , but also wind. Solar experienced impressive growth, 
+increasing from 3.5 PJ in 2000 to 101 PJ (2 7% of renewable energy consumption) in 2021, 
+as did  wind, which rose from 0.2  PJ to 72 PJ (1 9%) over the same period.   
+By sector, in  2021, renewables covered 22 % of energy consumption in buildings, 11 % in 
+industry but less than 1% of transport. E lectricity generation from coal decreased by 
+around 25% from 2010 to 2021 to reach 53% in 2021. It has seen a signific ant increase in 
+solar and wind. From 2010 to 2021, the average annual growth rate of electricity generation from solar was 31% . It was  13% for wind.  
+Importantly, renewables contribut e significantly  to energy consumption in buildings. 
+Australia has the highest installed capacity per capita of solar PV in the world with one in 
+three households with rooftop solar. Australia delivers low and ultra- low-cost solar, notably 
+in the utility -scale segment.  
+Investors ’ confidence is further reinforced by Australia’s new targets, which provide greater 
+impetus for renewable energy. These targets include the strengthened climate target of 
+43% of emissions reductions by 2030 alongside the g overnment ’s goal of reaching a share 
+of 82% of renewable energy by 2030 in Australia’s national electricity generation.  
+The Commonwealth RET and its renewable energy portfolio standard have been the main 
+national scheme. It was  capped in 2015 and will end in 2030. Today, there is an oversupply 
+of certificates in the market with low diversity of renewable investment. Outside solar and wind, there has n’t been any significant development of offshore wind, geothermal, biofuels, 
+biomethane, biogas or biomass or other low emission s gases.  The RET ends in 2030, and 
+only existing plants can earn certificates. There are methods for biomethane projects under the Australian Carbon Crediting Scheme.  
+The IEA recommends the government consider specific measures, such as targets  to 
+encourage the development of a broad portfolio of renewables and focus on dispatchable renewables , related storage and hybrid renewable investment, which can provide ancillary 
+system services, either via dedicated auctions or an emissions reduction pathwa y in the 
+NEM.  There may be value in expanding the RET to renewable energy gases, including 
+biogas and others and renewable heat in industry, notably for low -temperature heat 
+processes.  In December 2022, energy  ministers agreed in principle to the Commonwea lth 
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY   
+87 
+ENERGY SYSTEM TRANSFORMATION  Capacity Investment Scheme, which will underwrite investment in zero emission capacity 
+and storage technologies.  There is significant public investment in the sector; for instance, 
+the Clean Energy Finance Corporation allocates roughly 60% of its total  budget to 
+renewable energy.  
+Investment has been strong thanks to ambitious state - and territory -level plans, which have 
+increased targets, auction programmes and support schemes over time. Today, 
+large- scale generation is concentrated in a few states. And many states have very high 
+targets, which have been upgraded even further. The IEA accelerated deployment case 
+forecasts more than 85% growth in renewable energy capacity additions by 2026/27.   
+The growth of renewables, notably solar and wind power, has a considerable impact on 
+the NEM, which experiences 70- 100% instantaneous demand covered by VRE  in several 
+regions. The large share of renewables also reduces the economics of baseload coal and gas-fired generation.  
+System integration of higher shares of VRE requires a comprehensive approach to power 
+system flexibility and adequacy. This includes investment in robust electricity networks, 
+dispatchable generation, demand response and energy storage. The particular challenge 
+of system integration relates to solar PV integration, which requires more battery storage 
+and smart grids. Australia will need to lead globally in the system integration of a rising 
+share of solar PV, with an additional 30 GW of rooftop solar projected to be developed 
+by 2030. The f irst signs of a slowdown in deployment were visible in 2022, as grid 
+congestion and grid cost s can be significant in managing solar PV integration.  
+The Energy Security Board and the AEMO have made significant progress in adapting the 
+market rules and the system operation to integrate a higher share of renewable energy in 
+the market and system. This includes the introduction of the I ntegrated System Plan  with 
+REZs  and expanded scope for essential services  and rules for distributed energy 
+resources , all key recommendations from the IEA’s 2018 review. The AEMO’s Step 
+Change Scenario in the 2022 ISP models the NEM to reach 83% of renewable energy 
+by 2030. The ISP promotes REZs , which , if aligned at the Commonwealth and 
+state/territory level, can create a coherent and system -friendly roll -out, alleviating 
+congestion and overinvestment in transmission. Co-ordinated investment schemes based 
+on the ISP and transmission investment are critical elements of the system integration at 
+the transmission level. Integrating very high shares of renewable energy , however , will 
+require new tools and market  rules  for a broad- ranging set of flexibility sources and 
+technology innovation, as described in C hapter  7.  
+Achieving the national 82% renewable electricity target will depend not only on system integration, but also on lifting supply chain constraints  and securing the social licenc e for 
+new infrastructure development, including transmission investment.  
+The Australian Government aims to promote local manufacturing to overcome supply 
+chain bottlenecks. D eveloping  a renewable energy industrial strategy can indeed help 
+overcome supply chain bottlenecks and support announced ambitions for Australia to 
+become a renewable energy superpower, with significant exports and trade opportunities 
+in Asia.  
+Project lead times have halved, which is promising for the future deployment of wind. 
+Conversely , a slowdown in growth and an increase in project lead times have emerged for 
+solar PV . The government has an essential role to play in completing electricity 
+IEA. CC BY 4.0.
+
+5. RENEWABLE ENERGY   
+89 
+ENERGY SYSTEM TRANSFORMATION   Boost investment in a diverse renewables technology portfolio by considering 
+dedicated targets for renewable gases, offshore wind and energy storage to boost the 
+overall decarbonisation of the economy.  
+ Develop a renewable energy industrial strategy aligned with Australia’s green superpower ambition preparing actions to boost the development of resilience in supply chains, skills, ports and cybersecurity.  
+ 
+References  
+CER  (Clean Energy Regulator ) (2022) , Postcode data for small -scale installations , 
+https://www.cleanenergyregulator.gov.au/RET/Forms -and-resources/Postcode- data- for-
+small -scale -installations  
+Clapin , L. and T. Longden (2022), Waiting to generate: An analysis of wind and solar 
+project development lead- times in Australia's National Electricity Market, Zero Carbon 
+Energy for the Asia- Pacific ZCEAP Working Paper, ZCWP07- 22, 
+https://iceds.anu.edu.au/files/ZCEAP_CCEP_WP_Lead%20times%20solar%20wind.pdf  
+IEA (International Energy Agency) (2022a), IEA World Energy Statistics and Balances 
+(database), https://www.iea.org/data- an d-statistics/data -product/world- energy -balances  
+(accessed on 15 December)  
+IEA (2022b), Renewable Market Report 2022, 
+https://iea.blob.core.windows.net/assets/64c27e00- c6cb -48f1- a8f0-
+082054e3ece6/Renewables2022.pdf  
+IEA. CC BY 4.0.
+
+91 
+ENERGY SYSTEM TRANSFORMATION  
+ 
+6. Energy R&D and innovation  
+Key data  
+(2021)  
+Total public energy (RD&D) expenditure : USD 309 million ( 2021 prices and exchange rates)  
+Energy RD&D budget as a share of GDP : 0.019% of GDP (IEA average: 0.03 9%) 
+Overview 
+Investment in energy technology development is a core part of Australia’s climate strategy.  
+In 2022, Australia legislated a target to achieve net zero emissions by 2050 and a 43% 
+reduction in GHG emissions by 2030 under the Climate Change Act 2022. The related 
+Climate Change (Consequential Amendments) Act 2022 changed 14 other pieces of  
+legislation to focus government institutions on achieving the targets set in the Climate Change Act, notably Australia’s funding agencies  – ARENA, the CEFC, the CER and 
+CSIRO.  This will further strengthen Australia’s energy technology investment framework . 
+Australia has ample availability of clean energy finance and investment and a resilient 
+project pipeline. Over the last ten years, the Australian Government’s green bank, the CEFC , has invested AUD  11.14 billion in renewable energy and energy infrastructure (on 
+average AUD  1 billion per year). CEFC funding catalysed a total of AUD  38.65 billion in 
+clean energy investment (CEFC, 2022) in ten years.  
+However, R&D programmes in energy have been few and have decreased in scope over 
+the past decade.  Public funding on energy -related research development and 
+demonstration (RD&D) remained below the IEA average of 0.03% , with a share of 0.019 % 
+of GDP in 202 1. According to IEA data, public spending on energy RD&D for 2021 stood 
+at USD  309 million or AUD  457 million. The focus has been on commercialising, 
+demonstrating and deploying key renewable and clean energy technologies, such as low -
+cost solar, wind, energy storage, electrification, energy efficiency and hydrogen.  
+Australia’s know -how, new technology  partnerships and multilateral engagement in critical 
+technology and innovation in the clean energy sector have been recognised globally.  
+Australia has been at the forefront of solar research since the 1980s. With one  in five solar 
+panels (i.e.  PERC) in th e world having come from Australian research.  The country’s  new 
+technology partnership approach is a significant  driver for international co- operation, 
+notably on hydrogen trade, critical minerals and resilient clean energy supply chains.  Australia has major opportunities from boosting energy -related R&D to accelerat e 
+Australia’s energy transformation and reach its ambition of becoming a green energy 
+exporter  and the development of domestic industries and manufacturing. Powering 
+Australia can pave the way towards  a new strategic approach to build an energy RD&D 
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT,  AND INNOVATION  
+92  policy and stronger commitments to public -private partnerships as well as clean energy 
+trade partnerships  and climate finance.  
+Energy innovation priorities and guiding documents7 
+The National Collaborative Research Infrastructure Strategy and related five- year National 
+Research Infrastructure Roadmap, implemented through the biannual Investment Plan, 
+form the overarching planning frameworks for the prioritisation and funding of all r esearch 
+activities across sectors, including energy.  
+Australia’s Climate Change Act  2022  does not explicitly highlight energy RD&D. The National  
+Energy Transformation Partnership, agreed with states and t erritories in August 2022, 
+includes plans to develop a Clean Energy Strategy for First Nations, among other areas.  
+Technology and innovation have been at the heart of Australia’s climate strategy for the past decade. Building on the Long- Term Emissions Reduction Plan, the  former 
+government’s  Technolo gy Investment Roadmap ( 2020) set out six priorities for clean 
+energy technology and innovation, with a major emphasis on achieving cost parity, commercialisation and emissions reductions. The former g overnment ’s road  map focused 
+on cross -sector cost breakt hroughs in clean hydrogen, energy storage, carbon capture 
+and storage (CCS), ultra -low-cost solar, green steel and aluminium , and measuring soil 
+carbon. Australia’s National Hydrogen Strategy was adopted in 2019 under the Council of 
+Australian Governments Energy Council involving all states and territories.  
+In 2022, the Powering Australia p lan set out the key clean energy technologies as solar, 
+wind, energy storage and hydrogen, plus support to help decarbonise hard- to-abate 
+sectors such as cement, construction and agriculture.  In 2021, the Australian Council of Learned Academies advi sed the government to favour 
+a new strategic approach to an energy RD&D policy in Australia. In consultation with key 
+stakeholders and building on international learnings, the council presented the Australian 
+Energy Transition Research Plan. The plan finds that Australia’s performance is very good in science, engineering and technology -related energy research but could be stronger in 
+arts, social science and humanities. However , it notes that a successful energy transition 
+must be more people- centred, focusing on communities ’ jobs, skills and livelihoods .  
+To meet  the net zero emissions by 2050 ambition, the p lan identified key research priorities 
+across three themes: 1)  energy system dynamics (transition pathways, technology and 
+systems integration) ; 2) transition dynamics (policy, social licenc e and communication) ; 
+and 3)  social engagement dynamics (governance, risks and industry /jobs).  
+Based on a review of international experience, the Australian Energy Transition Research 
+Plan identified a number of important lessons for Australia on how to build a 
+comprehensive ecosystem for knowledge sharing and research collaboration involving industry and acad emic partners.  
+ 
+7 This and the following sections are structured according to the IEA framework for energy innovation policies. 
+Technology innovation processes are complex and decision makers must pay attention to a variety of elements. The 
+IEA groups these elements into four core functions: A) resource push; B) knowledge management; C) market pull; and 
+D) socio -political support. Successful energy innovation ecosystems have effective policies in each of the four areas. 
+In some cases, the policies might operate at different levels, such as local, national or municipal . See:  
+https://www.iea.org/reports/tracking -clean- energy -innovation  
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT AND INNOVATION  
+95 
+ENERGY SYSTEM TRANSFORMATION  Figure 6.2  Public budget on energy RD&D per GDP in IEA countries, 202 1 
+ 
+IEA. CC BY 4.0.  
+In 2021 , Australia’s public budget on energy RD&D per GDP was at the lower end of IEA 
+countries.  
+Note s: GDP = gross domestic product. 2019 data are not available for Greece, Luxembourg or Lithuania.  
+Source: IEA , (2022b) . 
+In 2021, 34% of the total budget of USD  309 million was allocated to fossil fuels, 25% to 
+hydrogen, followed by cross -cutting technologies (11%), renewables (10%), energy 
+efficiency (10%), other power and storage (5%) , and nuclear (4%). Since 2018, Australia 
+has increased its share of the RD&D bud get dedicated to hydrogen.  
+Figure 6.3  Public budget on energy RD&D by sector  in Australia , 2003- 2021  
+ 
+IEA. CC BY 4.0.  
+Public spending on energy RD&D peaked in 2013 before plummeting over the last decade. 
+Note s: PPP = purchasing power parity. IEA data do not include the commercialisation and finance data  nor tax 
+credits . 
+Source: IEA , (2022b) . 
+With regard to private sector R&D expenditure on energy, the Australian Bureau of 
+Statistics ’ latest survey reported AUD  857.1 million, representing 4.72% of total Australian 
+business expenditure on R&D in 2019- 2020.  0.00%0.02%0.04%0.06%0.08%0.10%0.12%0.14%Share of GDP
+0 100 200 300 400 500 600 700 800 900USD million (2021 prices and 
+PPP)Cross-cutting
+technologies
+Other power and storage
+Hydrogen
+Nuclear
+Renewables
+Fossil fuels
+Energy efficiency
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT,  AND INNOVATION  
+96  Commercialisation  
+Since its creation in 2012, the CEFC has invested around AUD  11 billion in renewables, 
+grids, energy storage, waste and bioenergy, resources, built environment , and clean tech. 
+In the wind and solar sector, for example, it has  financed 42 projects adding 2.1 GW of 
+solar capacity and 1.5 GW of wind. Besides project finance, the CEFC has also invested 
+in four of Australia ’s infrastructu re asset funds  (CEFC, 2022).  
+In 2022, the government announced a capital increase of AUD  11 billion to the CEFC to 
+realise investment in grids and grid- related clean electricity infrastructure as part of the 
+Rewiring the Nation initiative. This would be the first new capital to the CEFC in its ten -year 
+history. Battery storage and hydrogen are the CEFC’s key future investment areas  
+alongside the AUD  500 million Powering Australia Technology Fund and leveraging 
+AUD  500 million in private investment as a CEFC  equity vehicle.   
+Since 2012, ARENA has supported 632 projects with AUD  1.96 billion in grant funding, 
+which leveraged a total investment of AUD  8.81 billion in Australia’s renewable energy 
+industry (or AUD  1: AUD  3.48). ARENA provides grant funding f or renewable energy 
+projects across the innovation chain, from applied research to pre- commercial 
+deployment. In 2022, the Australian Government expanded ARENA’s functions to include 
+the provision of support for energy efficiency and electrification techno logies and grids.  
+In 2022, the government announced the National Reconstruction Fund, with the stated 
+objective of providing finance for projects that diversify and transform Australia’s industry 
+and economy. The AUD  15 billion National Reconstruction Fund will allocate around 
+AUD  3 billion to renewables and emissions reduction technologies.  
+Knowledge management  
+In 2019, the share of climate- related patent applications in all technologies followed the 
+OECD trend, growing at the beginning of the decade and slightly declin ing afterwards.  
+Figure 6.4  New patents in clean energy technologies in Australia, 2000- 2019  
+ 
+IEA. CC BY 4.0.  
+Australia’s new patents were oriented towards clean energy technologies in 2019. 
+Source: OECD , (2022) . 
+  0%2%4%6%8%10%12%14%16%
+0 50 100 150 200 250Number of patentsWaste
+Nuclear
+Other power and storage
+Hydrogen and fuel cells
+Fossil fuels
+Energy efficiency
+Renewables
+OECD - total
+Share of all patents Australia
+(right axis)
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT,  AND INNOVATION  
+98  
+Technology collaboration programmes 
+(TCPs) Contracting parties  
+End-use: Electricity  2 
+User -Centre Energy Systems (USERS TCP)  University of New South Wales ,  
+Monash University  
+Smart Grids (ISGAN TCP)  CSIRO 
+End-use: Industry  0 
+End-use: Transport  1 
+Advanced Materials for Transportation (AMT 
+TCP)  Curtin University  
+Fossil fuels 4 
+International Centre for Sustainable Carbon 
+(ICSC TCP)  Australia National Low Emissions Coal 
+Research & Development, Department of 
+Industry, Science and Resources  
+Enhanced Oil Recovery (EOR TCP)  Department  of Premier and Cabinet 
+(South Australia)  
+Gas and Oil (GOTCP)  CSIRO  
+Greenhouse Gas R&D Programme (GHG TCP)  CSIRO  
+Fusion  3 
+Plasma Wall Interaction (PWI TCP)  Australian Nuclear Science and Technology 
+Organisation, Australian National University  
+Stellarator -Heliotron (SH TCP)  Australian National University  
+Tokamak Programmes (CTP TCP) Australian Nuclear Science and Technology 
+Organisation  
+Renewable energy and hydrogen  8 
+Bioenergy TCP  Bioenergy Australia, University of the Sunshine 
+Coast  
+Concentrated Solar Power (SolarPACES TCP)  ITP Renewables  
+Geothermal Energy (Geothermal TCP)  Department  of Energy and Mining 
+(South Australia)  
+Hydrogen TCP  Curtin University, Griffith University  
+Hydropower TCP  Hydro Tasmania  
+Ocean Energy Systems (OES TCP) CSIRO, Australian Marine Energy Taskforce  
+Photovoltaic Power Systems (PVPS TCP) Australian PV Institute, Sustainable Energy For 
+ALL 
+Solar Heating and Cooling (SHC TCP)  Sustainable Energy Transformation Pty. Ltd., 
+CSIRO  
+TOTAL  22 
+Notes: DCCEEW  = Department for Climate Change, Energy, the Environment and Water ; CSIRO  = Commonwealth 
+Scientific and Industrial Research Organisation; PV = photovoltaics .  
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT AND INNOVATION  
+99 
+ENERGY SYSTEM TRANSFORMATION  Australia also participates in the Mission Innovation initiative to accelerate global clean 
+energy innovation. Australia co-leads Mission Innovation’s Hydrogen Mission and the new 
+Net Zero Industries Mission, which aims to demonstrate at least two low emis sions 
+technologies for all major heavy industry sectors by 2030.  
+Under the Clean Energy Ministerial ( CEM ), Australia co- leads the new Transforming Solar 
+Supply Chains initiative and is a member of the CEM Hydrogen Initiative (H2I), increasing 
+links with t he International Partnership for Hydrogen and Fuel Cells in the Economy and 
+Mission Innovation. Australia is also a member of the Carbon, Capture, Utilisation and 
+Storage Initiative.  
+In July 2022, the Australian Government  and the IEA co- hosted the Sydney Energy Forum 
+jointly  with the Australian Business Council. One of the major outcomes  of the forum was 
+an agree ment  to boost collaboration on energy RD&D needs in the Indo- Pacific region. 
+This supports the energy transition in the Indo- Pacific, clean energy technologies and 
+critical clean energy supply chains; enabling markets, capabilities and structures, notably for solar PV and battery technologies, critical minerals and gigafactories needed to 
+produce them  in Australia, and the development of hydrogen supply chains to export clean 
+energy across the region. The forum was initiated by the prime minister of Australia, with 
+support from Prime Minister Modi, President  Biden and former Prime Minister Suga.  
+Market pull 
+Australia is focused on creating economic added value by transforming its mineral 
+resources into higher  value products for exports, creating manufacturing j obs and 
+export -r
+eady technologies, notably in hydrogen, ammonia, green metals and renewables , 
+and critical minerals.  
+Hydrogen 
+The National Hydrogen Strategy of 2019 aims  to build a clean, innovative, safe and 
+competitive global hydrogen sector in Australia. It set in motion an industrial programme 
+with strong international partnerships.  
+In 2022, Australia ranked second globally behind Europe in electrolyser capacity projects 
+expected to come online by 2030 (IEA, 2022 c). Australia’s Hydrogen Energy Supply Chain 
+(HESC) project was the first in the world to ship hydrogen from Hastings, Victoria to Kobe, 
+Japan in January 2022. After the demonstration phase with unabated coal, in its second 
+phase, HESC will be shipping low -emissions hydrogen production using CCUS.  
+Exports projects proposed in the area of low -emission  hydrogen would entail the 
+installation of 120 GW of new renewable energy projects. These projects include the 
+Australian Renewable Energy Hub (26 GW), Yara Pilbara (5 GW), Pro vince HyEnergy 
+(8 GW), Murchison Renewable H2 (5 GW), Infinite Green Energy (1  GW), the Western 
+Green Energy Hub (50 GW), Fortescue Future Industries (2 GW), Stanwell (3  GW), the 
+Hydrogen Utility (3 GW) and the proposed Australia -Asia Power Link (AAPowerLi nk) 
+(20 GW).  
+  
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT,  AND INNOVATION  
+100  Thanks to ample and low -cost solar and wind with major Asian demand centres within 
+reach, Australia’s hydrogen production from renewable electricity could reach 3 million 
+tonnes of hydrogen by 2030 based on the project pipeline, corresponding to an electrolyser 
+capacity of nearly 50 GW. Some challenges arise with supply chain issues, scalability 
+(Australia does not have offshore wind yet) and the climate of Australia: South Australia’s electrolyser project with 6 GW of renewable electricity supply was cancelled in 2022 due to water supply concerns. Australia’s LNG terminals are good locations to also deal with hydrogen exports and many demonstration projects  are underway (Gladstone).  
+Figure 6.5  Hydrogen and CCS clusters and hubs across Australia 
+  
+Note: CCS = carbon capture and storage.  
+Source: IEA, (2022).  
+  
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT AND INNOVATION  
+105 
+ENERGY SYSTEM TRANSFORMATION  Private sector R&D expenditure on energy is also significant. The Australian Bureau of 
+Statistics’ latest survey shows a total of AUD  857.1 million, representing 4.72% of 
+Australian business expenditure on R&D in 2019- 2020.  
+Australia’s public spending allocated to energy RD&D has been much smaller in scope 
+and funding than the IEA average. In 2021 , Australia’s budget on public expenditure on 
+energy -related RD&D amounted to 0.01 9% of GDP, half of the IEA average. The public 
+energy RD&D budget peaked in 2013 at USD  840 million, dropped from 2014 to 2016, and 
+increased  again after 2018 to reach US D 309 million in 2021. In the same year, 34% of 
+the total budget was allocated to fossil fuels, 25% to hydrogen, 11% to cross- cutting 
+technologies, 10% each to renewables  and energy efficiency, 5% to other power and 
+storage, and 4% to nuclear. Since 2018, Australia has increased its share of the RD&D 
+budget dedicated to hydrogen.  
+Nevertheless, energy RD&D funding by ARENA and the CEFC does not yet match the 
+government’s ambition for reaching net zero emissions by 2050. The IEA estimate s that, 
+on a path toward net zero emissions by 2050, many technologies already exist today but 
+need to be scaled up. Governments need to invest today in the development and 
+demonstration of the most critical technologies needed by 2050. This is notably true for 
+the hard- to-abate sectors, where demonstration has to start before 2030.  The Australian 
+Government should refocus its funding programmes.  
+Across all sectors, Australia offers a R&D  tax incentive programme (since 2011) and an 
+investment rebate which limits the tax burden of revenues gained from investment in 
+start- ups. The Australian Research Council is Australia’ s main funding agency for research 
+grants. CSIRO is dedicated to working with industry and government on technology R&D , 
+analysis and technology road maps . However, CSIRO covers the entire economy and the 
+energy technology and innovation focus could be boosted by building on existing funding and expanding collaboration with the DCCEEW and international partners.  
+While clean energy finance is available in Australia, there appears to be a lack of capital 
+for risk ier investments and insufficient venture capital for the energy sector, with a gap in 
+early -stage development and access to research collaborat ions, such as co-operative 
+research centres and ARENA for start -ups and academia/universities.  
+The government should support global energy RD&D partnerships for Australian start -ups 
+by enhancing the university research landscape, collaboration with business , and start -ups 
+and spin- offs. Sinc e 2012, Australia’s share of climate- related patent applications in all 
+technologies has been like  the OECD average. New patents in climate change mitigation 
+technologies were 10% of all patent applications in 2019, compared to 9% in the OECD.  
+The government needs to strengthen market -pull frameworks, align supportive 
+government policies, identify and lift regulatory barriers , and ensure there are policies to  
+support the creation of new clean energy markets. This applies to the hydrogen supply 
+chain where a blending framework would be useful, alongside regulations around the 
+availability of water and low  emission s fuel standards. For example, the absence of CAFE 
+standards has hampered technology innovation in low  emissions vehicles and alternative 
+fuels. Equ ally, the absence of NEM -wide rules on distributed energy and demand response 
+limits the scale of smart energy roll -out.  
+Australia is currently working on a range of policy settings and technologies to help reduce its emissions, adopting a pragmatic, evidence- based approach to achieve real emissions 
+IEA. CC BY 4.0.
+
+6. ENERGY RESEARCH, DEVELOPMENT,  AND INNOVATION  
+106  reductions with all technically and economically viable technologies playing a role. Some 
+of the challenges Australia faces include: the development of economic drivers that entice 
+industry uptake of CCUS technology (like direct air capture) and attaining a deeper 
+understanding of Australia’s onshore and offshore geological storage potential to support 
+future planning and attract investment; and demonstrating the social value of CCUS of its 
+potential and versatility.  
+The Australian Government is in a unique position to promote offshore wind deployment, 
+t
+ransmission and related hydrogen/electrolyser, including in current petroleum production 
+areas. The petroleum licensing regime does not allow for the operation of renewable 
+energy on site, such as floating wind power. Electrification of LNG production processes 
+would , however, be an interesting opportunity not only for boosting local manufacturing 
+but also for emissions reductions. The government should seek to amend the rules as 
+necessary to include CCUS in Australia’s Carbon Crediting Scheme and facilitate the use 
+of renewable energy at offshore production sites .  
+On hydrogen, Australia is taking the lead in developing global hydrogen trade. In 2022, it  
+came second after Europe in electrolysis investment. Australia was an early leader in 
+demonstrating CCS technology and adopting the regulatory framework. CCS could 
+support export opportunities for low- carbon hydrogen in Australia, with a pilot study 
+underway in Victoria using lignite to produce hydrogen for export to Japan. Australia is 
+home to the world’s largest dedicated CO 2 storage facility, located at the Gorgon LNG 
+plant, and several projects are in the advanced stages of development. While Australia 
+has strong plans, strategies and targets for boosting low  emissions hydrogen and CCS, it 
+will reduce its global reach if it does not promote a domestic market. Market -pull policies 
+are therefore critical and dedicated strategies and implementing frameworks must be 
+finalised. A low emissions gases regulatory framework would support the industrial 
+opportunities within Australia.  
+At the international level, Australia is a partner in bilateral and multilateral technology 
+co-operation. Since 2021, Australia has had around ten bilateral energy technology 
+partnerships with the leading markets for low  emissions technologies development, 
+including Germany, India, Japan,  Singapore,  the U nited Kingdom and the United States. 
+In 2022, Australia participated in 22 of 39 IEA t echnology collaboration programmes, 
+notably on renewable energy, hydrogen and fossil fuel- related technology activities but 
+also several energy efficiency/end- use activities.  In addition,  Australia co -leads Mission 
+Innovation’s Hydrogen Mission as well as  the new Net Zero Industries Mission.  
+Under the Clean Energy Ministerial, Australia co- leads the new Transforming Solar Supply 
+Chains initiative and participat es in the CEM Hydrogen Initiative.  In addition,  it is a member 
+of the CEM Carbon, Capture, Utilisation and Storage Initiative.  
+Recommendations  
+The government of Australia should:  
+ Design a cross -government energy research, development  and innovation strategy for 
+developing economic opportunities in Australia and for exports, underpinned by 
+funding programmes and global collaboration.  
+IEA. CC BY 4.0.
+
+109 
+ENERGY SECU RITY 
+7. Electricity  
+Key data  
+(2021)  
+Electricity generation : 265 TWh; + 5% since 2011 NEM: 203 TWh  
+Electricity generation mix : coal 52.9%, natural gas 18.8%, solar 10.5%, wind 9.3%, hydro 
+5.6%, oil 1.8%, bioenergy and waste 1.3%  
+Electricity consumption : 239 TWh (industry 43%,  residential buildings 27%, service sector 
+buildings  27%, transport 3%); + 6% since 201 1  
+Peak load (2020) : 41.9 GW  
+Installed capacity  in Australia  (2022): 86.7 GW (29% variable renewables), NEM: 65 GW  
+Overview 
+The Australian Government is progressing with a number of  new reforms as part of its 
+Powering Australia plan. The government presented plans  to reach a share of 82% of 
+renewables in Australia’s  electricity mix by 2030. The system operator AEMO  forecasts  a 
+share of 83% of renewable energy by 2030 would be aligned with the government’s goal 
+of a 43% emissions reduction by 2030 (from 2005 levels) in the effort to achieve net zero 
+emissions by 2050, as enshrined in the Climate Change Act 2022. 
+In August 2022, energy ministers committed to a new National Energy Transformation 
+Partnership. The partnership will serve as a framework for the actions that Australian 
+governments must take to maintain a reliable, secure and affordable electricity system  and 
+support the decarbonisation of Australia’s energy system. Reforms to the NEM structure, 
+its governance and reliability settings, as well as the reforms to the domestic gas market, 
+are progressed alongside a stronger focus on consumers and demand- side action.  
+Since the last IEA review, the Australian Government has been implementing measures 
+to manage the integration of variable renewable energy into the electricity system, as conventional coal -fired power plants are being retired faster than anticipated. Progress has 
+been guided by the AEMO’s ISP and supported by key reforms, including the introduction of the five -minute settlement and new market rules for ancillary services, as proposed by 
+the AEMC.  
+The government is placing strong focus on Rewiring the Nation, an initiative to advance 
+the electricity interconnections and bolster grids to handle more renewable power reliably. 
+Australia’s energy infrastructure and system must withstand ever more significant extreme weather events, such as bushfires, floods and heat waves.  
+IEA. CC BY 4.0.
+
+7. ELECTRICITY  
+110  To ensure adequate firming capacity in the NEM jurisdictions to back up fast -rising variable 
+renewables, the Australian G overnment, states , territories and the market bodies have 
+worked together to introduce a series of “Post- 2025” NEM  reforms across four key reform 
+pathways : 1) resource adequacy mechanisms and ageing thermal retirement ; 2) essential 
+system services and scheduling ahead mechanisms ; 3) effective integration of distributed 
+energy and flexible demand; and 4)  transmission and access reform. In December 2022, 
+energy ministers agreed to the Commonwealth Capacity Investment Scheme, which will 
+underwrite zero emissions capacity and storage technology.  
+Due to the global energy crisis, a result of Russia’s invasion of Ukraine and its impact on 
+global energy markets, Australia has seen a period of sustained high wholesale electricity prices, driven in part by high coal and natural gas prices. The AEMO suspended the spot 
+market in all regions of the NEM between 15 and 24 June 2022 as  the market could not 
+continue to operate effectively and ensure a secure and reliable supply of electricity for 
+consumers. High fuel costs have led to increasingly high price volatility, inflationary pressures and rising household bills. The Australian pa rliament  passed legislation in 
+December 2022 to cap coal and gas fuel prices as a short -term emergency measure for 
+12 months. The law caps the domestic gas price at AUD 12 per gigajoule (GJ). It also limits 
+domestic coal prices to AUD  125 Australian per me tric ton ne in the states of New South 
+Wales and Queensland.  
+Electricity generation  
+Installed capacity 
+In 2020, Australia had a total installed capacity of 86.7 GW, of which 29% was coal and 
+28% natural gas. This compares to a peak demand of 41.9 GW. The installed capacity of 
+hydro has remained stable, but solar PV has accelerated quickly.  
+Australia’s electricity generation is heavily reliant on coal and natural gas, although the 
+role of coal in electricity generation is gradually decreasing and i s being  replaced by 
+renewable energy sources. Total  electricity generation in 2021 was 265 TWh, a 5% 
+increase since 2010. In 2021, coal covered 53% of total generation, followed by natural 
+gas (19%), solar (10.5%), wind (9%), hydro (6%), and small shares of oil (2%) and 
+bioenergy and waste (1.3%).  
+All of the incremental growth in power demand since 2000 has been met by renewables. The carbon intensity of power generation has been falling for decades. Electricity 
+generation from coal decreased by 22% from 2010 to 2021, thanks to the rapid increase 
+of generation from solar and wind, which was driven by a combination of subsidies and rapidly falling capital costs . The average annual growth rate of electricity generation from 
+solar from 2010 to 2021 was 56%. It  was 16% for wind. In fact, renewable energy 
+penetration is more than demand. Today, around 30% of Australian households have solar PV on their roof, the highest penetration rate in the world.  
+ 
+IEA. CC BY 4.0.
+
+7. ELECTRICITY   
+111 
+ENERGY SECURITY  Figure  7.1  Electricity generation by source in Australia, 2000 -2021  
+ 
+IEA. CC BY 4.0.  
+Australia’s electricity mainly comes from coal, with an increasing share of natural gas  since 
+2008 . Since 2000, all the power demand growth has been met by renewables.  
+Note : TWh = terawatt  hour.  
+Source: IEA , (2022a) . 
+Electricity demand  
+Supported by strong economic growth, notably in the commercial buildings sector, 
+Australia’s electricity demand has increased by 6 % in the past decade, reaching 239 TWh 
+in 2021 , compared to 223 TWh in 2010 (Figure 7.2) . The industry sector consumed 
+103.4 TWh (43% of the total), followed by service sector buildings at 63.7 TWh (2 7%), 
+residential buildings at 65.6 TWh (2 7%) and the transport sector at 6.5 TWh (3%).  
+Figure 7.2  Electricity final consumption by sector in Australia, 2000- 2021 
+ 
+IEA. CC BY 4.0.  
+Electricity is the main source of energy for both the industry and buildings sectors.  
+Note: TWh = terawatt  hour.  
+Source: IEA , (2022a) . 
+In 2020, the Covid -19 pandemic led to only moderate reductions in electricity demand, with 
+changes at the scale of yearly weather variations. The pandemic slightly influenced the 0 50 100 150 200 250 300TWh
+Wind
+Solar
+Bioenergy and
+waste
+Hydro
+Oil
+Natural gas
+Coal
+0 50 100 150 200 250TWh
+Transport
+Service sector
+buildings
+Residential
+buildings
+Industry
+IEA. CC BY 4.0.
+
+7. ELECTRICITY  
+112  demand curve, however, with a significant decrease in the morning peak (between 6 am and 
+8 am), partially offset by slight increases in daytime demand and higher evening peak.  
+Self-consumption has moderated the increase in electricity demand from the grid. For 
+example, in the NEM, total electricity consumption was 3% higher in 2020 than in 2014, 
+but electricity demand from the grid decreased by 2% over the same period, with 13 TWh 
+generated from rooftop solar in 2020.  
+Power systems in Australia 
+The NEM is the most extensive integrated power system and wholesale electricity market 
+in Australia, incorporating five states and the Australian Capital Territory and covering all 
+of the east coast  through to South Australia. Western Australia has two separate systems : 
+the South West Interconnected System (SWIS) and the North West Interconnected 
+System. The AEMO operates the NEM and the W holesale Electricity Market  for the SWIS, 
+which is  not connected to the NEM and not a focus of this  review.  
+Figure 7.3  Electricity generation mix and power systems in Australia  
+ 
+Source: IEA, (2022).  
+IEA. CC BY 4.0.
+
+7. ELECTRICITY   
+113 
+ENERGY SECURITY  The National Electricity Market 
+The NEM is comprised of five regions : Queensland, New South Wales  (includ es the 
+Australian Capital Territory) , Victoria, South  Australia  and Tasmania. The NEM 
+transmission system is long and weakly interconnected. Its topology reflects its genesis as 
+a collection of state- based power systems serving local centres of generation and load. 
+Six cross- border interconnectors link the five state -based transmission networks. Three of 
+these are owned by s tate governments. T he other three are privately owned. There are 
+three DC interconnectors: Directlink (NSW -QLD Terranora), Murraylink (VIC -SA) and 
+Basslink (TAS -VIC); and three AC interconnectors : Heywood (VIC -SA), Victoria to NSW 
+Interconnector, and Queensland- NSW  Interconn ector (QNI). 
+Substantial interregional power flows occur between the NEM market regions. Queensland has surplus generation capacity, making it a net electricity exporter. Victoria was traditionally a net exporter of electricity thanks to low -priced lignite- fired generation, but 
+significant coal plant retirements (Morwell  in 2014, Anglesea in 2015 and Hazelwood in 
+2017) and outages contributed to the state becoming a net importer for the first time in 2019. New South Wales has relatively high fuel costs, typically making it a net importer 
+of electricity. South Australia and Tasmania have a net import balance close to zero.  
+Electricity generation outlook and investment  
+By the end of 2022, the installed generating capacity in the NEM reached 6 5 GW plus 
+around 15 GW of solar rooftop PV. Peak demand in the NEM was 35 GW in 2020, the 
+highest peak load since 2017. By April 2021, over 2.3 million customers had installed solar 
+PV panels , or the equivalent of 30% of all households.  
+The AEMO ’s Step Change S cenario in the ISP  2022, the core energy transition pathway 
+in line with the government’s targets, models  the NEM with renewables generating 83% of 
+energy by 2030- 31, 96% by 2040 and 98% by 20508. 
+In the Step Change Scenario, the NEM’s total installed capacity is forecast to increase from 65  GW in 2022 to 173 GW by 2050 (not counting distributed storage and 69 GW of 
+solar PV). It would be composed of a total of 141 GW of additional wind and solar. AEMO 
+considers a need for investment in 63 GW of dispatchable capacity to firm the large amount of variable renewables. In total, 45 GW of new dispatchable storage capacity, 7 GW of 
+existing dispatchable hydro and 9 GW of gas -fired generation by 2050 would be required 
+to meet demand, according to the AEMO. Coal -fired generation would be withdrawn faster 
+than today’s announced retirements, with 14 GW of today’s 23 GW, or 60% of current coal 
+capacity, in the NEM retiring already by 2030.  
+ 
+ 
+8 AEMO’s step change scenario forecasts annual electricity consumption from the grid will double by 2050, as transport, 
+heating, cooking and industrial processes are electrified and 60% of current  coal generation exiting by 2030. 
+IEA. CC BY 4.0.
+
+7. ELECTRICITY  
+114  Figure 7. 4  The Australian Energy Market Operator ’s electricity outlook : Step 
+Change Scenario up to 2050  
+  
+IEA. CC BY 4.0.  
+Note: GW = gigawatt; PV = photovoltaics.   
+Source: AEMO , (2022a). 
+Current investment trends already point to this energy system transformation being under 
+way, with a major increase  expected from wind power (see Figure 7.5 and Chapter  5) in 
+the coming years. Investment in renewable energy and distributed energy sources has 
+been strong and growing, even during the Covid -19 pandemic. In 2022, around 3 GW of 
+large- scale solar and wind generation capacity entered the NEM , including Australia’s 
+largest solar farm, wind farm, and hybrid facility, with projects becoming larger and more complex than ever before. Up to 2030, major planned investment in the NEM will result in 
+doubling the current installed capacity. The AEMO reports around 165 GW of proposed 
+new capacity, of which 73.9 GW of wind, 38.7  GW of solar, 32.2 GW of storage, 11.3  GW 
+of hydro, 6.6 GW of gas and 0.9 GW of coal.  
+Figure 7. 5  Australia’s existing and committed scheduled generation capacities in 
+the National Electricity Market, 2022- 2030  
+ 
+IEA. CC BY 4.0.  
+Source: AEMO , (2022b). 
+Based on closure dates reported to the AEMO, 19% of coal capacity is expected to close 
+within the next eight  years. However, the actual figure will likely be much higher as many 
+coal generators have publicly announced coal generator closures earlier than what is currently reported to the AEMO (see Figure 7.4). By 2040, out of the total coal capacity of 
+23 GW, 10  plants , or 16  GW of capacity , are reaching their  end of lifetime but are likely to 0 50 100 150 200 250 300Capacity (GW)Distributed PV
+Utility-scale Solar
+Wind
+Distributed storage
+Dispatchable
+storage
+Hydro
+Gas
+Coal
+Dispatchable
+Capacity
+0 10 20 30 40 50 60 70 80 90 100
+Coal Gas Utility-
+scale solarWind Hydro Biomass Battery
+storageOtherGW
+Proposed
+Committed and
+anticipated
+Existing less
+Announced
+Withdrawal
+Annoucned
+withdrawal
+IEA. CC BY 4.0.
+
+7. ELECTRICITY   
+117 
+ENERGY SECURITY  Figure 7.7  Liquidity in the contracts market in Australia  
+ 
+IEA. CC BY 4.0.  
+Note: TWh  = terawatt hour.  
+Source: ESB, (2022) . 
+Electricity prices  
+Australia’s household electricity prices were 212 USD/MWh in 2021, including a 9% tax 
+rate, slightly above the IEA average of  205 USD/MWh, with an average IEA tax rate of 
+24%. In  2021, the share of  network charges was around 50% of the final retail price, while 
+the wholesale price is only the second- largest component  (AEMC, 2021 a). 
+Figure 7. 8  Household retail electricity prices in selected  IEA countries , 2021  
+ 
+IEA. CC BY 4.0.  
+Household electricity prices are close to the IEA average with low taxes but high network cost  
+Note s: USD/MWh = US dollar per megawatt hour. Household electricity price data are unavailable for Italy, Mexico, 
+New Zealand and Sweden.   
+Source: IEA , (2022b) . 
+In January 2021, wholesale electricity prices across the NEM (on a volume- weighted 
+average basis) were below 70 AUD/MWh in all regions. This reflects higher shares of VRE, 
+more rooftop solar PV, lower contributions from coal and gas (and related fuel costs), and lower demand. However, in June 2022, wholesale prices (on a weighted weekly average) in the NEM reached more than 300 AUD/MWh. Weekly average prices in Queensland 
+reached more than 650 AUD/MWh, as illustrated in Figure 7.9.  0 20 40 60 80 100 120 140 160 180 200TWhCap
+Base quarterly
+Swapation
+Average rate
+option
+050100150200250300350400USD/MWhPre Tax Tax component
+IEA. CC BY 4.0.
+
+7. ELECTRICITY   
+121 
+ENERGY SECURITY  
+through income transfers and energy price controls (price caps at wholesale and/or 
+retail levels, limiting margins, lowering taxes , etc.). Germany presented a 
+EUR  200 billion relief plan to finance energy price caps and energy subsidies to ease 
+the impacts of high energy prices for industry and ci tizen s. The United Kingdom 
+approved an energy price guarantee as a temporary measure in place until end of 
+March  2023 (an extension is sought for another three months) . As a result, t he average 
+household energy bill would not exceed GBP  2 500 per year.  
+The EC is working on measures to solve the issue of decreased liquidity for energy 
+retailers due to high energy cost s, requ iring increasingly high amounts of collateral for 
+gas and power trading.  European Unioncountries adopted a broad range of short -term 
+electricity market interventions. To guide those interventions, the EC presented a 
+toolbox in October 2021 for member states to mitigate the impact of high energy prices 
+on consumers’ bills. In October 2022, the European Union adopted Council Regulation 
+2022/1854, which includes for the whole European Union a 180 EUR/ MWh cap on the 
+revenues of electricity producers fac ing low production costs (so- called infra- marginal 
+technologies such as renewables  and nuclear). The revenues from this implicit 
+“windfall tax ” can be used to reduce households ’ and businesses ’ electricity bills .  
+Price caps were adopted in Portugal and Spain ( “Iberian exception” ), allowing the 
+temporary decoupling of the price of gas from power by setting a maximum gas price 
+of about 50  EUR/ MWh. Governments provide a subsidy payment to gas generators, 
+compensating for the difference in the market price of gas and the wholesale price cap. 
+This lower gas price is passed on to the electricity wholesale market, as gas remains 
+the marginal price setter.  
+The EC is accelerating work on the structural reform of the EU electricity market 
+design. For March 2023, it intends to examine options for  short -term reforms focused 
+on the lessons learnt from the current crisis along four key areas:  
+ investment signals in power sector decarbonisation: public finance (contracts for 
+difference), private finance ( power purchase agreements ) 
+ introduction of a permanent shock absorption mechanism: continuation of the revenue 
+cap on infra- marginal technologies (possible in case of sustained high- fuel prices)  
+ improving short -term and balancing markets by lifting barriers to flexibility and grid 
+constraints (network code for flexibility, storage, demand response)  
+ retail and consumer -focused policies, improved liquidity for retailers amid high price 
+volatility.  
+Sources: IEA, (2022c); EC, (2022) ; Sgaravatti, Tagliapietra and Zachmann, (2022) . 
+ 
+Managing annual and seasonal variability of variable 
+renewables  
+In 2020, renewable generation including rooftop solar PV accounted for almost 20% of 
+total power generation in the NEM. That same year, wind output  exceeded gas generation 
+for the first time in the NEM  and is often curtailed.  For instance, on 21 November  2021 in 
+ 
+IEA. CC BY 4.0.
+
+7. ELECTRICITY  
+122  South Australia, rooftop solar covered all demand, the actual electricity demand on 
+thenetwork reached negative values around midday, which led to a large curtailment of 
+wind generation.  
+Figure 7.1 2  South Australia electricity balance, 21 November 2021  
+ 
+IEA. CC BY 4.0.  
+As rooftop solar covered all demand, the actual electricity demand on the network reached 
+negative values around midday. A large share of wind generation was curtailed  as a result . 
+Note: MW = megawatt; PV = photovoltaics.  
+Source: GPE , (2022) . 
+Growth in rooftop solar PV is shifting the daily peak later in the day to the early evening 
+when solar output is low or unavailable and business and residential use overlaps. On the 
+other hand, the grid is starting to experience periods with very low demand in the middle of the day, posing challenges to the market operator in balancing supply and demand and maintaining the system in a secure operating state.  
+Most of Australia’s jurisdictions now have a summer peak, driven by a very high demand 
+for space cooling. Seasonal reliability issues have begun to emerge during “ shoulder ” and 
+“winter ” periods in addition to the summer peak, which has been increasing in recent years. 
+The NEM system operator , the AEMO , is under pressure to adapt its system operation 
+practices and seasonal power system security settings.  
+Some NEM regions are experiencing very high levels of intra- day renewable penetration. 
+In recent years, for several periods South Australia operated a power system where distributed and grid- scale solar PV generation exceeded total regional demand. By  2025, 
+other mainland NEM jurisdictions could be regularly operating for periods of the day with close to or above 50% renewable penetration. As in many markets around the world, Australia now also sees negative prices emerge in the wholesale electricity market during 
+such periods. Future power system operation will experience these situations on a regular 
+basis . 
+According to the AEMO ’s 2022 ISP , in 2030, 50- 52% of total generation will come from 
+grid-scale VRE and about 18% from distributed VRE. The AEMO forecasts that in five 
+years , 313% of additional investment in utility -scale storage will be required to manage 
+real-time power system stabilisation more efficiently and support cos t-effective load - 100 400 9001 4001 900MW Net import
+Gas
+Battery discharge
+Battery charge
+Wind
+Solar
+Rooftop PV
+Curtailment
+Network demand
+IEA. CC BY 4.0.
+
+7. ELECTRICITY   
+125 
+ENERGY SECURITY  
+System adequacy:  This is the ability of a power system to cope with a given load at all 
+times. It can be ensured even in a system mainly based on variable renewables as long 
+as substantial sources of flexibility are available, including demand response, large- scale 
+storage, peak generation units, and well- developed transmission networks and 
+interconnections. The maturity, availability and cost of different flexibility mixes need to be 
+further evaluated by AEMO’s Integrated System Plan.  
+Operational reserves:  The sizing of these reserves and the regulatory framework for 
+balancing responsibilities and procurement has been adapted in the NEM following the 
+South Australia blackout and the NEM 2022 energy market crisis. The government 
+adopted multiple- ride through requirements for renewables. Forecasting methods for 
+variable renewables would need to be continually improved. Enhancements to the 
+AEMO ’s procedures are necessary to increase the transparency of generator availability, 
+improving the range of information available to the AEMO on generator availability in the 
+medium term. As the AEMO is the system and market operator of the NEM, it can enhance 
+how reserves are managed, notably for natural gas and its dispatch co- ordinated with 
+electricity. Further assessment of the impacts of distributed photovoltaics ( PV) on the 
+power distribution network and their implications for electricity security is needed. The 
+government needs to work with the AEMO to conduct a study on system operation with 
+very high solar PV shares. This should also include demand- side management and 
+response mechanisms.  
+Grid dev elopment: Substantial efforts are necessary at both transmission and 
+distribution levels to adapt the power system to more small -scale technologies and 
+decentralised power generation as well as sector coupling, such as solar PV, electric 
+vehicles , and batt ery storage or smart grids. This requires proactive steps and public 
+engagement in long- term planning to assess costs and work with citizens on social 
+acceptance of new infrastructure. These efforts can nonetheless be partially integrated 
+into the renewal of ageing network assets, which are still largely in place today . 
+Substantial investment is needed to render the transmission and distribution grids resilient 
+against the impacts of climate change and extreme weather events. This includes not only 
+new design standards but also reinforcements along the grids.   
+ 
+Key market reforms for the National Electricity Market  
+In August 2022, energy ministers agreed to the National Energy Transformation 
+Partnership. The partnership is structured around six priorit ies that are considered critical 
+to the successful transformation of Australia’s energy system:  
+ accelerate nationally significant transmission projects  
+ plan for generation and storage adequacy  
+ understand demand evolution  
+ co-ordinate gas and electricity planning  
+ address enabler requirements  
+ enhance energy security management . 
+IEA. CC BY 4.0.
+
+7. ELECTRICITY   
+131 
+ENERGY SECURITY  Costs of services for maintaining frequency (frequency control ancillary services, FCAS, 
+including for regulation and contingency purposes) are fluctuating but their total volume 
+has increased for several years. Historically, FCAS costs were comparatively low in 
+relation to energy costs. However, these costs have risen steadily over the past few years  
+for the local levels .  
+FCAS costs averaged around AUD  735 000 per week between 2009 and 2015 (less than 
+0.5% of total NEM energy costs) but have jumped nearly five fold to an average of over 
+AUD  3.5 million per week between 2016 and 2018 (representing up to 2% of total NEM 
+energy costs) and reached a record high of AUD  438 million over the year 2021 (AER, 
+2022 a). Of the AUD 438 million , AUD 282 million , or 64%, came from Queensland. This 
+relates to the impact of transmission upgrade works involving scheduled outages  of the 
+interconnector , which regularly led to very high prices and costs for local contingency 
+FCAS products in Queensland in  2021. FCAS costs have since come down in the first 
+three quarters of 20 22 to a total of AUD 181 million. 
+Reserve production  
+The RERT is a function conferred on the AEMO that allows it to procure out -of-market 
+reserves. The AEMO maintains a panel of RERT providers that it can call on to provide 
+RERT services.  
+Interruptible contracts  
+The NEM has bilateral contracts between the AEMO and some major loads in each NEM 
+region, enabl ing the AEMO to quickly reduce regional consumption for relatively short 
+periods. These interruptible load contracts operate like call  options but do not impose strict 
+outage- like scenarios on customers. Over the years, the pool of program mes or contracts 
+has expanded where customers may enter into agreements and accept interruptions to 
+their loads in return for financial rewards.  
+Fuel switching  
+In the NEM, many gas generators are dual -fuel with oil/diesel. However, there are no 
+obligations to hold alternative fuel stockpiles , with the availability of fuel reserves being 
+mainly treated  as a matter of commercial risk management. However, emergency 
+intervention powers of state and Commonwealth ministers may provide an ability to ration 
+and direct liquid fuel stocks to particular uses, such as electricity generation, should that 
+be required in extreme situations.  
+Load shedding  
+During low reserve conditions, the AEMO can seek to instigate rollin g blackouts , which 
+would be implemented by the transmission and distribution companies. Each state government would make a load- shedding order  based on their individual emergency 
+response plans.  
+Assessment 
+Australia ’s NEM is undergoing a period of profound transformation, supporting rising 
+shares of distributed renewable energy, notably solar PV, grid- scale batteries and electric 
+vehicles. This is largely being driven by policies, supported by rapidly decreasing 
+technology costs, and new consumer and business preferences.  
+IEA. CC BY 4.0.
+
+7. ELECTRICITY  
+132  Since the IEA ’s last  in-depth review of Australia in 2018, the Australian Government and 
+NEM market bodies have advanced and acted upon most of the review’s 
+recommendations to support electricity security and the system integration of rising shares of variable renewables. These were part of the 2017 Finkel Review, which provided for an 
+Independent Review into the Future Security of the NEM  – Blueprint for the Future.  
+Major reforms included the introduction of an integrated system plan with renewable 
+energy zones and transmission priority projects as part of the AEMO’s long -term planning. 
+In addition, the NEM market design has seen important adjustments to short -term trading 
+and the integration of higher shares of variable wind and utility -scale solar PV, thanks to 
+the introduction of the five- minute settlement and a formal demand response at the 
+wholesale level.   
+Building upon s tates ’ and territories ’ ambitions to accelerate the transition towards net 
+zero, in 2022, the Australian Government legislated a net zero emissions goal for 2050  
+with an increased reduction goal of - 43% by 2030 from 2005 levels  under the Climate 
+Change Act. The Australian Government also announced its goal to reach an 82% share 
+of renewables in the NEM  by 2030 and to introduce an emissions objective in the NEM , 
+which will guide all NEM market bodies and actors.  The new ambitions are reflected in the 
+planning of the system operation. In June 2022, the AEMO published the latest edition of 
+the ISP, which under the Step Change Scenario envisages an 83% share of renewables 
+by 2030- 31 and the retirement of all existing coal- fired generation by 2042, if not earlier.  
+States have constitutional power  on electricity and gas prices and with regard to the 
+generation mix. Co-ordination and co- operation are therefore essential. The National 
+Energy Transformation Partnership, agreed by the EMM in August 2022 and progressed 
+under the Energy and Climate Change Council , will focus not only on the pathway and 
+reforms to achieve net zero across the energy sector , but also address emerging 
+challenges in relation to electricity security, reliability and adequacy  and climate resilience.  
+The global energy crisis als o impacted Australia’s energy markets  in 2022, reflected in 
+very high coal and gas prices for a sustained period of time. NEM trading was suspended 
+on 15 June 2022 to avoid rolling blackouts and load shedding, and wholesale price caps 
+were introduced for a short period. The reliability mechanism  (the administrative price cap)  
+had not catered to such a fuel supply crisis  with sustained high fossil fuel prices.  
+In late  2022, the Commonwealth Treasury warned of rising inflation in Australia driven by 
+energy price rises ( a 56% increase in electricity and a 44%  increase in gas prices). In 
+particular, household electricity prices have been rising sharply in Australia over the last few months. For example, N ew South Wales  saw a 22% rise in household electr icity bills 
+between June and September 2022.  
+Short -term crisis response  
+In the short term, energy efficiency and demand- side actions to save gas and electricity 
+are very effective to deal with peak demand and mitigate the increases in power/gas bills (see also Chapter  4). 
+First, the government needs to accelerate all efforts by the NEM bodies to support smart 
+energy savings and targeted consumer/business support to the most vulnerable while expediting the work on the structural NEM reforms.  
+IEA. CC BY 4.0.
+
+8. COAL  
+148  Russia’s invasion of Ukraine has supported a short -term global revival of coal use, notably 
+in Europe, which needs to replace significant volumes of Russian gas. As a consequence 
+of Russia ’s steep gas supply cuts, the share of  Russian gas in the European Union ’s gas 
+demand fell from 40% in 2021 to 9%  by the end of  2022. This has also led to a restructuring 
+of global coal trade, with Russian discounted coal being traded in Asia, with strong price 
+impacts also felt  in Australia. Australian high -grade thermal coal prices rose to a record of 
+443 USD /t in September  2022, as flooding blocked coal production and transport  was not 
+able to fully meet increased demand by Japan and utilities in Europe and Northeast Asia, 
+who sought to obtain supplies of non- Russian coal . This has led to a surge in coal prices 
+also in the domestic market and the June 2022 coal crisis in Australia’s NEM.  
+Amid important power plant closures (Hazelwood) , lignite production in Australia declined 
+by a compound average annual rate of 5.4%, from 73 Mt in 2010- 11 to 42 Mt in 2019- 2020 . 
+Metallurgical coal, on the other hand,  reached historic highs in late 2021 as supply 
+shortages coincided with rebounding global industrial production.  
+Major projects expected to contribute to the increase in Australian coal production over the next five years include the Olive Downs, Mangoola, United- Wambo and Carmichael mines. 
+Carmichael will ramp up production in the coming years. The Bravus Carmichael Coal mine started producing coal  from the Galilee Basin in Queensland. Bravus began exporting 
+coal in early 2022. The mine is expected to produce 10 Mt per annum of coal. The mine 
+will provide lignite to India, among others. The Galilee Basin has hard coal recoverable 
+deposits of 11.4 billion tonnes (approximately a 15% share of Australia’s total).  
+There is uncertainty about the future of new coal mines and the exact time of coal -fired 
+power plant closures in the coming decade. South Australia phased out coal in power 
+generation in 2016.  
+The government has developed a pathway and policies for transitioning the energy sector 
+to net zero through the Powering Australia plan, the Annual Climate Change Statement 
+2022 and the National Energy Transformation Partnership. The October 2022 Federal 
+Budget detailed an array of these policies, including the Powering the Regions F und t o 
+ensure traditional industries in regional Australia can harness the economic opportunities 
+of decarbonisation, funding a Hydrogen Hub in Townsville, as well as funding for 
+community batteries and solar banks.  This will also have implications for the domestic coal 
+mining sector.  
+In the short  term, Australian coal exports have increased and notably Asia sees strong 
+investment in new coal generation. In the medium term to 2026- 27, Australia’s thermal 
+coal production is forecast to decline and then recover slightly, remaining close to the 2019 
+level ( 197-203 Mt range) . Australian metallurgical coal exports are expected to rise, from 
+162 Mt in 2021- 2022 to 180 Mt in 2023- 2024, with increased production in N ew South 
+Wales  and Queensland. Up to 2030, it is expected to be difficult to increase production 
+from current levels to provide additional exports to global markets in response to demand 
+for increased coal supply.   
+In line with net zero targets, the Australian coal industry does not expect major investment in additional coal production, as new coal mines under development will largely replace 
+those slated for closure. The government is open to maintaining coal exports, stating a 
+willingness to supply coal as long as its trade partners require it.    
+IEA. CC BY 4.0.
+
+9. NATURAL GAS  
+175 
+ENERGY SECURITY  There are no LNG import terminals, but plans have been put forward to develop a number 
+of import facilities in the southern states to resolve a forecast shortfall in gas supply. Some 
+of the import facilities were intended to be operational from 2020, but many projects have been delayed by planning,  environmental and economic challenges.  
+Given the strong links between the gas and electricity markets o n the east coast  of 
+Australia going forward, there is a need to focus more on demand management in both 
+markets, storage obligations, energy efficiency  in industry and buildings (switch to heat 
+pumps alongside appliance shift), as well as an accelerated deployment of solar and wind and dispatchable electricity generation (battery storage, bioenergy and flexibility products). 
+An integrated planning regime that includes gas , like the AEMO ’s Integrated System Plan , 
+is the best way to increase visibility for investment and planning of the gas and electricity systems. Energy m inisters have agreed to explore this through the National Energy 
+Transformation Partnership.  
+A framework for low emission s gases  
+Amid forecasted declining demand for natural gas in a net  zero future, the Australian 
+Government is examining the transition of incumbent gas infrastructure to either sunset or 
+retrofit for future low  emissions gases. Australia was an early adopter of blending 
+renewable hydrogen into the natural gas network. The State of Hydrogen 2021 report 
+expected nine blending projects to be operational by 2025, with several projects already 
+supplying low  emission s gases to Australian homes. The projects benefit from federal and 
+state  government funding, partly  via the Australian G ov ernment ’s AUD  1.2 billion 
+co-investment facility . 
+Regarding the design of the national gas regulatory framework, Australia has referred to 
+international examples in reforming the regulatory framework to allow for third- party access 
+to infrastructure and the transport and blending of low  emissions gases , including 
+biomethane and hydrogen in gas networks.  
+First, the production and trade of low  emission s gases require revising the energy market 
+rules to include the classification of low  emission s gases (life cycle emissions, certification 
+and gas quality). Like the production of natural gas, producing low emission s gases could 
+be a competitive activity.  Transporting these new gases may require regulatory oversight (feed- in rules, third- party 
+access rules) and tariffs to create a level playing field. Experience in the European Union  
+shows (Decarbonised Gas Package) that third- party access is required so that different 
+sources of gas (biomethane and hydrogen) have access to gas infrastructure. In the 
+October 2022 reform package, e nergy ministers have agreed to subject new pipelines to 
+a third- party access regime with options for  greenfield incentives and price protection 
+determinations. Greater enforcement of third- party access and of competition will be 
+critical to ensure a level playing field for companies in a changing energy and gas market.  
+With the emergence of new technologies, notably energy storage options such as 
+hydrogen, the monopoly of transmission and distribution network companies in identifying 
+energy system needs may be problematic. Infrastructure planning should be carefully revisited to also allow  for sector coupling and ensure transmission/distribution network 
+planning and investment decision making is not foreclosing investment by other new 
+market players. The AEMO’s Integrated System Plan can play an important role in this 
+regard.  
+IEA. CC BY 4.0.
+
+193 
+ENERGY SECURITY  
+11. Special focus on critical minerals  
+Key data  
+(2020)  
+Production versus  global output; kt  
+Lithium : 40 kt v s. 82 kt, 49% of global production  
+Cobalt : 5.6 kt v s. 135 kt, 4.1% of global production  
+REEs : 20 kt v s. 240 kt, 8.3% of global production  
+Titanium ( rutile) : 200 kt v s. 1 000 kt, 20% of global production  
+Overview 
+Australia is seeking to position itself as a key global source of critical minerals supply for 
+decades to come. In light of recent events caused by Russia ’s invasion of Ukraine, and 
+greater energy independence resulting from expanded clean energy production, critical 
+minerals are not only critical to address climate change but  are also essential to ensure 
+security of  energy supply  and address energy poverty and affordability.  
+Critical minerals have become a fundamental part of the energy and electricity security 
+landscape. As highlighted in the World Energy Outlook 2022 (IEA, 2022) , demand for 
+critical minerals for c lean energy technologies is set to increase by fourfold by 2030 due 
+to the expanding deployment of renewables, EVs, battery storage and electricity networks. 
+The largest increase in absolute volumes  will be for copper, with current demand of around 
+6 Mt per year , increasing to 16 Mt in the case where net zero by 2050 pathways are 
+seriously pursued. O ther critical minerals will experience faster rates of demand growth, 
+notably silicon for solar PV, rare earth elements for wind turbine motors and lithium for batteries. Both the extraction and processing of critical minerals are now highly 
+concentrated geographically . Unless the need for stronger resilience and diversity in 
+supply chains is addressed, there is a risk that the increasing use and importance of critical 
+minerals could become a bottleneck for clean energy deployment.  
+Australia has more than doubled its share in the global market of critical minerals  since 
+2015, which stands now at some 18%. It is still falling far short of China’s dominance 
+throughout the supply chain, which is a challenge for countries in terms of market 
+development. Given generally higher production costs , mostly due to environmental, social 
+and governance (ESG) factors, Australia is likely to leverage its extensive mining 
+exper ience and invest heavily in processing capacities to build its position as a reliable 
+global supplier.  
+IEA. CC BY 4.0.
+
+11. SPECIAL FOCUS ON CRITICAL MINERALS   
+197 
+ENERGY SECURITY  together critical minerals expertise within CSIRO, Geoscience Australia, and the Aust ralian 
+Nuclear Science and Technology Organisation and connecting critical minerals projects 
+with the scientific and technical expertise they need.  
+The hub will prioritise and advance significant critical minerals R&D projects, work with the 
+research community and industry to build and commercialise Australian intellectual 
+property and support R&D collaboration with Australia’s international partners. One of the 
+hub’s  main focus es will be the minerals needed for clean energy to help Australia and 
+other countries achieve net zero emissions.  
+The Australian Government has also announced the Critical Minerals Development Program , which will provide AUD  100 million of co -funded grants to support early - and 
+mid-stage critical minerals projects to enable them to overcome market and technical 
+barriers to development. The grant funding will target strategically significant projects.  
+The Australian Government will additionally  deliver the AUD  15 billion National 
+Reconstruction Fund, which will provide loans, guarantees and equity to support projects that  
+create secure, well-paid jobs, drive regional development, and invest in national sovereign 
+capability, broadening and diversifying Australia’s economy. Another AUD  1 billion is 
+committed to the Value- Adding in Resources Fund, which looks to expand mining science 
+technology.  
+The Australian Government also released its revised Outlook for Selected Minerals in Australia  in March 2021 (DISR, 2021) , which provides a market outlook for critical minerals 
+that hold significant potential for Australia and have important uses in energy supply and 
+technology (to be updated regularly). The government has yet to assess Australia’s 
+exposure to global supply chai n risks for its clean energy transition.  
+The government’s m ain actions planned to implement these policies and accelerate the 
+development of the critical minerals sector include : 
+ derisking  projects (project facilitation, providing technical support , and making strategic 
+investments to scale up processing and lock in finance and offtake for production)  
+ creating an enabling environment (R&D to grow the sector , standards and accreditation to 
+keep building the country’s advantage , shared infrastructure and precincts to attract 
+investment)  
+ further strengthening international partnerships  
+ whole- of-government policies to support the sector (including through the Critical Minerals 
+Development Program to conduct feasibility studies, pil ot testing, building demonstration 
+plants, engineering design work).  
+Institutional g overnance for critical minerals  
+The Australian Government has established an extensive structure within the 
+administration and beyond to support the critical minerals industry in Australia.  
+The Critical Minerals Office (CMO, formerly the Critical Minerals Facilitation Office) was 
+established in January 2020 as the main Australian Government policy co- ordination body 
+in the sector . It aims to grow Australia’s critical minerals sector; generate additional profit 
+by moving the sector into downstream processing; and contribute to the diversification of  
+ 
+IEA. CC BY 4.0.
+
+11. SPECIAL FOCUS ON CRITICAL MINERALS  
+198  international supply  chains at a global level. The CMO operates in close collaboration with 
+a variety of agencies in the domesti c and international critical minerals institutional 
+ecosystem.  
+CSIRO and the Australian Nuclear Science and Technology Organisation are working with 
+the CMO to unlock the full economic potential of Australian critical minerals by providing 
+access to world- leading research and technical services.  
+Additionally, Geoscience Australia, the country’s pre- eminent public sector geological 
+authority, is working to build Australia’s resource wealth through investment stimulation, 
+pre-competitive geological research and technology advice.  
+The Australian Trade and Investment Commission is responsible for the promotion, 
+attraction and facilitation of foreign direct investment into Australia and co- ordinates the 
+interests of global players in Australia’s critical minerals sector through diplomatic 
+representations in the world.  
+The current Australian Government has strongly reiterated the importance of critical 
+minerals and announced a number of major commitments relating to this field, including 
+through the AUD  15 billion National Reconstruction Fund, with up to AUD  1 billion 
+earmarked for the broader resources sector. The g overnment has also announced it is 
+developing a National Battery Strategy that will guide governments and industry towards 
+a shared vision of an end- to-end domestic battery industry.  
+The Critical Minerals Facility , with a budget of AUD  2 billion, was established to be a loan 
+facility for Australian critical minerals projects, to complement any finance which might not 
+be available in the private sector . It is administered by Export Finance Australia.  
+Global collaboration 
+Australia is active globally to accelerate regional and global co- operation to boos t critical 
+minerals uptake. Australia collaborates  with a range of countries, including India,  Japan, 
+Korea, the United Kingdom, the United States, the  European Union and its member states.  
+These engagements help to  address potential supply chain risks ; advanc e research ; and 
+promot e ethical , sustainable practices.  
+In July 2022, the Australian Government and  the IEA  co-hosted the Sydney Energy Forum. 
+The forum agreed to accelerat e project investments and partnerships that expand and 
+diversify the supply of critical minerals and other key materials in the Indo- Pacific region.  
+Australia is a member of the Minerals Security Partnership, which includes its founding 
+members Canada and t he United States, along with Finland, France, Germany, Japan, 
+Korea, Sweden, the United Kingdom , and the European Commission.  
+Additionally, Australia is a founding partner of the Energy Resource Governance Initiative, 
+des
+igned to promote sound mining sector governance and resilient energy mineral supply 
+chains. At the initiative’s one-year anniversary, members recognised the increasing 
+demand for energy resources , including critical minerals. In line with this recognition, the 
+CMO is continuing to promote Australian ethical and environmental standards internationally.  
+IEA. CC BY 4.0.
+
+11. SPECIAL FOCUS ON CRITICAL MINERALS  
+200  Australia has a truly robust institutional governance to support its expanding critical 
+minerals industry across the value chain. While the CMO is the whole- of-government 
+co-ordination office, CSIRO, the Australian Nuclear Science and Technology Organisation, 
+and Geoscience Australia pursue scientific leadership . 
+The CMO is accelerating its bilateral and multilateral engagement by building important 
+regional and global coalitions for sustainable and secure clean energy supply chains. Australia is a founding member of several important initiatives, such as the ERGI ; the 
+Sydney Energy Forum ; the US Minerals Security Partnership, which formed the basis for 
+the new bilateral Australia- Japan critical minerals pact ; and the IEA’s Critical Minerals 
+Working Party.  
+A refreshed National Critical Minerals Strategy 202 3 will replace  Australia’s 2022 Critical 
+Minerals Strategy  (DISR, 2022) published under the previous government. The latter was  
+based on the first comprehensive Critical Minerals Strategy published in 2019 and its national strategy for mining, downstream processing and manufacturing by attracting  
+investment, creating jobs, supporting innovation and connecting opportunities with infrastructure. Its vision is to make Australia a global critical minerals powerhouse by 2030. 
+The 2022 Strategy saw the addition of two new minerals to Australia’s critica l minerals list 
+– high purity alumina and silicon – reflecting the expanding significance of mineral inputs 
+in strategic applications, like semiconductors and solar panels. The new strategy will enter 
+into force in 2023 and continue to focus on the importance of a stable supply of critical 
+minerals, by  developing  new sources of supply and establishing  robust, diverse supply 
+chains.  
+The government supports production capacity in the country through public funding of 
+pre-commercial mapping data; grants to early - to mid -stage projects ; loans through 
+dedicated investment facilities and instruments, for instance, binding offtake arrangements.  
+The government announced a number of major commitments relating to this field, including 
+through the AUD  15 billion National Reconstruction Fund, with up to AUD  1
+ billion 
+earmarked in indirect support to the sector. The g overnment recently announced a 
+National Battery Strategy to explore maximising value added and developing national 
+technology potential for both supplying domestic and international markets with Australian-
+produced batteries. The AUD  2 billion Critical Minerals F acility  aims to provide loans to 
+financ e eligible Australian critical minerals projects where private sector finance is 
+unavailable or inadequate, helping crowd- in private investment.  
+Australia needs to look for solutions to increase its supply base faster, overcoming long project lead times and significant concentration of the global downstream market, if it wants 
+to scale up investments  and bring products to market sooner.  
+Australia’s high ESG standards are crucial for the responsible and sustainable production 
+of critical minerals. To create a level playing field, the g overnment should also promote 
+these standards globally, foster ing high ESG  conditions.  
+Rapid scaling up of production and clean technologies deployment in Australia also calls for the development of alternative supply - and demand- side technologies like recycling, 
+reuse capabilities, supply chain resilience and breakthrough technology for minerals’ 
+substitution. This will also support the creation of high- quality skills within society.  
+IEA. CC BY 4.0.
+
+ANNEXES   
+207 
+ANNEXES ANNEX B: Statistical notes and energy balances  
+ Unit:  PJ
+SUPPLY 1973 1990 2000 2010 2019 2020 2021
+TO
+TAL PRODUCTION         2846.5 6595.4 9778.7 13538.3 18656.1 18957.6 17854.7
+Coal                     1685.2 4442.3 6890.6 10323.1 12596.4 12334.9 11467.6
+Peat                     - - - - - - -
+Oil                      830.9 1215.3 1419.8 1069.2 721.9 875.0 785.1
+Natural gas                      141.6 717.6 1194.9 1862.3 4939.9 5329.2 5140.2
+Biofuels and w aste1147.7 165.9 210.8 205.0 206.9 197.7 200. 9
+Nuclear                  - - - - - - -
+Hy
+dro                    41.1 50.9 58.9 48.6 56.2 53.2 53.1
+Wind                     - - 0.2 18.2 63.8 73.4 88.3
+Geothermal               - - - 0.0 - - -
+Solar/other - 3.4 3.6 11.9 71.1 94.2 119.5
+TOTAL NE T IMPORTS -454.5 -2790.1 -5462.9 -8000.2 -12972.2 -13271.8 -12499.9
+Coal Exports 738.9 2816.3 5083.9 7971.3 10629.0 10504.9 9866.2
+Imports                  - - - 1.8 17.0 19.3 12.4
+Net imports              -738.9 -2816.3 -5083.9 -7969.5 -10612.0 -10485.6 -9853.8
+Oil Exports 141.7 389.5 955.8 736.4 629.2 759.3 712.7
+Imports                  527.4 602.8 1104.6 1592.5 2016.8 1906.8 1766.3
+Int'l marine and aviation bunker                   -101.2 -88.8 -140.0 -170.9 -243.5 -190.7 -70.0
+Net imports              284.4 124.6 8.9 685.3 1144.1 956.7 983.6
+Natural gas Exports - 98.4 387.9 876.0 3686.1 3904.7 3816.6
+Imports                  - - - 160.0 181.8 161.8 186.8
+Net imports              - -98.4 -387.9 -716.0 -3504.3 -3742.9 -3629.8
+Electricity Exports - - - - - - -
+Imports                  - - - - - - -
+Net imports              - - - - - - -
+TOTAL STOCK CHANGES                       -3.1 -198.8 210.4 -252.7 -66.5 -70.4 98.3
+TOTAL SUPPLY (TES)2       2388.9 3606.5 4526.2 5285.4 5617.4 5615.4 5453.1
+Coal                     945.5 1460.7 2015.8 2113.1 1956.7 1782.6 1684.0
+Peat
+                     - - - - - - -
+Oil                      1113.0 1306.3 1429.9 1742.3 1840.0 1857.5 1777.4
+Natural gas                      141.6 619.2 807.0 1146.3 1422.8 1556.9 1529.8
+Biofuels and w aste1147.7 165.9 210.8 205.0 206.9 197.7 200.9
+Nuclear                  - - - - - - -
+Hy
+dro                    41.1 50.9 58.9 48.6 56.2 53.2 53.1
+Wind                     - - 0.2 18.2 63.8 73.4 88.3
+Geothermal               - - - 0.0 - - -
+Sol
+ar/other - 3.4 3.6 11.9 71.1 94.2 119.5
+Electricity trade - - - - - - -
+Shares in TES (%)
+Coal                     39.6 40.5 44.5 40.0 34.8 31.7 30.9
+Peat                     - - - - - - -
+Oil                      46.6 36.2 31.6 33.0 32.8 33.1 32.6
+Nat
+ural gas                      5.9 17.2 17.8 21.7 25.3 27.7 28.1
+Biofuels and waste1 6.2 4.6 4.7 3.9 3.7 3.5 3.7
+Nuclear                  - - - - - - -
+Hy
+dro                    1.7 1.4 1.3 0.9 1.0 0.9 1.0
+Wind                     - - - 0.3 1.1 1.3 1.6
+Geothermal               - - - 0.0 - - -
+Solar/other - 0.1 0.1 0.2 1.3 1.7 2.2
+Electricity trade - - - - - - -
+0 is negligible, - is nil, .. is not available, x is not applicable. Please note: rounding may cause totals to differ from the sum of the elements.
+IEA. CC BY 4.0.
+
+ANNEXES  
+208  
+ Unit:  PJ
+DEMAND
+FINAL CONSUMPTION 1973 1990 2000 2010 2019 2020 2021
+TF
+C                      1657.1 2372.1 2913.3 3222.7 3398.4 3296.5 3306.5
+Coal                     217.6 190.8 175.8 106.3 119.9 111.9 113.4
+Peat                     - - - - - - -
+Oil                      1015.9 1214.1 1453.5 1653.4 1814.5 1717.4 1710.1
+Natural gas                      88.5 362.4 476.8 515.2 505.4 515.7 527.0
+Biofuels and w aste1146.2 136.2 181.8 174.3 161.4 153.1 157.5
+Geothermal               - - - - - - -
+Solar/other - 3.4 3.4 10.5 17.6 18.4 19.7
+Electricity              188.9 465.2 621.9 763.1 779.5 780.0 779.0
+Heat                     - - - - - - -
+Shares in TFC (% )             
+Coal                     13.1 8.0 6.0 3.3 3.5 3.4 3.4
+Peat                     - - - - - - -
+Oil                      61.3 51.2 49.9 51.3 53.4 52.1 51.7
+Natural gas                      5.3 15.3 16.4 16.0 14.9 15.6 15.9
+Biofuels and waste1 8.8 5.7 6.2 5.4 4.8 4.6 4.8
+Geothermal               - - - - - - -
+Solar/other - 0.1 0.1 0.3 0.5 0.6 0.6
+Electricity              11.4 19.6 21.3 23.7 22.9 23.7 23.6
+Heat                     - - - - - - -
+TOTAL INDUSTRY3745.8 974.4 1181.4 1153.3 1158.4 1152.4 1178.1
+Coal                     205.0 179.3 169.3 101.6 119.3 111.1 113.1
+Peat                     - - - - - - -
+Oil                      332.3 267.8 319.6 309.4 348.5 354.4 357.4
+Natural gas                      62.5 252.3 312.2 329.0 301.6 306.4 318.6
+Biofuels and w aste162.5 62.1 103.0 110.7 107.9 101.1 106.2
+Geothermal               - - - - - - -
+Solar/other - - - - - - -
+Ele
+ctricity              83.5 213.1 277.3 302.7 281.1 279.5 282.9
+Heat                     - - - - - - -
+Shares in total industry (% )              
+Coal                     27.5 18.4 14.3 8.8 10.3 9.6 9.6
+Peat                     - - - - - - -
+Oil                      44.6 27.5 27.0 26.8 30.1 30.7 30.3
+Natural gas                      8.4 25.9 26.4 28.5 26.0 26.6 27.0
+Biofuels and waste1 8.4 6.4 8.7 9.6 9.3 8.8 9.0
+Geothermal               - - - - - - -
+Solar/other - - - - - - -
+Ele
+ctricity              11.2 21.9 23.5 26.2 24.3 24.3 24.0
+Heat                     - - - - - - -
+TRANSPORT2         541.4 883.9 1074.2 1256.0 1385.6 1291.6 1250.1
+OT HER4369.9 513.8 657.6 813.4 854.3 852.5 878.4
+Coal                     11.8 8.5 2.8 0.8 0.6 0.8 0.2
+Peat                     - - - - - - -
+Oil                      145.
+5 72.5 84.6 124.7 127.7 117.9 147.6
+Natural gas                      25.9 109.7 151.9 173.6 184.4 190.2 190.5
+Biofuels and w aste183.7 74.1 78.7 56.6 48.2 47.6 47.6
+Geothermal               - - - - - - -
+Solar/other - 3.4 3.4 10.5 17.6 18.4 19.7
+Electricity              103.0 245.6 336.2 447.2 475.8 477.5 472.7
+Heat                     - - - - - - -
+Shares in other (% )             
+Coal                     3.2 1.7 0.4 0.1 0.1 0.1 -
+Peat
+                     - - - - - - -
+Oil                      39.3 14.1 12.9 15.3 14.9 13.8 16.8
+Natural gas                      7.0 21.3 23.1 21.3 21.6 22.3 21.7
+Biofuels and waste122.6 14.4 12.0 7.0 5.6 5.6 5.4
+Geothermal               - - - - - - -
+Solar/other - 0.7 0.5 1.3 2.1 2.2 2.2
+Electricity              27.8 47.8 51.1 55.0 55.7 56.0 53.8
+Heat                     - - - - - - -
+0 is negligible, - is nil, .. is not available, x is not applicable. Please note: rounding may cause totals to differ from the sum of the elements.
+IEA. CC BY 4.0.
+
+ANNEXES   
+209 
+ANNEXES 
+ 
+  Unit:  PJ
+DEM AND
+ENERGY TRANSFORM ATION AND LOSSES 1973 1990 2000 2010 2019 2020 2021
+EL ECT RICIT Y GENERAT ION5
+Input (PJ) 671.5 1474.8 2004.7 2529.8 2387.2 2334.5 2267.8
+Output (PJ) 231.9 555.5 755.6 909.6 949.3 953.4 954.6
+Output (TWh) 64.4 154.3 209.9 252.6 263.7 264.8 265.1
+Output shares (% )
+Coal 74.9 78.7 83.0 71.3 58.5 55.0 52.9
+Peat - - - - - - -
+Oil                            2.6 2.3 0.9 2.4 1.9 1.7 1.8
+Natural gas                      4.3 9.3 7.7 17.6 20.0 20.9 18.8
+Biofuels and waste10.5 0.5 0.5 1.1 1.3 1.3 1.3
+Nuclear - - - - - - -
+Hy
+dro 17.7 9.2 7.8 5.3 5.9 5.6 5.6
+Wind - - - 2.0 6.7 7.7 9.3
+Geothermal                     - - - - - - -
+Sol
+ar/other - - - 0.2 5.6 7.9 10.5
+TOTAL LOSSE S 739.1 1226.1 1549.4 2060.7 2132.1 2098.7 2035.9
+of w hich:
+Electricity and heat generation6439.6 917.1 1249.2 1620.4 1438.0 1381.3 1313.4
+Other transformation 225.7 6.7 -101.1 -97.5 -80.2 -75.6 -58.9
+O
+w n use and transmission/distribution losses 73.8 302.4 401.3 537.8 774.3 793.1 781.4
+Statistical differences -7.3 8.2 63.5 2.0 86.9 220.2 110.6
+INDICATORS 1973 1990 2000 2010 2019 2020 2021
+GDP (billion 2015 USD) 339.14 569.05 794.24 1075.79 1356.74 1327.75 1392.89
+Population (millions) 13.61 17.07 19.03 22.03 25.37 25.69 25.74
+TES/GDP (MJ per 2015 USD)77.04 6.34 5.70 4.91 4.14 4.23 3.91
+Energy production/TES 1.19 1.83 2. 16 2.56 3.32 3.38 3.27
+Per capita TES (GJ per capita) 175.47 211.34 237.86 239.90 221.46 218.56 211.87
+Oil supply/GDP (MJ per 2015 USD)73.28 2.29 1.80 1.62 1.36 1.40 1.28
+TFC/GDP (MJ per 2015 USD)74.89 4.17 3.67 2.99 2.50 2.48 2.37
+Per capita TFC (GJ per capita) 121.72 139.00 153.09 146.27 133.97 128.30 128.47
+CO 2 emissions from fuel combustion (MtCO 2)8157.7 259.5 334.6 391.8 384.0 369.0 360.9
+CO 2 emissions from bunkers (MtCO 2)86.0 2.2 3.0 2.2 2.5 2.2 1.3
+GROWTH RATES (% pe r  ye ar ) 73-90 90-00 00-10 10-18 18-19 19-20 20-21
+TES 2.5 2.3 1.6 0.5 1.8 -0.0 -2.9
+Coal 2.6 3.3 0.5 -1.1 1.4 -8.9 -5.5
+Peat - - - - - - -
+Oil 0.9 0.9 2.0 0.7 -0.2 0.9 -4.3
+Natural gas 9.1 2.7 3.6 2.2 4.4 9.4 -1.7
+Biofuels and w aste10.7 2.4 -0.3 0.8 -5.6 -4.5 1.6
+Nuclear - - - - - - -
+Hyd
+ro 1.3 1.5 -1.9 2.0 -1.3 -5.4 -0.0
+Wind - - 56.3 14.7 16.8 15.2 20.3
+Geothermal - - - -100.0 - - -
+Solar/other - 0.4 12.9 20.4 35.5 32.5 26.8
+TFC 2.1 2.1 1.0 0.8 -1.1 -3.0 0.3
+Electricity consumption 5.4 2.9 2.1 0.2 0.7 0.1 -0.1
+Energy production 5.1 4.0 3.3 3.3 6.3 1.6 -5.8
+Net oil imports -4.7 -23.2 54.5 8.0 -10.1 -16.4 2.8
+GDP 3.1 3.4 3.1 2.7 2.0 -2.1 4.9
+TES/GDP -0.6 -1.1 -1.5 -2.1 -0.2 2.1 -7.4
+TFC/GDP -0.9 -1.3 -2.0 -1.8 -3.1 -0.8 -4.4
+0 is negligible, - is nil, .. is not available, x is not applicable. Please note: rounding may cause totals to differ from the sum of the elements.
+IEA. CC BY 4.0.
+
+ANNEXES  
+210  Footnotes to energy balances  
+ 
+1 Biofuels and waste comprise s solid biofuels, liquid biofuels, biogases  and industrial waste. Data are 
+often based on partial surveys and may not be comparable between countries.  
+2 Excludes international marine bunkers and international aviation bunkers.  
+3 Industry  includes non-energy use.  
+4 Other  includes residential, commer cial and public services, agriculture/forestry, fishing, and other non-
+specified.  
+5 Inputs to electricity generation include inputs to electricity and co-generation plants. Output refers only 
+to electricity generation.  
+6 Losses arising in the production of  electricity and heat at main activity producer utilities and auto 
+producers . For non-fossil -fuel electricity generation, theoretical losses are shown based on plant 
+efficiencies of approximately 33% for solar thermal ; 10% for geothermal ; and 100% for hydro, wind 
+and solar photovoltaic.  
+7 Toe per thousand US dollars at 2015 prices and exchange rates.  
+8 “CO 2 emissions from fuel combustion” have been estimated using the IPCC Tier I Sectoral Approach 
+methodology from the 2006 IPCC Guidelines. Emissions from international marine and aviation 
+bunkers are not included in national totals.  
+  
+IEA. CC BY 4.0.
+
+ANNEXES   
+211 
+ANNEXES Statistical notes 
+• Unless otherwise noted, all GDP data are in USD 2015 prices and purchasing power 
+parity (PPP).  
+• Total energy supply (TES) comprises production + imports – exports – international 
+marine and aviation bunkers ± stock changes. This equals the total supply of energy 
+consumed domestically, either in transformation (e.g.  power generation and refining) 
+or final use.  
+• Total final consumption (TFC)  is the final consumption of energy (electricity, heat 
+and fuels, such as natural gas and oil products) by end- users, not including the 
+transformation sector (e.g.  power generation and refining).  
+• Total final energy consumption (TFEC)  excludes non -energy use which is counted 
+in TFC. TFEC provides a more accurate assessment of the share of energy demand 
+covered by renewable energy and is better aligned with the European Union’s gross 
+final energy consumption metric, which is used to set  European Union member 
+countries’ renewable energy targets.  
+• The primary energy equivalent of nuclear electricity is calculated from the gross 
+generation by assuming a 33% conversion efficiency. The calculation to be carried 
+out is the following: gross electricity generation in TWh x 0.086/0.33 = primary 
+energy equivalent in Mtoe.  
+• Bioenergy  refers to solid and liquid biofuels, renewable waste and biogas and 
+excludes non- renewable waste.  
+• Buildings  includes the energy use of the residential sector (residential buildings) and 
+commercial and public servi ce sectors (service sector buildings).  
+• Transport  excludes international aviation and navigation.  
+• Industry includes both energy and non- energy use of the industry sector, agriculture, 
+forestry and fishing.  
+• Non- energy use refers to fuels used as raw materials and not used as fuel or 
+transformed into another fuel. This typically comprises raw materials used in the 
+chemical and petrochemical sector.  
+• IEA30  is the equivalent of a weighted average of 30 IEA member countries.  
+• CO 2 emissions from fuel combustion have  been estimated using the IPCC Tier I 
+Sector al Approach methodology from the 2006 IPCC Guidelines. Emissions from 
+international marine and aviation bunkers are not included in national totals.  
+ 
+IEA. CC BY 4.0.
+
+ANNEXES   
+212 
+ANNEXES ANNEX  C: International Energy Agency “Shared Goals”  
+The member countries* of the International Energy Agency (IEA) seek to create conditions in which the 
+energy sectors of their economies can make the fullest possible contribution to sustainable economic development and to the well -being of their people and of the environment. In formulating energy policies, 
+the establishment of free and open markets is a fundamental point of departure, though energy security and environmental protection need to be given particular emphasis by governments. IEA countries 
+recognise the significance of increasing global interdependence in energy. They therefore seek to 
+promote the effective operation of international energy markets and encourage dialogue with all 
+participants. In order to secure their objectives, member countries therefore aim to create a policy 
+framework consistent with the following goals:  
+1. Diversity, efficiency and flexibility within the energy sector are basic conditions for longer term 
+energy security: the fuels used within and across sectors and the sources of those fuels should be as diverse as practicable. Non- fossil fuels, particularly nuclear and hydropower, make a substantial 
+contribution to the energy supply diversity of IEA countries as a group.  
+2. Energy systems should have the ability to respond p romptly and flexibly to energy emergencies. 
+In some cases, this requires collective mechanisms and action: IEA countries  co-operate through the 
+Agency in responding jointly to oil supply emergencies.  
+3. The environmentally sustainable provision and use of energy  are central to the achievement of 
+these Shared Goals. Decision makers should seek to minimise the adverse environmental impacts of 
+energy activities, just as environmental decisions should take account of the energy consequences. Government interventions should respect the polluter -pays principle where practicable.  
+4. More environmentally acceptable energy sources need to be encouraged and developed. Clean 
+and efficient use of fossil fuels is essential. The development of economic non- fossil sources is also a 
+priority. A number of IEA member countries wish to retain and improve the nuclear option for the future, 
+at the highest available safety standards, because nuclear energy does not emit carbon dioxide. 
+Renewable sources will also have an increasingly important contribution to make.  
+5. Improved energy efficiency can promote both environmental protection and energy security in a 
+cost-effective manner. There are significant opportunities for greater energy efficiency at all stages of the 
+energy cycle, from production to consumption. Strong efforts by governments and all energy users are needed to realise these oppor tunities.  
+6. Continued research, development and market deployment of new and improved energy 
+technologies make a critical contribution to achieving the objectives outlined above. Energy technology 
+policies should complement broader energy policies. International  co-operation in the development and 
+dissemination of energy technologies, including industry participation and co -operation with non- member 
+countries, should be encouraged.  
+IEA. CC BY 4.0.
+

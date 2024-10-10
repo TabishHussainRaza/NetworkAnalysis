@@ -1,0 +1,659 @@
+Page 1 of 15 
+ Republic of Singapore  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NATIONAL REPORT  
+ON THE IMPLEMENTATION  
+OF OBLIGATIONS UNDER THE  
+CONVENTION ON NUCLEAR SAFETY
+
+Page 2 of 15 
+ INTRODUCTION  
+ 
+1 Ionising radiation such as x -ray and gamma radiation , and radionuclides are 
+used in scientific, medical and industrial applications  in Singapore . Scientific 
+research using radiation and radionuclides are carried out in institutes of higher 
+learning. The applications of radiation and radioactive materials in the medical field 
+include  nuclear medicine, diagnostic and therapeutic radiology , and radiation 
+sterilisation of tissue grafts.  Radiation is also used in industrial non -destructive 
+testing (NDT) inspections and in gamma -ray sterilisation of surgical consum ables.  
+These applications are controlled under the Radiation Protection Act  of Singapore  
+established since 1973.   
+ 
+2 In Singapore, about 95 percent of Singapore’s electricity is generated from 
+natural gas . Singapore does not have any nuclear  power or research reactor s, and 
+at present does not have plans to adopt nuclear energy for power generation.
+
+Page 3 of 15 
+ Summary  
+ 
+3 Singapore concluded  a two-year Pre-Feasibility Study in 2012 as a 
+preliminary step to assess the feasibility of nuclear energy as an option to meet 
+Singapore’s long -term energy needs . The Pre-Feasibility Study  sought a deeper 
+understanding of the potential and limitations of current and emerging nuclear 
+energy technologies from Singapore’s perspective , with safety being of paramount 
+importance.  The pre -feasibility study had three conclusions: First, nuclear energy 
+technologies available at that time were  not yet suitable for deployment in Singapore.  
+Second,  Singapore need ed to continue to  strengthen our capabilities to understand 
+nuclear science  and technology.  This would  enable us to assess the implications of 
+evolving nuclear energy technologies and regional nuclear energy developments for 
+Singapore, and enhance our emergency preparedness . Third, Singapore should play 
+an active role in global a nd regional cooperation to improve nuclear safety . 
+ 
+Strengthening capabilities to understand nuclear science and technology  
+4 In building up Singapore’s nuclear capabilities  to prepare for the growth of 
+nuclear energy in our region , the National Environment Agency (NEA)  of Singapore  
+signed a Letter of Intent (LOI) with the Danish Emergency Management Agency 
+(DEMA) to collaborate in the areas of nuclear and radiation safety, and emergency 
+preparedness and response.  The LOI was signed on 15 December 2012 at the  side-
+lines of the Fukushima Ministerial Conference on Nuclear Safety held in Fukushima, 
+Japan. Since 2013,  NEA has sen t its officer s to attend postgraduate programme s in 
+nuclear engineer ing and relevant training courses and workshops on nuclear safety 
+to acquire a deeper understanding and knowledge of the subject.  
+  
+5 The National Research Foundation (NRF), Prime Minister’s Office, Singapore 
+also announced in April 2014, the allocation  of S$63 million spread over the next five 
+years, for the Nuclear Safety Research and Education Programme (NSREP).  Under 
+the NSREP, the Singapore Nuclear Researc h and Safety Initiative (SNRSI) was set 
+up to focus on research and developing capabilities in nuclear safety, science and 
+engineering. SNRSI is a national resource hosted in the National University of 
+Singapore (NUS) that taps into the existing expertise in local research institutions 
+and builds up new capabilities.  SNRSI is led by Professor Lim Hock, currently 
+Director, Research Governan ce and Enablement, Office of Deputy President 
+(Research and Technology) and Professor of Physics, NUS . 
+ 
+6 In 2014 and 2015, Singapore collaborated with the IAEA to implement the 
+following national Technical Cooperation (TC) projects:  
+ 
+a) Strengthening Capacity in Radiation Protection , Environmental Monitoring 
+and Waste  Safety   
+- To support Singapore government agencies in building the 
+necessary expertise in the areas of radiation protection, 
+environmental monitoring and waste safety.  
+ 
+b) Developing a National Medical  Guidance Dose Code of Practice  
+- To develop a national medical guidance dose document with 
+diagnostic reference levels (DRLs) to give guidance on principles,
+
+Page 4 of 15 
+ and to give explanations on the establishment and applications of 
+DRLs.   
+ 
+c) Enhancing Radiation Emer gency Preparedness and Response 
+Capabilities  
+- To enhance the emergency preparedness and response capability 
+of NEA staff through training and developing expertise for 
+environmental and food monitoring, sampling and analysis, which 
+are the key components in responding to a nuclear or radiological 
+emergency.  
+ 
+Playing an active role in global and regional cooperation to improve nuclear safety  
+7 At the 6th Review Meeting of the Convention on Nuclear Safety (CNS) held in 
+Austria, from 24 March to 4 April 2014, Singapore support ed Switzerland ’s proposal 
+to amend the CNS to provide a legally binding obligation for nuclear power plants to 
+be designed and constructed with the objective  of preventing accidents  and 
+mitigating long -term off -site radiological contaminat ion. The Review Meeting agreed 
+with a two -third majority to convene a Diplomatic Conference (DC) in 2015 to discuss 
+the Swiss proposal. At the CNS DC in 2015, Contracting Parties  adopted  the Vienna 
+Declaration on Nuclear Safety  by consensus . Singapore reiterated our call for all  
+CNS  Contracting Parties, in particular those with nuclear installations and those 
+planning to embark on a civilian nuclear programme, to implement the safety 
+objectives contained in the Declaration expeditiously and in good faith.  
+ 
+8 As part of Singapore’s continual efforts in supporting  nuclear safety, 
+Singapore regularly attends the Asia-Europe Meeting (ASEM) Seminar on Nuclear 
+Safety (ASNS) . The ASEM is an annual seminar held to promote greater cooperation 
+and dialogue on nuclear sa fety amongst Southeast Asian nations by drawing upon 
+the knowledge and experience of the European Union, so as to establish a robust 
+global nuclear safety framework. The most recent 4th ASEM was held  in Spain, from 
+29 to 30 Octobe r 201 5 with the theme “Knowledge Management to Enhance Nuclear 
+Safety” .   
+ 
+9 Singapore is also a member of the ASEAN Network of Regulatory Bodies on 
+Atomic Energy (ASEANTOM) established in 2012 . The ASEANTOM is a sectoral 
+body under the ASEAN Political -Security Community, which comprises nuclear 
+regulatory bodies from all ten ASEAN member states . It serves as a platform for 
+cooperation amongst nuclear regulatory bodies within ASEAN in order to enhance 
+regional nuclear safety, security and safeguards, based on the implementa tion 
+of relevant  commitments to the International Atomic Energy Agency’s (IAEA) 
+standards and guidelines  and other multilateral agreements which ASEAN member 
+states are party to . The 3rd ASEANTOM Meeting in 2015 reviewed activities 
+conducted thus far  and d iscussed further activities under the ASEANTOM work plan 
+for 201 6 – 2017. This includes the implementation of the four-year IAEA -
+ASEANTOM regional cooperation project beginning in 2016, to support the 
+development of a  regional environmental radioactivity d atabase and a nuclear 
+emergency preparedness and response  framework in Southe ast Asia .
+
+Page 5 of 15 
+ ARTICLE -BY-ARTICLE REPORT  
+ 
+ 
+Article 4.  Implementing Measures  
+ 
+[Each Contracting Party shall take, within the framework of its national law, the legislative, regulatory  
+and administrative measures and other steps necessary for implementing its obligations under this 
+Convention. ] 
+ 
+10 Singapore became a party to the CNS  on 15 March 1998.  The legislative 
+framework for ensuring radiation safety is well established in Singapore  as reported 
+by the IAEA peer review mission in 2000.  Regulations have been updated to take 
+into account developments , such as the International Commission on Radiological 
+Protection (ICRP) -60 recommendations and the IAEA Basic Safety Standards (BSS). 
+Singapore undertake s to implement the obligations under the Convention through 
+regulatory or administrative means.  
+ 
+ 
+Article 5.  Reporting  
+ 
+[Each Contracting Party shall submit for review, prior to each meeting referred to in Article 20, a report 
+on the measur es it has taken to implement each of the  obligations of this Convention]  
+ 
+11 Submission of this report fulfils the obligation of this Article.  
+ 
+ 
+Article 6.  Existing Nuclear Installations  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that  the safety of nuclear 
+installations existing at the time the Convention enters into force for that Contracting Party is reviewed 
+as soon as possible.  When necessary, in the context of this Convention, the Contracting Party shall 
+ensure that all reasonabl y practicable improvements are made as a matter of urgency to upgrade the 
+safety of the nuclear installation.  If such upgrading cannot be achieved, plans should be implemented 
+to shut down the nuclear installation as soon as po ssible.  The timing of the s hut-down may take into 
+account the whole energy context and possible alternatives as well as the social, en vironmental and 
+economic impact.]  
+ 
+12 Singapore does not have any nuclear installation within its territory  and at 
+present does not have plans to embark  on a nuclear energy programme .   
+ 
+ 
+Article 7.  Legislative and Regulatory Framework  
+ 
+[Each Contracting Party shall establish and maintain the legislative and regulatory framework to 
+govern the sa fety of nuclear installations.  
+ 
+The legislative and regulator y framework shall provide for:  
+ 
+(i) the establishment of applicable national safety requirements and regulations;  
+(ii) a system of licensing with regard to nuclear installations and the prohibition of the operation of 
+a nuclear installation without a license;  
+(iii) a sys tem of regulatory inspection and assessment of nuclear installations to ascertain 
+compliance with applicable regulations and the terms of licenses;
+
+Page 6 of 15 
+ (iv) the enforcement of applicable regulations and of the terms of licenses, including suspension, 
+modification o r revocation. ] 
+ 
+13 In Singapore, t he Radiation Protection Act was first enacted  in 1973 and the 
+Radiation Protection Regulations were gazetted  in 1974.  This Act was revoked in 
+1991 and re -enacted to include the control of non -ionising radiation.  The Radiati on 
+Protection (Non -Ionising Radiation) Regulations were gazetted in 1991.  
+  
+14 The Radiation Protection Regulations 1974 were amended in 2000 to take 
+into consideration the 1990 Recommendations of the ICRP on dose limits for 
+occupationally exposed individuals and members of the public, and the BSS 
+requirements.  The Regulations for the transport of radioactive materials were also 
+amended in 2000, to be in line with the IAEA Safety Standards Series No. ST -1, 
+1996 Edition – Regulations for the Safe Transport of Radioactive Materials.  
+ 
+15 In 2007, the Radiation Protection Act was repealed and re -enacted with 
+amendments to transfer the roles and functions of the Centre for Radiation 
+Protection (CRP), as well as the administration of the Radiation Protection Act, from 
+the Health Sciences Authority (HSA) to the NEA. 
+ 
+16 With the transfer of CRP from HSA to the NEA, a new department, the Centre 
+for Radiation Protection and Nuclear Science (CRPNS) was formed under the NEA 
+for the administration of the Radiation Protection Act.  The Centre is the current 
+national regulatory authority for radiation protection  in Singapore. The CRPNS was 
+renamed the Radiation Protection and Nuclear Science Department  (RPNSD)  in 
+2013.   
+ 
+17 On 22 September 2014, Singapore  deposited its instrument of accession to 
+IAEA’s Convention on the Physical Protection of Nuclear Material (CPPNM) and its 
+instrument of acceptance to the 2005 CPPNM Amendment , and became a party to 
+the CPPNM on 22 October 2014. This complet ed the accession process which was 
+announced by Singapore Prime Minister Lee Hsien Loong at the 3rd Nuclear 
+Security Summit in the Netherlands in March 2014.  The Radiation Protection Act 
+was amended to meet the obligations under the CPPNM and its 2005 Amen dment, 
+such as the criminalising of misconduct pertaining to nuclear material. Amendments 
+to the RPA were passed in the Singapore Parliament in 2014 . Singapore tracks 
+every case of nuclear material (as defined under the CPPNM) transiting through its 
+sea ports.  
+ 
+Nuclear Safety  
+ 
+18 As there are currently no plans for the introduction of nuclear energy in 
+Singapore  in the near future , there is no existing legislative framework on the safety 
+of nuclear power plant installations.
+
+Page 7 of 15 
+ Radiation Protection  
+ 
+19 In Singa pore, t he manufacture, possession, use, dealing in, import and export 
+of radioactive materials and irradiating apparatus  are controlled by the Radiation 
+Protection Act.  Under this Act, there are four sets of Regulations, namely:  
+ 
+a) Radiation Protection (Ionising Radiation) Regulations, Revised edition 
+2001.  
+ 
+b) Radiation Protection (Transport of Radioactive Materials) Regulations, 
+Revised Edition 2001.  
+ 
+c) Radiation Protection (Non -Ionising Radiation) Regulations Revised Edition 
+2001.  
+ 
+d) Radiation Protection ( Exemption for Transit, Transhipment and Carriage of 
+Conveyance Equipment ) Regulations 2014 . 
+ 
+20 The Act defines the appointment  of the Director -General of Environmental 
+Protection ( of the NEA) who is charged with the administration of the Act.  Under the 
+Act, licenses are required for the manufacture, possession,  use, dealing in, import 
+and export of radioactive materials or irradiating apparatus.  A licence is also 
+necessary for the transport of radioactive materials.  
+ 
+21 The Director -General may grant or renew a  licence subject to such conditions, 
+limitations and exceptions as may be specified by him. During the currency of the 
+licence, he may vary, revoke or add any conditions, limitations or exceptions 
+attached to the licence. He may also refuse an application for a licence, suspend the 
+licence for a period of time , or cancel the licence.  
+ 
+Other Relevant Legislation  
+ 
+22 There are no other relevant legislation s specific to nuclear or radiation 
+applications.  
+ 
+Bilateral Agreements  
+ 
+23 Singapore signed a Memorandum of Und erstanding ( MOU ) on the Third 
+Country Training Programme  (TCTP)  with the IAEA in 2000.  The MOU aims to 
+jointly train participants from developing IAEA Member States  in areas such as 
+health, radiation protection, industry and environment.  Under the MOU, Singapore 
+has been providing training for professionals from various countries to help build up 
+their regulatory infrastructure for radiation safety in medical and industrial 
+applications.  
+ 
+24 During his visit to Singapore i n January 2015, IAEA Director -General Yukiya 
+Amano signed  an enhanced  Singapore -IAEA TCTP MOU  with then-Singapore 
+Second  Minister for Foreign Affairs and Second Minister for the Environment and 
+Water Resources, Ms Grace Fu. Under the enhanced  MOU, Singapore  and the IAEA 
+will jointly provide  technical  assistance to developing countries in areas such as
+
+Page 8 of 15 
+ nuclear medicine and nuclear safety. In June 2016, Singapore and the IAEA 
+organise d a Regional Workshop on Nuclear Law under the Singapore -IAEA TCTP, 
+which cov ered various topics including the international nuclear legal framework for 
+nuclear safety . 
+ 
+ 
+Article 8.  Regulatory Body  
+ 
+[ i)  Each Contracting Party shall establish or designate a regulatory body entrusted with the 
+implementation of the legislative and regulatory framework referred to in Article 7, and provided with 
+adequate authority, competence and financial and human resources to fulfil its assigned 
+responsibilities.  
+ 
+ii) Each Contracting Party shall take the appropriate steps to ensure an effective s eparation 
+between the functions of the regulatory body and those of any other body or organisation concerned 
+with the promotion o r utilization of nuclear energy.]  
+ 
+25 Singapore does not have a regulatory body to govern the safety of nuclear 
+installations, as it does not have any nuclear installation within its territory.  
+ 
+26 The NEA RPNSD , under the Ministry of the Environment and Water 
+Resources is the national regulatory authority for radiation protection in  Singapore.  
+The RPNSD  administers the Radiation Prot ection Act and its subsidiary regulations 
+through a system of licensing , notification, authorization, inspection and enforcement 
+on irradiating apparatus and radioactive materials.  
+ 
+27 There is currently no organi sation promoting the use of nuclear power in 
+Singapore . However,  if such an organi sation were to exist  in the future , Singapore 
+will ensure  effective separation between this organisation and the national regulatory 
+authority .  
+ 
+ 
+Article 9.  Responsibility of the License Holder  
+ 
+[Each Contracting Party shall ensure that prime responsibility for the safety of a nuclear installation 
+rests with the holder of the relevant license and shall take the appropriate steps to ensure that each 
+such license holder meets its responsibility. ] 
+ 
+28 There are provisions in the Radiation Protection Act relating to occupational 
+health and safety.  Every licensee shall provide a safe working environment to his 
+employees , as follows : 
+ 
+a) Protect all employees from unnecessary exposure to radiation  
+b) Provide training and supervision for employees so that they can perform their 
+work safely  
+c) Provide employees with radiation monitoring equipment including personal 
+monitoring devices  
+d) Provide all employees with prescribed medical examinations  
+e) Ensure that members of th e public are not exposed to risk to their health due 
+to undertakings or activities of the licensee
+
+Page 9 of 15 
+ Article 10.  Priority to Safety  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that all organisations engaged in 
+activities directly re lated to nuclear installations shall establish policies that give due priority to nuclear 
+safety. ] 
+ 
+29 Regular inspections of radiation facilities are carried out on a risk -based 
+approach to ensure compliance with safety requirements.  Licensees are educated  
+of the need to ensure that radiation safety is maintained as a top priority.  
+ 
+ 
+Article 11.  Financial and Human Resources  
+ 
+[i)  Each Contracting Party shall take the appropriate steps to ensure that adequate financial 
+resources are available to support the  safety of each nuclear installation throughout its life.  
+ 
+ii)  Each Contracting Party shall take the appropriate steps to ensure that sufficient numbers of 
+qualified staff with appropriate education, training and retraining are available for all safety -related 
+activities in or for each nuclear installation, throughout its life. ] 
+ 
+30 Singapore does not have any nuclear installation within its territory.   
+ 
+31 Financial and h uman resources are available to support the safe use of 
+radioactive materials and safe operation of equipment containing radiation sources in 
+the hospitals and industries. All radiation workers  are trained to ensure that they are 
+able to carry out their work safely . 
+ 
+ 
+Article 12.  Human Factors  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that the capabilities and limitations 
+of human performance are taken into account throughout the life of a nuclear installation. ] 
+ 
+32 Singapore does not have any nuclear installation within its territory.   
+ 
+33 For high -risk premises  using ionising radiation , systems of checks are in place 
+to minimise human errors.  Standard operating procedures  are also required to deal 
+with emergencies.  This is established as part of licensing requirements.  
+ 
+ 
+Article 13.  Quality Assurance  
+ 
+[Each Con tracting Party shall take the appropriate steps to ensure that quality assurance programs 
+are established and implemented with a view to providing confidence that specified requirements for 
+all activities important to nuclear safety are satisfied throughou t the life of a nuclear installation. ] 
+ 
+34 Singapore does not have any nuclear installation within its territory.   
+ 
+35 Many facilities with radioactive materials have been ISO -accredited or are in 
+the process of acquiring accreditation.  Licensing requirements and compliance with 
+safety requirements are incorporated as part of their quality assurance program mes.
+
+Page 10 of 15 
+  
+Article 14.  Assessment and Verification of Safety  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that:  
+ 
+i)  comprehensive and systematic safety assessments are carried out before the construction 
+and commissioning of a nuclear installation and throughout its life.  Such assessments shall be well 
+documented, subsequently updated in the light of operating experience and significant  new safety 
+information, and reviewed under the authority of the regulatory body;  
+ 
+ii)  verification by analysis, surveillance, testing and inspection is carried out to ensure that the 
+physical state and the operation of a nuclear installation continue to be in accordance with its design, 
+applicable national safety requirements, and operational limits and conditions. ] 
+ 
+36 Not applicable as Singapore does not have any nuclear installation within its 
+territory  and at present has no plans to embark on a nuclear e nergy programme  in 
+the near future .   
+ 
+ 
+Article 15.  Radiation Protection  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that in all operational states the 
+radiation exposure to the workers and the public caused by a nuclear installatio n shall be kept as low 
+as reasonably achievable and that no individual shall be exposed to radiation doses which exceed 
+prescribed national dose limits. ] 
+ 
+37 Singapore does not have any nuclear installation within its territory.   
+ 
+38 For radioactive materials, under the Radiation Protection (Ionising Radiation) 
+Regulations, the As Low As Reasonably Achievable ( ALARA ) principle as required 
+by the International BSS is being applied . The exposure limits provided in these 
+Regulations are the basis for planning and implementation of all protection measures 
+necessary for the protection of occupationally exposed individuals and members of 
+the general public.  
+ 
+39 The Regulations specify that anyone who is in possession of o r using 
+radiation sources must ensure that radiation work is carried out safely, and not cause 
+any individual to receive a radiation dose more than that is justifiable and not more 
+than the specified annual dose limit.  
+ 
+40 Any occupationally exposed individual who has received a radiation dose in 
+excess of the annual dose limit, shall be suspended from radiation work and sent for 
+a medical examination, including full blood examinations.  An investigation will be 
+made to determine the cause of the exce ssive dose and measures will be taken to 
+ensure that the accident/incident does not happen again.  
+ 
+41 In the Regulations, the effective dose limit average over a defined period of 5 
+years, to the whole body is 20 mSv per year for occupationally exposed indivi duals 
+and 1 mSv per year for members of the public.
+
+Page 11 of 15 
+ 42 Radioactive materials are required to be stored in a safe and secured place.  
+The radiation levels outside the defined area where the radioactive materials are 
+stored must not exceed the limits specified  in the Regulations.  
+ 
+43 Radioactive waste  generated in Singapore originate s mainly from hospitals, 
+education al/research institutions and some commercial companies.   
+ 
+44 Guidelines have been set up for the safe management and disposal  of 
+radioactive wastes . The waste  generated has radionuclides with comparatively short 
+half-lives and low radio activity. According to current national legislation, short lived 
+waste is stored to allow for decay and is subject to authorized discharge/disposal.  
+ 
+45 As a policy, all  disus ed sealed radioactive sources are returned to the country 
+of origin. However, there have been cases where  disused Ra-226 needles and 
+radioactive lightning conductors which were supplied before 1980 could not  be 
+return ed to their country of origin  as the vendors are no longer operating or cannot 
+be identified .  However, quantities of such sources are small and are at present 
+being conditioned and stored safely by the NEA RPN SD.   
+ 
+46 In September and October 2011, the NEA RPNSD collaborated with the IAEA 
+to successfully complete the following TC national projects:  
+ 
+a) Repatriation of a high radioactive Cesium source of about 800 Ci from a 
+disused radiotherapy  irradiating equipment. The source was sent to Germany 
+for recycling.  
+ 
+b) Conditioning of disused  radioactive sources comprising  360 lightning 
+conductors, 200 smoke detectors and 160 check sources . A total of 3,212 
+pieces of radioactive sources (Radium, Americium, Cobalt, and Strontium)  
+with a  total radioactivity of ~570 mCi  were conditioned . 
+ 
+ 
+Article 16. Emergency Preparedness  
+ 
+[ i)  Each Contracting Party shall take the appropriate steps to ensure that there are on -site and 
+off-site emergency plans that are routinely tested for nuclear installations and cover the activities to be 
+carried out in the event of an emergency.  
+ 
+For any new nuclear installation, such plans shall be prepared and tested before it 
+commences operation above a low power level agreed by the regulatory body.  
+ 
+ii)  Each Contracting Party shall take the appropriate steps to ensure t hat, insofar as they are 
+likely to be affected by a radiological emergency, its own population and the competent authorities of 
+the states in the vicinity of the nuclear installation are provided with appropriate information for 
+emergency planning and resp onse.  
+ 
+iii)  Contracting Parties which do not have a nuclear installation on their territory, insofar as they 
+are likely to be affected in the event of a radiological emergency at a nuclear installation in the vicinity, 
+shall take the appropriate steps for  the preparation and testing of emergency plans for their territory 
+that cover the activities to be carried out in the event of such an emergency. ] 
+ 
+47 Although Singapore has no nuclear installation , several countries in our region 
+are embarking on or plannin g for nuclear power programmes. T he Government has
+
+Page 12 of 15 
+ devoted efforts to build capability in nuclear safety , environmental radiation 
+monitoring , and emergency preparedness due to the transboundary nature  of 
+nuclear and radiological emergencies .  
+ 
+48 In 2013, a  Singapore delegation undertook  a scientific visit to Denmark under 
+the NEA -DEMA LOI to learn about environmental radiation monitoring and 
+radiochemistry , including the type of  capabilities required pre -, during and post -
+radiological/nuclear incident.  Following the scientific visit, NEA has devoted efforts to 
+the setting up of a radiochemistry laboratory  and a radiation monitoring network . The 
+radiochemistry laboratory  and monitoring network , when operational  in 2017  and 
+2019 respectively , will establish and monitor baseline background levels of radiation 
+in the environment .  
+ 
+49 On the regional front, the IAEA and ASEANTOM are implementing a four-year 
+Regional Technical Cooperation project, commencing in 2016, to support the 
+development of a regional environmen tal radioactivity database and nuclear 
+emergency preparedness and response framework in South East Asia. In line with 
+the IAEA -ASEANTOM  Regional Technical Cooperation project, the European 
+Commission is also supporting ASEAN member states in developing a Strategy for 
+Regional Cooperation on Radiological and Nuclear Emergency Preparedness and 
+Response and an Action Plan for its Implementation . These two projects are 
+intended to culminate in more harmonized emergency plans and response measures  
+between ASEAN member states, while cooperating  with international  partners in 
+nuclear issues . 
+ 
+50 In March 2011, Singapore developed response plans to respond to the 
+Fukushima Daiichi nuclear power plant accident. These response plans are currently 
+being reviewed to cater for an incident at an external nuclear power plant that may 
+be in the proximity of key areas of interest such as sources of food produce exported 
+to Singapore. The overall national response plan will seek to address trans -boundary 
+implications that may ari se from the radioactive fallout following an incident at an 
+external nuclear power plant, including the movement of contaminated food, cargo 
+and travelers.  
+ 
+51 Singapore also developed an inter -agency emergency plan to deal with 
+radiological incidents  happeni ng within Singapore . The related  agencies involved in 
+the emergency plan are as detailed under ‘ the Organisation Structure’ below.   
+ 
+Organisation Structure  
+ 
+52 Under the inter-agency e mergency plan for radiological incidents , the 
+respective  related agencies  have their own sub -plans for response.  The se 
+operational sub -plans are coordinated by the Incident Manager , the Singapore Civil 
+Defence Force (SCDF) .
+
+Page 14 of 15 
+  
+Long Term Protective Measures  
+a) Medical follow -up of affected persons.  
+b) Continue checks on food and water . 
+ 
+Public Information  
+ 
+56 Information regarding status of emergency to be provided to the media/public 
+will be released by the Ministry of Communication s and Information . 
+ 
+Workshops and Exercises  
+ 
+57 Exercises of the radiological emergency plan are held regularly to ensure 
+effective communication and clear understanding of the individual roles and 
+functions of each responding organisation. Such exercises are found to be beneficial 
+especially  for the training of new staff.  
+ 
+58 In Dec ember  2012, Singapore hosted an IAEA regional workshop on 
+Notification, Reporting and Requesting Assistance. Participants from regional 
+countries took part and shared their national capabilities in emergency preparedness 
+and response.   
+ 
+59 In December 2015 and Feb ruary 2016, Singapore participated in Conv Ex-2c 
+and ConvEx -2a exercises respectively conducted by the IAEA’s Incident and 
+Emergency Centre (IEC). Participation in the ConvEx exercises allowed Singapore 
+to test its emergency response arrangements for a tran snational radiological 
+emergency.  
+ 
+60 In addition , Singapore also participated actively in emergency preparedness 
+and response -related training courses and workshops , such as the Malaysia -
+Thailand  Joint Table Top and Field Exercise on “Detection of Materials Out of 
+Regulatory Control at National Borders”  in August 2015.  
+ 
+ 
+Article 17.  Siting  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that appropriate procedures are 
+established and implemented:  
+ 
+(i) for evaluating all relevant site -related factors likely to affect the safety of a nuclear installation 
+for its projected lifetime;  
+(ii) for evaluating the likely safety impact of a proposed nuclear installation on individuals, society 
+and the environment;  
+(iii) for re -evaluating, as necessary, all relevant factors referred to in sub -paragraphs (i) and (ii) so 
+as to ensure the continued safety acceptability of the nuclear installation;  
+(iv) for consulting Contracting Parties in the vicinity of a proposed nuclear installation, insofar as 
+they are likely to be affec ted by that installation and, upon request providing the necessary 
+information to such Contracting Parties, in order to enable them to evaluate and make their 
+own assessment of the likely safety impact on their own territory of the nuclear installation. ]
+
+Page 15 of 15 
+ 61 Not applicable as Singapore does not have any nuclear installation within its 
+territory  and at present has no plans  to embark on a nuclear energy program me in 
+the near future . 
+ 
+ 
+Article 18.  Design and Construction  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that:  
+ 
+(i) the design and construction of a nuclear installation provides for several reliable levels and 
+methods of protection (defense in depth) against the release of radioactive materials, with a 
+view to preventing the occurrenc e of accidents and to mitigating their radiological 
+consequences should they occur;  
+(ii) the technologies incorporated in the design and construction of a nuclear installation are 
+proven by experience or qualified by testing or analysis;  
+(iii) the design of a nuclear  installation allows for reliable, stable and easily manageable 
+operation, with specific consideration of human factors and the man -machine interface. ] 
+ 
+62 Not applicable as Singapore does not have any nuclear installation within its 
+territory and at present has no plans to embark on a nuclear energy program me in 
+the near future . 
+ 
+ 
+Article 19.  Operation  
+ 
+[Each Contracting Party shall take the appropriate steps to ensure that:  
+ 
+(i) the initial authorisation to operate a nuclear installation is based upon an appropriate safety 
+analysis and a commissioning program demonstrating that the installation, as constructed, is 
+consistent with design and safety requirements;  
+(ii) operational limits and conditions derived from the safety analysis, tests and operational 
+experi ence are defined and revised as necessary for identifying safe boundaries for 
+operation;  
+(iii) operation, maintenance, inspection and testing of a nuclear installation are conducted in 
+accordance with approved procedures;  
+(iv) procedures are established for respondin g to anticipated operational occurrences and to 
+accidents;  
+(v) necessary engineering and technical support in all safety -related fields is available throughout 
+the lifetime of a nuclear installation;  
+(vi) incidents significant to safety are reported in a timely man ner by the holder of the relevant 
+license to the regulatory body;  
+(vii) programs to collect and analyze operating experience are established, the results obtained 
+and the conclusions drawn are acted upon and that existing mechanisms are used to share 
+important e xperience with international bodies and with other operating organisations and 
+regulatory bodies;  
+(viii) the generation of radioactive waste resulting from the operation of a nuclear installation is 
+kept to the minimum practicable for the process concerned, both in activity and in volume, 
+and any necessary treatment and storage of spent fuel and waste directly related to the 
+operation and on the same site as that of the nuclear installation take into consideration 
+conditioning and disposal. ] 
+  
+63 Not applicable as Singapore does not have any nuclear installation within its 
+territory and at present has no plans  to embark on a nuclear energy program me in 
+the near future . 
+ 
+-----------------------------------------------------
+
