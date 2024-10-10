@@ -309,7 +309,11 @@ def main():
         color_map = {
             'Solar': 'blue',      # Use blue for Solar
             'Nuclear': 'red'      # Use red for Nuclear
-            # Add more colors if needed for other energy types
+        }
+
+        color_map_second = {
+            'Solar': 'green',      # Use blue for Solar
+            'Nuclear': 'yellow'      # Use red for Nuclear
         }
 
         combined_sentiment_data = []
@@ -345,7 +349,7 @@ def main():
             x="Country",
             y="Subjectivity",
             color="Energy Type",
-            color_discrete_map=color_map, 
+            color_discrete_map=color_map_second, 
             barmode="group",
             title="Sentiment Subjectivity by Country and Energy Type",
             labels={"Subjectivity": "Subjectivity"}
