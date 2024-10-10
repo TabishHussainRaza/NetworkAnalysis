@@ -1,5 +1,6 @@
 import subprocess
 import sys
+import spacy
 
 # List of libraries to install
 libraries = [
@@ -11,12 +12,23 @@ libraries = [
     "streamlit",
     "pandas",
     "textblob",
-    "matplotlib"
+    "matplotlib",
+    "wordcloud"  # Uncomment if needed
 ]
 
 def install(package):
+    """Install a package using pip."""
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
+def download_spacy_model(model_name):
+    """Download the specified spaCy model if not installed."""
+    try:
+        spacy.load(model_name)  # Try loading the model
+    except OSError:
+        print(f"{model_name} model not found. Downloading...")
+        subprocess.check_call([sys.executable, "-m", "spacy", "download", model_name])
+
+# Install libraries
 for library in libraries:
     try:
         __import__(library)
@@ -26,9 +38,9 @@ for library in libraries:
     else:
         print(f"{library} is already installed.")
 
-
-python -m spacy download en_core_web_sm
-
+# Download the spaCy model
+model_name = "en_core_web_sm"  # Specify the model name
+download_spacy_model(model_name)
 
 import plotly.graph_objects as go
 import numpy as np
