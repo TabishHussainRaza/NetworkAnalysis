@@ -13,24 +13,6 @@ import plotly.express as px
 from io import BytesIO
 import os
 import matplotlib.pyplot as plt
-import subprocess
-import sys
-
-# Function to download the spaCy model
-def download_spacy_model(model_name):
-    """Download the specified spaCy model if not installed."""
-    try:
-        spacy.load(model_name)  # Try loading the model
-    except OSError:
-        st.write(f"{model_name} model not found. Downloading...")
-        # Install the model using subprocess
-        subprocess.check_call([sys.executable, "-m", "spacy", "download", model_name])
-
-# Model name
-model_name = "en_core_web_sm"
-
-# Download the spaCy model
-download_spacy_model(model_name)
 
 dirname = os.path.dirname(__file__)
 
