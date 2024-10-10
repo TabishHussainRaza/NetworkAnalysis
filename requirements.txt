@@ -7,3 +7,4 @@ streamlit==1.39.0
 pandas==2.2.3
 textblob==0.18.0.post0
 matplotlib==3.9.2
+./en_core_web_sm-2.2.5.tar.gz
