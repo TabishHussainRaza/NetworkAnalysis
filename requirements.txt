@@ -1,6 +1,7 @@
 plotly==5.24.1
 numpy
-spacy==3.8.2 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.2/en_core_web_sm-3.8.2.tar.gz
+spacy==3.8.2 
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.2/en_core_web_sm-3.8.2.tar.gz
 networkx==3.2.1
 pyvis==0.3.2
 streamlit==1.39.0
