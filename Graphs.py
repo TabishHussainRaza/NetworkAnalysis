@@ -1,4 +1,31 @@
-pip install plotly numpy spacy networkx pyvis streamlit pandas textblob matplotlib
+import subprocess
+import sys
+
+# List of libraries to install
+libraries = [
+    "plotly",
+    "numpy",
+    "spacy",
+    "networkx",
+    "pyvis",
+    "streamlit",
+    "pandas",
+    "textblob",
+    "matplotlib"
+]
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+for library in libraries:
+    try:
+        __import__(library)
+    except ImportError:
+        print(f"{library} not found. Installing...")
+        install(library)
+    else:
+        print(f"{library} is already installed.")
+
 
 python -m spacy download en_core_web_sm
 
