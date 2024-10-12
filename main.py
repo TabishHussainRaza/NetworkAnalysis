@@ -68,7 +68,7 @@ def extract_entities(text):
 
     return extracted_entities
 
-# Step 3: Extract relationships between entities based on proximity and assign weights
+# Step 3: Extract relationships between entities based on frequency-based approach and assign weights.
 def extract_relationships(entities):
     relationships = defaultdict(int)  # Using defaultdict to count co-occurrences
 
