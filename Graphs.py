@@ -1,3 +1,6 @@
+# Group - G11
+# Necessary Imports
+
 import plotly.graph_objects as go
 import numpy as np
 import spacy
@@ -9,7 +12,6 @@ import streamlit as st
 import pandas as pd
 from textblob import TextBlob
 import plotly.express as px
-# from wordcloud import WordCloud
 from io import BytesIO
 import os
 import matplotlib.pyplot as plt
@@ -299,21 +301,20 @@ def main():
     # Tabs for different research questions
     tabs = st.tabs(["Research Question 1", "Research Question 2", "Research Question 3"])
 
-    # Research Question 1 - Electricity Production
+    # Research Question 1
     with tabs[0]:
         st.header("How does public sentiment towards renewable energy vary across Australia, France, and Singapore, and what insights can be drawn regarding public support for renewable energy initiatives?")
 
         col1, col2 = st.columns(2)
 
-        # Initialize combined sentiment data
         color_map = {
-            'Solar': 'lightblue',      # Use blue for Solar
-            'Nuclear': '#9467bd'      # Use red for Nuclear
+            'Solar': 'lightblue',     
+            'Nuclear': '#9467bd'     
         }
 
         color_map_second = {
-            'Solar': 'lightgreen',      # Use blue for Solar
-            'Nuclear': 'brown'      # Use red for Nuclear
+            'Solar': 'lightgreen',     
+            'Nuclear': 'brown'     
         }
 
         combined_sentiment_data = []
@@ -365,7 +366,7 @@ def main():
             st.plotly_chart(fig_combined_subjectivity)
             st.plotly_chart(line_chart, use_container_width=True)
 
-    # Research Question 2 - Stakeholder Influence
+    # Research Question 2 
     with tabs[2]:
         st.header(
             "Who are the central stakeholders and what are the primary energy types influencing the national energy policies of Australia, France, and Singapore?")
@@ -430,7 +431,7 @@ def main():
             html_content = visualize_interactive_graph(G_filtered, selected_country.lower(), degree_centrality, betweenness_centrality)
             st.components.v1.html(html_content, height=1000)
 
-    # Research Question 3 - Additional Analysis
+    # Research Question 3 
     with tabs[1]:
         st.header(
             "How are the different energy sources progressed/regressed in the different regions and what can we predict about the key sources (Solar and Nuclear) in the coming years?")
@@ -438,7 +439,6 @@ def main():
         # Create two columns for side-by-side charts
         col1, col2 = st.columns(2)
 
-        # First column for the electricity production line chart
         with col1:
             st.subheader("Past Production by Country and Source")
             country = st.selectbox("Select Country", selected_countries, index=0)
@@ -472,7 +472,6 @@ def main():
 
             st.plotly_chart(fig)
 
-        # Second column for the forecast production chart
         with col2:
             st.subheader("Forecast Production by Country and Source")
 
@@ -494,7 +493,6 @@ def main():
                 name=f'{forecast_country} - {forecast_source} (Historical)'
             ))
 
-            # Add forecasted data line (if it exists)
             if 'Forecast' in forecast_data.columns:
                 forecast_fig.add_trace(go.Scatter(
                     x=forecast_data['Year'],
@@ -504,7 +502,6 @@ def main():
                     line=dict(dash='dash')
                 ))
 
-            # Update layout for the forecast chart
             forecast_fig.update_layout(
                 title=f'Production and Forecast for {forecast_country} - {forecast_source}',
                 xaxis_title='Year',
@@ -515,27 +512,6 @@ def main():
             )
 
             st.plotly_chart(forecast_fig)
-
-    # with tabs[3]:
-    #     st.subheader("Policy Documents Common Terms")
-    #     # Create three columns for side-by-side layout
-    #     col4, col5, col6 = st.columns(3)
-    #
-    #     # Read and combine texts for each country and generate word clouds
-    #     countries = {
-    #         "Australia": (Australia_Policy, col4),
-    #         "France": (France_Policy, col5),
-    #         "Singapore": (Singapore_Policy, col6)
-    #     }
-    #
-    #     for country, (files, column) in countries.items():
-    #         combined_text = read_and_combine_files(files)
-    #         wordcloud_image = create_wordcloud_image(combined_text)
-    #
-    #         # Display the word cloud image in the respective column
-    #         with column:
-    #             st.image(wordcloud_image, caption=f'{country} Policy Word Cloud', use_column_width=True)
-
 
 if __name__ == "__main__":
     main()
