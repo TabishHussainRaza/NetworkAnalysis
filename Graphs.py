@@ -15,6 +15,9 @@ import plotly.express as px
 from io import BytesIO
 import os
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+from collections import defaultdict
+import plotly.graph_objects as go
 
 dirname = os.path.dirname(__file__)
 
@@ -299,7 +302,7 @@ def main():
     st.title("Network Analysis Dashboard")
 
     # Tabs for different research questions
-    tabs = st.tabs(["Research Question 1", "Research Question 2", "Research Question 3"])
+    tabs = st.tabs(["Research Question 1", "Research Question 2", "Research Question 3", "Research Question 4"])
 
     # Research Question 1
     with tabs[0]:
@@ -308,13 +311,13 @@ def main():
         col1, col2 = st.columns(2)
 
         color_map = {
-            'Solar': 'lightblue',     
-            'Nuclear': '#9467bd'     
+            'Solar': 'lightblue',
+            'Nuclear': '#9467bd'
         }
 
         color_map_second = {
-            'Solar': 'lightgreen',     
-            'Nuclear': 'brown'     
+            'Solar': 'lightgreen',
+            'Nuclear': 'brown'
         }
 
         combined_sentiment_data = []
@@ -366,7 +369,7 @@ def main():
             st.plotly_chart(fig_combined_subjectivity)
             st.plotly_chart(line_chart, use_container_width=True)
 
-    # Research Question 2 
+    # Research Question 2
     with tabs[2]:
         st.header(
             "Who are the central stakeholders and what are the primary energy types influencing the national energy policies of Australia, France, and Singapore?")
@@ -431,7 +434,7 @@ def main():
             html_content = visualize_interactive_graph(G_filtered, selected_country.lower(), degree_centrality, betweenness_centrality)
             st.components.v1.html(html_content, height=1000)
 
-    # Research Question 3 
+    # Research Question 3
     with tabs[1]:
         st.header(
             "How are the different energy sources progressed/regressed in the different regions and what can we predict about the key sources (Solar and Nuclear) in the coming years?")
@@ -512,6 +515,96 @@ def main():
             )
 
             st.plotly_chart(forecast_fig)
+    with tabs[3]:
+        st.subheader("Which energy policies are more prominent or influential in each country?")
+
+        # Initialize a nested dictionary to store the count of policy mentions by country and policy type.
+        policy_mentions = defaultdict(lambda: defaultdict(int))
+
+        # Define a list of energy policies to search for within the documents.
+        policies = [
+            "nuclear", "solar", "natural gas", "hydrogen", "oil",
+            "wind", "biomass", "hydro", "hydrogen"
+        ]
+
+        # Dictionary to hold the policy documents for each country
+        policy_docs = {
+            'Australia': Australia_Policy,
+            'France': France_Policy,
+            'Singapore': Singapore_Policy
+        }
+
+        # Create three columns for side-by-side layout
+        col4, col5, col6 = st.columns(3)
+
+        # Read and combine texts for each country and generate word clouds
+        countries = {
+            "Australia": (Australia_Policy, col4),
+            "France": (France_Policy, col5),
+            "Singapore": (Singapore_Policy, col6)
+        }
+
+        for country, (files, column) in countries.items():
+            combined_text = read_and_combine_files(files)
+            wordcloud_image = create_wordcloud_image(combined_text)
+
+            # Display the word cloud image in the respective column
+            with column:
+                st.image(wordcloud_image, caption=f'{country} Policy Word Cloud', use_column_width=True)
+
+        # Iterate over each country and its associated policy documents.
+        for country, files in policy_docs.items():
+            combined_text = ""
+
+            # Read and combine the contents of each policy document for the relevant country.
+            for file in files:
+                with open(file, 'r', encoding='utf-8') as f:
+                    combined_text += f.read()
+
+            # Process the combined text using the spaCy NLP model.
+            doc = nlp(combined_text)
+
+            # Search for mentions of each policy term in the combined text.
+            for policy in policies:
+                count = combined_text.lower().count(policy.lower())  # Case-insensitive counting
+                policy_mentions[country][policy] += count  # Store the count in the dictionary.
+
+        # Prepare the data for the radar plot by organizing it into a list of dictionaries.
+        radar_data = []
+        for country, mentions in policy_mentions.items():
+            data_row = {'Country': country}  # Initialize a row with the country name.
+            for policy in policies:
+                data_row[policy] = mentions.get(policy, 0)  # Store the count of each policy mention.
+            radar_data.append(data_row)  # Add the row to the radar data.
+
+        # Convert the radar data into a DataFrame for easier plotting.
+        df_radar = pd.DataFrame(radar_data)
+
+        # Create the radar plot using Plotly.
+        fig = go.Figure()
+
+        # Add a trace to the radar plot for each country.
+        for i in range(len(df_radar)):
+            fig.add_trace(go.Scatterpolar(
+                r=df_radar.iloc[i, 1:],  # Select all columns except the 'Country' column.
+                theta=df_radar.columns[1:],  # Use the policy names as the angular coordinates (theta).
+                fill='toself',  # Fill the area inside the trace.
+                name=df_radar['Country'][i]  # Use the country name as the trace label.
+            ))
+
+        # Customize the layout of the radar plot.
+        fig.update_layout(
+            polar=dict(
+                radialaxis=dict(
+                    visible=True,  # Show the radial axis.
+                    range=[0, df_radar.drop(columns='Country').max().max()]  # Set the range based on the max value.
+                )
+            ),
+            showlegend=True,  # Display the legend.
+            title='Energy Policy Influence Across Countries (Radar Plot)'  # Set the plot title.
+        )
+
+        st.plotly_chart(fig)
 
 if __name__ == "__main__":
     main()
