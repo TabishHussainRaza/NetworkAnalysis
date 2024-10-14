@@ -1,0 +1,510 @@
+ii Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Division 4—Creation of renewable energy certificates 27
+Subdivision AA—Preliminary 27
+17B Overview of Division........................................................................ 27
+Subdivision A—Large-scale generation certificates for accredited 
+power stations 28
+17C Large-scale generation certificates ................................................... 28
+18 Creating certificates for additional renewable electricity................. 28
+19 When certificates may be created ..................................................... 29
+20 Electricity generation return ............................................................. 29
+20A Amending electricity generation returns........................................... 30
+Subdivision B—Small-scale technology certificates for solar water 
+heaters 30
+20B Small-scale technology certificates .................................................. 30
+21 When a certificate may be created.................................................... 30
+22 How many certificates may be created............................................. 31
+23 Who may create a certificate ............................................................ 31
+23AA Register of solar water heaters.......................................................... 32
+Subdivision BA—Small-scale technology certificates for small 
+generation units 32
+23AB Small-scale technology certificates .................................................. 32
+23A When a certificate may be created.................................................... 32
+23AAA Regulations to establish scheme for inspection of new 
+installations of small generation units .............................................. 33
+23B How many certificates may be created............................................. 34
+23C Who may create a certificate ............................................................ 36
+23D No other certificates to be created .................................................... 37
+23E Election to not create certificates under this Subdivision................. 37
+Subdivision BB—Solar water heater and small generation unit 
+return 38
+23F Solar water heater and small generation unit return ......................... 38
+Subdivision C—Improper creation of certificates 39
+24 Improper creation of certificates—offences ..................................... 39
+24A Improper creation of certificates—civil penalty............................... 40
+24B False etc. information resulting in improper creation of 
+certificates under Subdivision B or BA—civil penalty .................... 40
+Division 5—Form and registration of certificates 42
+25 Form and content of large-scale generation certificates ................... 42
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 1  Preliminary
+  
+Section 5
+10 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024renewable energy shortfall statement means a large-scale 
+generation shortfall statement or a small-scale technology shortfall 
+statement.
+renewable power percentage means the percentage prescribed 
+under section 39.
+required GWh of renewable source electricity has the meaning 
+given by section 40.
+required large-scale renewable energy has the meaning given by 
+section 38.
+required surrender amount has the meaning given by 
+section 38AE.
+second quarter has the meaning given by section 38AA.
+senior employee, in relation to an authorised Commonwealth 
+contractor, means an employee of the contractor, where the skills 
+and responsibilities that are expected of the employee are 
+equivalent to, or exceed, the skills and responsibilities expected of 
+at least one of the senior officers of the Regulator.
+senior officer of the Regulator means a person who:
+(a) is a member of the staff of the Regulator; and
+(b) either:
+(i) is an SES employee or acting SES employee; or
+(ii) holds or performs the duties of an Executive Level 2 
+position or an equivalent position.
+small generation unit means a device that generates electricity that 
+is specified by the regulations to be a small generation unit.
+small-scale technology certificate means a certificate created 
+under Subdivision B or BA of Division 4 of Part 2 or under 
+section 30P.
+Note 1: Certificates created under Subdivision B or BA of Division 4 of Part 2 
+relate to the installation of solar water heaters and small generation 
+units.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Preliminary  Part 1
+  
+Section 5
+Renewable Energy (Electricity) Act 2000 11
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Note 2: Certificates created under section 30P are created by the Regulator for 
+purchase through the clearing house.
+small-scale technology percentage has the meaning given by 
+section 40A.
+small-scale technology shortfall has the meaning given by 
+section 38AD.
+small-scale technology shortfall charge has the meaning given by 
+section 38AB.
+small-scale technology shortfall statement has the meaning given 
+by section 46.
+solar water heater means a device that heats water using solar 
+energy that satisfies any conditions set out in the regulations.
+staff of the Regulator has the same meaning as in the Clean 
+Energy Regulator Act 2011.
+stakeholder, in relation to an accredited power station, means:
+(a) a person who operates the power station (whether alone or 
+together with one or more other persons); or
+(b) a person who owns all, or a part, of the power station 
+(whether alone or together with one or more other persons).
+surrendered amount has the meaning given by section 38AE.
+surrender instrument has the meaning given by subsection 45(1).
+surrender period has the meaning given by section 38AA.
+taxable supply has the same meaning as in the A New Tax System 
+(Goods and Services Tax) Act 1999 (including as provided by 
+section 177-1 of that Act).
+Note: Section 177-1 of the A New Tax System (Goods and Services Tax) Act 
+1999 provides for the Commonwealth’s notional liability to pay GST.
+third quarter has the meaning given by section 38AA.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Renewable energy certificates  Part 2
+Preliminary  Division 1
+Section 8
+Renewable Energy (Electricity) Act 2000 13
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Part 2—Renewable energy certificates
+Division 1—Preliminary
+8  Overview of Part
+This Part provides for the creation, trading and extinguishing of 
+renewable energy certificates.
+There are 2 types of renewable energy certificates:
+(a) large-scale generation certificates, which are 
+created in relation to the generation of electricity 
+by accredited power stations; and
+(b) small-scale technology certificates, which are 
+created in relation to the installation of solar water 
+heaters and small generation units.
+The certificates are used to avoid or reduce the amount of 
+renewable energy shortfall charge that liable entities who acquire 
+electricity have to pay. The liable entities will generally acquire the 
+certificates by purchasing them.
+The certificates are created by people who generate power from 
+accredited power stations using eligible energy sources where the 
+amount generated exceeds the relevant 1997 eligible renewable 
+power base line. The certificates are also created for approved 
+installations of solar water heaters or small generation units.
+A person needs to be registered under Division 2 before they can 
+create a certificate.
+Division 2A provides for provisional accreditation of power 
+stations.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 2  Renewable energy certificates
+Division 3  Accreditation of eligible power stations
+Section 16
+24 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/202416  Regulator to allocate identification codes
+If the Regulator approves an application, the Regulator must 
+allocate the power station a unique identification code and advise 
+the applicant of the code.
+17  What is an eligible renewable energy source?
+(1) The following energy sources are eligible renewable energy 
+sources:
+(a) hydro;
+(b) wave;
+(c) tide;
+(d) ocean;
+(e) wind;
+(f) solar;
+(g) geothermal-aquifer;
+(h) hot dry rock;
+(i) energy crops;
+(j) wood waste;
+(k) agricultural waste;
+(l) waste from processing of agricultural products;
+(m) food waste;
+(n) food processing waste;
+(o) bagasse;
+(p) black liquor;
+(q) biomass-based components of municipal solid waste;
+(r) landfill gas;
+(s) sewage gas and biomass-based components of sewage;
+(t) any other energy source prescribed by the regulations.
+(2) Despite subsection (1), the following energy sources are not 
+eligible renewable energy sources:
+(a) fossil fuels;
+(b) materials or waste products derived from fossil fuels.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Renewable energy certificates  Part 2
+Creation of renewable energy certificates  Division 4
+Section 17B
+Renewable Energy (Electricity) Act 2000 27
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Division 4—Creation of renewable energy certificates
+Subdivision AA—Preliminary
+17B  Overview of Division
+This Division deals with the creation of certificates, known as 
+renewable energy certificates.
+There are 2 types of renewable energy certificates:
+(a) large-scale generation certificates, which are 
+created in relation to the generation of electricity 
+by accredited power stations (see Subdivision A); 
+and
+(b) small-scale technology certificates, which are 
+created in relation to the installation of solar water 
+heaters and small generation units (see 
+Subdivisions B and BA).
+Small-scale technology certificates can also be created by the 
+Regulator under Part 2A (clearing house for small-scale technology 
+certificates).
+Subdivision BB requires people who create certificates under 
+Subdivision B or BA to submit returns relating to the creation of 
+the certificates.
+Subdivision C contains offence and civil penalty provisions 
+relating to the improper creation of certificates.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 2  Renewable energy certificates
+Division 4  Creation of renewable energy certificates
+Section 20A
+30 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/202420A  Amending electricity generation returns
+(1) The Regulator may amend an electricity generation return if the 
+nominated person for the accredited power station concerned 
+requests, in writing, an amendment within 12 months of the return 
+being given.
+(2) The Regulator may also amend an electricity generation return on 
+his or her own initiative if the amendment is made within 4 years 
+of the return being given.
+(3) If the Regulator refuses to amend an electricity generation return 
+upon a request by a nominated person for an accredited power 
+station, the Regulator must notify the person accordingly.
+Subdivision B—Small-scale technology certificates for solar 
+water heaters
+20B  Small-scale technology certificates
+Certificates created under this Subdivision are small-scale 
+technology certificates.
+21  When a certificate may be created
+(1) If a solar water heater is installed on or after 1 April 2001, 
+certificates may be created after the heater is installed.
+Note: For offences and civil penalties related to the creation of certificates, 
+see Subdivision C.
+(1A) The regulations:
+(a) may provide that certificates cannot be created in relation to a 
+solar water heater unless particular conditions are satisfied in 
+relation to the solar water heater or its installation; and
+(b) without limiting paragraph (a), may:
+(i) require information or documents to be given to the 
+Regulator in relation to a solar water heater or its 
+installation; and
+Authorised Version C2024C00104 registered 02/04/2024
+
+Renewable energy certificates  Part 2
+Creation of renewable energy certificates  Division 4
+Section 22
+Renewable Energy (Electricity) Act 2000 31
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024(ii) provide that information or documents required to be 
+given to the Regulator must be verified by statutory 
+declaration.
+(2) The certificates may only be created within 12 months after the 
+installation of the solar water heater.
+(3) The regulations may make provision in relation to the time at 
+which a solar water heater is taken to have been installed.
+(4) If a solar water heater is an air source heat pump water heater, 
+certificates may only be created for the installation of such an air 
+source heat pump water heater if it has a volumetric capacity of not 
+more than 425 litres.
+22  How many certificates may be created
+(1) The number of certificates (each representing 1 MWh) that may be 
+created for a particular installation of a solar water heater is to be 
+determined in accordance with the regulations.
+(2) Without limiting subsection (1), regulations made for the purpose 
+of that subsection may:
+(a) provide for the Regulator to determine the number of 
+certificates that may be created for a particular installation of 
+a solar water heater; and
+(b) prescribe requirements to be complied with in relation to the 
+making of such a determination, which may include a 
+requirement that a determination is to be made in accordance 
+with a legislative instrument made by the Regulator; and
+(c) prescribe other matters relating to such a determination or 
+legislative instrument.
+23  Who may create a certificate
+(1) The owner of the solar water heater at the time that it is installed is 
+entitled to create the certificate or certificates that relate to the solar 
+water heater.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 2  Renewable energy certificates
+Division 4  Creation of renewable energy certificates
+Section 23AA
+32 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024(2) However, the owner may, by written notice, assign the right to 
+create the certificate or certificates to another person. If the owner 
+does this, the owner is not entitled to create the certificate or 
+certificates but the person to whom the right was assigned is 
+entitled to create the certificate or certificates.
+(3) Despite subsections (1) and (2), a person who is not registered may 
+not create a certificate that relates to the solar water heater.
+23AA  Register of solar water heaters
+The regulations may make provision for and in relation to the 
+Regulator keeping a Register of solar water heaters.
+Subdivision BA—Small-scale technology certificates for small 
+generation units
+23AB  Small-scale technology certificates
+Certificates created under this Subdivision are small-scale 
+technology certificates.
+23A  When a certificate may be created
+(1) If a small generation unit is installed on or after 1 April 2001, 
+certificates may be created after the small generation unit is 
+installed.
+Note: For offences and civil penalties related to the creation of certificates, 
+see Subdivision C.
+(1A) The regulations:
+(a) may provide that certificates cannot be created in relation to a 
+small generation unit unless particular conditions are 
+satisfied in relation to the small generation unit or its 
+installation; and
+(b) without limiting paragraph (a), may:
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 2  Renewable energy certificates
+Division 4  Creation of renewable energy certificates
+Section 23F
+38 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Note: A person may be able to create certificates under Subdivision A that 
+relate to the unit.
+Election cannot be altered
+(4) An election must not be varied or revoked.
+Definition
+(5) In this section:
+qualifying small generation unit means a small generation unit of 
+a kind prescribed by the regulations for the purposes of this 
+section.
+Subdivision BB—Solar water heater and small generation unit 
+return
+23F  Solar water heater and small generation unit return
+(1) If the sum of the number of certificates created by a person during 
+a year under Subdivisions B and BA exceeds 250, the person must 
+give a return for the year to the Regulator on or before:
+(a) 14 February in the following year; or
+(b) any later day allowed by the Regulator.
+(2) The return must include details of:
+(a) the number of certificates the person created under each of 
+those Subdivisions during the year; and
+(b) the number of certificates the person is entitled to create 
+under Subdivision B because of rights assigned to the person 
+under subsection 23(2) during the year; and
+(c) the number of certificates the person is entitled to create 
+under Subdivision BA because of rights assigned to the 
+person under subsection 23C(2) during the year; and
+(d) any other information specified by the regulations.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 2  Renewable energy certificates
+Division 4  Creation of renewable energy certificates
+Section 24A
+40 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/202424A  Improper creation of certificates—civil penalty
+(1) A person must not create a certificate if the person is not entitled to 
+create the certificate.
+Ancillary contraventions
+(2) A person must not:
+(a) aid, abet, counsel or procure a contravention of 
+subsection (1); or
+(b) induce, whether by threats or promises or otherwise, a 
+contravention of subsection (1); or
+(c) be in any way, directly or indirectly, knowingly concerned in, 
+or party to, a contravention of subsection (1); or
+(d) conspire with others to effect a contravention of 
+subsection (1).
+Civil penalty provisions
+(3) Subsections (1) and (2) are civil penalty provisions.
+Note: Division 1 of Part 15A provides for pecuniary penalties for breaches 
+of civil penalty provisions.
+24B  False etc. information resulting in improper creation of 
+certificates under Subdivision B or BA—civil penalty
+(1) A person (the first person) contravenes this subsection if:
+(a) the person provides information to another person (the 
+second person) in relation to, or in relation to the installation 
+of, a solar water heater or a small generation unit; and
+(b) the information:
+(i) is false or misleading in a material particular; or
+(ii) omits a matter or thing without which the information is 
+misleading in a material particular; and
+(c) the second person relies on the information to create 
+certificates under Subdivision B or BA in relation to the solar 
+water heater or small generation unit; and
+Authorised Version C2024C00104 registered 02/04/2024
+
+Renewable energy certificates  Part 2
+Creation of renewable energy certificates  Division 4
+Section 24B
+Renewable Energy (Electricity) Act 2000 41
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024(d) it could reasonably be expected that the second person would 
+so rely on the information; and
+(e) the second person’s reliance on the information results in the 
+second person creating certificates under that Subdivision, in 
+relation to the solar water heater or small generation unit, that 
+the second person is not entitled to create.
+Ancillary contraventions
+(2) A person must not:
+(a) aid, abet, counsel or procure a contravention of 
+subsection (1); or
+(b) induce, whether by threats or promises or otherwise, a 
+contravention of subsection (1); or
+(c) be in any way, directly or indirectly, knowingly concerned in, 
+or party to, a contravention of subsection (1); or
+(d) conspire with others to effect a contravention of 
+subsection (1).
+Civil penalty provisions
+(3) Subsections (1) and (2) are civil penalty provisions.
+Note: Division 1 of Part 15A provides for pecuniary penalties for breaches 
+of civil penalty provisions.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Renewable energy certificates  Part 2
+Form and registration of certificates  Division 5
+Section 26
+Renewable Energy (Electricity) Act 2000 43
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024(c) a number in an unbroken sequence that is used for all 
+certificates created in respect of the solar water heater or 
+small generation unit concerned in that year and that starts at 
+one and has increments of one; and
+(d) the electronic signature of the registered person who created 
+the certificate; and
+(e) the date on which the solar water heater or small generation 
+unit concerned was installed; and
+(f) a statement that the certificate was created in relation to a 
+solar water heater, or that it was created in relation to a small 
+generation unit (as appropriate); and
+(g) the date on which the certificate was created.
+(3) This section does not apply in relation to a small-scale technology 
+certificate created by the Regulator under section 30P.
+26  Certificates must be registered
+(1) A certificate is not valid until it has been registered by the 
+Regulator.
+(2) The Regulator must be advised of the creation of a certificate by 
+electronic transmission in the manner determined, in writing, by 
+the Regulator.
+(3) When the Regulator is notified that a certificate has been created, 
+the Regulator must determine whether the certificate is eligible for 
+registration.
+(3AA) In determining whether a certificate is eligible for registration, the 
+Regulator must have regard to any relevant:
+(a) conclusions; or
+(b) recommendations; or
+(c) other material;
+set out in a report of an inspection carried out in accordance with 
+regulations made under subsection 23AAA(1).
+Note: Subsection 23AAA(1) deals with the inspection of the installation of 
+small generation units.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Clearing house for small-scale technology certificates  Part 2A
+Purchase of certificates through the clearing house  Division 4
+Section 30LA
+Renewable Energy (Electricity) Act 2000 61
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Division 4—Purchase of certificates through the clearing 
+house
+30LA  Clearing house price etc.
+(1) The clearing house price is:
+(a) subject to paragraph (b)—$40; or
+(b) if the Minister, by legislative instrument, specifies a lesser 
+amount as being the clearing house price for the purpose of 
+this subsection—the amount so specified.
+(2) The GST inclusive clearing house price is the amount equal to 
+110% of the clearing house price.
+(3) Before making an instrument under paragraph (1)(b), the Minister:
+(a) must take into consideration:
+(i) whether the total value, in MWh, of small-scale 
+technology certificates created in 2015 exceeded or is 
+expected to exceed 6,000,000; and
+(ii) any changes to the costs of small generation units and 
+solar water heaters; and
+(iii) the extent to which owners of small generation units and 
+solar water heaters contribute to the costs of small 
+generation units and solar water heaters; and
+(iv) the impact of the clearing house price, and the number 
+of small generation units and solar water heaters 
+installed, on the electricity market, including on 
+electricity prices; and
+(b) may take into consideration any other matters that the 
+Minister considers relevant.
+(4) If the Minister is considering a matter mentioned in 
+paragraph (3)(a), the Minister must obtain, and take into 
+consideration, independent advice about that matter.
+Authorised Version C2024C00104 registered 02/04/2024
+
+Part 13  Registers
+Division 4A  The register of small-scale technology certificates
+Section 141AA
+178 Renewable Energy (Electricity) Act 2000
+Compilation No. 30 Compilation date: 20/03/2024 Registered: 02/04/2024Division 4A—The register of small-scale technology 
+certificates
+141AA  Contents of register of small-scale technology certificates
+The register of small-scale technology certificates is to contain:
+(a) the unique identification code of each valid small-scale 
+technology certificate; and
+(b) the year in which the certificate was created; and
+(c) if the certificate was created otherwise than by the Regulator 
+under section 30P:
+(i) the name of the person who created the certificate; and
+(ii) a statement that the certificate was created in relation to 
+a solar water heater other than an air source heat pump 
+water heater, or that it was created in relation to an air 
+source heat pump water heater, or that it was created in 
+relation to a small generation unit (as appropriate); and
+(d) if the certificate was created by the Regulator under 
+section 30P—a statement to that effect; and
+(e) the name of the current registered owner, and each previous 
+registered owner, of each certificate; and
+(f) any other information that the Regulator considers 
+appropriate.
+141AB  Form of register
+(1) The register must be maintained by electronic means.
+(2) The register is to be made available for inspection on the internet.
+(3) The Regulator must ensure that the register is kept up-to-date.
+Authorised Version C2024C00104 registered 02/04/2024
+
